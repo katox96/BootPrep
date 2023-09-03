@@ -20,7 +20,7 @@ The UPSC Practice Questions App is a web-based platform that leverages AI techno
 
 ## Features
 
-- **AI-Generated Questions:** The application uses advanced AI algorithms to generate a wide range of practice questions covering diverse topics.
+- **AI-Generated Questions:** The application uses AI to generate a wide range of practice questions covering diverse topics.
 
 - **User-Friendly Interface:** The intuitive and easy-to-navigate interface ensures a seamless user experience.
 
