@@ -1,4 +1,4 @@
-# UPSC Practice Questions App
+# BootPrep - UPSC Practice Questions App
 
 Welcome to the UPSC Practice Questions App! This application is designed to assist UPSC (Union Public Service Commission) aspirants in their preparation by providing a platform for practicing questions generated using Artificial Intelligence (AI).
 
