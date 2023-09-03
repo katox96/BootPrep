@@ -1,0 +1,602 @@
+[
+    {
+        "questionId": 1,
+        "questionType": "MCQ",
+        "answer": "D) Open Ocean",
+        "explanation": "The answer is Open Ocean because it is not a freshwater ecosystem. The other options, Pound, Lake, and Wetland, are all freshwater ecosystems."
+    },
+    {
+        "questionId": 2,
+        "questionType": "MCQ",
+        "answer": "D) Winds",
+        "explanation": "The answer is Winds because it is not considered an ecosystem service. Climate control, recreational benefits, and food are all examples of ecosystem services."
+    },
+    {
+        "questionId": 3,
+        "questionType": "MCQ",
+        "answer": "A) 25 cm",
+        "explanation": "The answer is 25 cm because desert ecosystems are characterized by annual rainfall of less than 25 cm. They are characterized by extreme temperatures, low precipitation, and sparse vegetationDespite the harsh conditions, deserts are home to a variety of plants and animals that are adapted to the arid environment"
+    },
+    {
+        "questionId": 4,
+        "questionType": "MCQ",
+        "answer": "A) Yasuni tropical rainforest",
+        "explanation": "The answer is Yasuni tropical rainforest because it is reputed to be the world's most biologically diverse place. Yasuni tropical rainforest in Ecuador is reputed to be the world's most biologically diverse place. Yasuni National Park is part of the Yasuni Biosphere Reserve, which is a UNESCO World Heritage Site and one of the last continuous tracts of virgin tropical forest in eastern Ecuador."
+    },
+    {
+        "questionId": 5,
+        "questionType": "MCQ",
+        "answer": "C) 350",
+        "explanation": "The answer is 350 because India is home to approximately 350 mammalian species. India ranks 10th in the richness of plants and mammals."
+    },
+    {
+        "questionId": 6,
+        "questionType": "MCQ",
+        "answer": "A) Brazil > Indonesia > Colombia > China ",
+        "explanation": "The answer is Brazil > Indonesia > Colombia > China because according to the Global Biodiversity Index by The Swiftest, Brazil is the world's most biodiverse country, followed by Indonesia, Colombia, China."
+    },
+    {
+        "questionId": 7,
+        "questionType": "MCQ",
+        "answer": "D) Socio-cultural practices",
+        "explanation": "Socio-cultural practices, including traditions, customs, and behaviors, are not a direct factor threatening the extinction of several species in India. While factors like population explosion, climate change, and laxity in environment policy implementation contribute to species extinction, socio-cultural practices themselves do not pose a direct threat. Some cultural practices may indirectly impact the environment through unsustainable activities, but these can be addressed through education, awareness, and promoting sustainable alternatives. Overall, socio-cultural practices are not inherently responsible for species extinction in India."
+    },
+    {
+        "questionId": 8,
+        "questionType": "MCQ",
+        "answer": "B) 2 Degree Celsius",
+        "explanation": "According to the Paris agreement on climate change, the rise in the average temperature of Earth's surface above pre-industrial levels should be limited to B) 2 Degree Celsius. The Paris Agreement is a legally binding international treaty on climate change, adopted by 196 Parties at the 21st Conference of the Parties of the United Nations Framework Convention on Climate Change (UNFCCC) in Paris on December 12, 2015. Its goal is to limit global warming to well below 2 degrees Celsius above pre-industrial levels and to pursue efforts to limit the temperature increase to 1.5 degrees Celsius above pre-industrial levels. The agreement aims to strengthen the ability of countries to deal with the impacts of climate change and to support them in their efforts to transition to low-carbon, climate-resilient economies. The agreement also requires countries to regularly report on their emissions and their efforts to reduce them."
+    },
+    {
+        "questionId": 9,
+        "questionType": "MCQ",
+        "answer": "A) United Nation Framework on Climate Change",
+        "explanation": "The acronym UNFCCC represents A) United Nation Framework on Climate Change. The United Nations Framework Convention on Climate Change (UNFCCC) is an international environmental treaty that was adopted in 1992 with the ultimate aim of preventing dangerous human interference with the climate system. The UNFCCC sets out the basic legal framework and principles for international climate change cooperation with the aim of stabilizing atmospheric concentrations of greenhouse gases (GHGs) to avoid \u201cdangerous anthropogenic interference with the climate system.\u201d The Paris Agreement, adopted in 2015, is a legally binding international treaty on climate change that builds on the UNFCCC. Its goal is to limit global warming to well below 2 degrees Celsius above pre-industrial levels and to pursue efforts to limit the temperature increase to 1.5 degrees Celsius above pre-industrial levels. The agreement aims to strengthen the ability of countries to deal with the impacts of climate change and to support them in their efforts to transition to low-carbon, climate-resilient economies."
+    },
+    {
+        "questionId": 10,
+        "questionType": "MCQ",
+        "answer": "A) 350 GW",
+        "explanation": "The measures undertaken by the Government of India have a target of electric power generation by renewable energy (by the year 2030) of A) 350 GW. The Government of India has set an ambitious target of achieving 175 GW of renewable energy capacity by 2022, which was further increased to 450 GW by 2030. Out of this, 350 GW is expected to come from solar, wind, and biomass power, and 100 GW from hydropower. The government has also launched several initiatives to promote the use of renewable energy, such as the National Solar Mission, the National Wind Mission, and the National Bio-Energy Mission. The government has also introduced several policies and incentives to encourage investment in renewable energy, such as tax exemptions, subsidies, and feed-in tariffs."
+    },
+    {
+        "questionId": 11,
+        "questionType": "MCQ",
+        "answer": "B) Weight change but mass remains the same",
+        "explanation": "The answer is Weight change but mass remains the same because when a body is taken from the earth to the moon, the mass of the body remains the same, but the weight changes. The weight of an object is the force with which it is attracted towards the center of the earth due to gravity, while mass is the amount of matter present in the object. Since the moon has less gravity than the earth, the weight of the body on the moon is less than its weight on the earth. However, the mass of the body remains the same, no matter where it is in the universe."
+    },
+    {
+        "questionId": 12,
+        "questionType": "MCQ",
+        "answer": "B) Sound",
+        "explanation": "Decibel is used to measure the intensity field of B) Sound. The decibel (dB) is a unit used to express the ratio of two values of a physical quantity, usually power or intensity. In acoustics, the decibel is used to quantify sound pressure levels that are perceived by the human ear. Sound pressure level (SPL) is the measure of the sound pressure relative to a reference value. The reference value is usually taken as the threshold of hearing, which is the sound pressure level of a sound wave with a frequency of 1,000 Hz and an amplitude of 20 micropascals. The decibel scale is logarithmic, which means that a change of 10 dB represents a tenfold increase or decrease in sound pressure level. For example, a sound that is 10 times more intense than another sound has a sound pressure level that is 10 dB higher. The decibel scale is used to measure the intensity of sound in a variety of settings, including music, industry, and medicine."
+    },
+    {
+        "questionId": 13,
+        "questionType": "MCQ",
+        "answer": "C) Coconut oil",
+        "explanation": "The vegetable oil that does not contain essential fatty acids is \"C) Coconut oil\". Essential fatty acids (EFAs) are fatty acids that cannot be synthesized by the body and must be obtained from the diet. The two main types of EFAs are omega-3 fatty acids and omega-6 fatty acids. Vegetable oils are a major dietary source of EFAs, particularly omega-6 fatty acids. Sunflower oil, mustard oil, and groundnut oil are rich sources of essential fatty acids, particularly linoleic acid. Coconut oil, on the other hand, is a saturated fat and does not contain significant amounts of essential fatty acids."
+    },
+    {
+        "questionId": 14,
+        "questionType": "MCQ",
+        "answer": "C) Hydrogen",
+        "explanation": "The fuel that causes minimum environmental pollution is \"C) Hydrogen\". Hydrogen is a clean-burning fuel that produces only water vapor and heat when it is burned. It does not produce any harmful pollutants such as carbon monoxide, particulate matter, or sulfur dioxide. Hydrogen can be produced from a variety of sources, including water, natural gas, coal, and biomass. When produced from renewable sources such as wind or solar power, hydrogen can be a completely emissions-free fuel. Hydrogen fuel cells are also highly efficient, with a conversion efficiency of up to 60%, compared to the 25% efficiency of internal combustion engines. Hydrogen is being increasingly used as a fuel in transportation, power generation, and industrial processes"
+    },
+    {
+        "questionId": 15,
+        "questionType": "MCQ",
+        "answer": "B) Water",
+        "explanation": "Vegetables are easily perishable because of their high content of \"B) Water\". Vegetables are composed of a high percentage of water, which makes them highly perishable. When vegetables are harvested, they begin to lose moisture, which can lead to wilting, spoilage, and decay. The high water content of vegetables also makes them susceptible to bacterial growth, which can cause foodborne illness. To prevent spoilage and extend the shelf life of vegetables, they should be stored properly, such as in a cool, dry place or in the refrigerator. Some vegetables can also be preserved by canning, freezing, or drying."
+    },
+    {
+        "questionId": 16,
+        "questionType": "MCQ",
+        "answer": "A) Water, NaCl",
+        "explanation": "Sweat mainly serves to eliminate \"A) Water\", NaCl. Sweat is produced by sweat glands in the skin and is composed mainly of water and sodium chloride (NaCl), also known as salt. The primary function of sweat is to regulate body temperature by cooling the skin through evaporation. When the body gets too hot, the sweat glands produce sweat, which is released onto the skin's surface. As the sweat evaporates, it cools the skin, helping to regulate body temperature. Sweat also helps to eliminate excess salt and other minerals from the body. However, sweat does not contain significant amounts of other substances such as dirt, serum, or enzymes."
+    },
+    {
+        "questionId": 17,
+        "questionType": "MCQ",
+        "answer": "A) Feed",
+        "explanation": "In a poultry unit, the factor most influencing the cost is the cost of \"A) Feed\". Feed represents the major cost of poultry production, constituting up to 70 percent of the total cost. Poultry feed can vary depending on the bird\u2019s genetic strain and age and the surrounding environmental conditions, but most poultry feeds include grain, protein supplements, vitamin supplements, mineral supplements, and other preventative feed additives. The cost of feed depends on the cost of the ingredients, which can vary depending on supply and demand, weather, freight, and the quality of national crops. Therefore, the cost of feed is the most significant factor that influences the cost of poultry production."
+    },
+    {
+        "questionId": 18,
+        "questionType": "MCQ",
+        "answer": "B) Silkworm",
+        "explanation": "Bombyx mori is a \"B) Silkworm\". Bombyx mori is a species of moth that is best known for its silk production. The silkworm is the larva of the Bombyx mori moth and is hatched from eggs laid by the female moth. The silkworm feeds on the leaves of the mulberry tree and spins a cocoon made of silk fibers. The silk fibers are harvested from the cocoon and used to make silk fabric. Bombyx mori is the most widely used species of silkworm for silk production due to its large size, high silk yield, and ease of rearing."
+    },
+    {
+        "questionId": 19,
+        "questionType": "MCQ",
+        "answer": "B) Fungal fermentation of rice is used for the preparation of alcoholic drinks",
+        "explanation": "The correct statement is \"B) Fungal fermentation of rice is used for the preparation of alcoholic drinks\". Fungal fermentation of rice is used for the preparation of alcoholic drinks such as sake, a traditional Japanese rice wine. The process involves the use of a specific type of fungus called koji, which is added to steamed rice to initiate the fermentation process. The koji fungus breaks down the starch in the rice into simple sugars, which are then fermented by yeast to produce alcohol. Wheat bran is not rich in carbohydrates, but rather in fiber. Rice does not have antibiotic properties, but rather contains a variety of vitamins and minerals. Wheat contains carbohydrates, but not to the extent of 80-85%."
+    },
+    {
+        "questionId": 20,
+        "questionType": "MCQ",
+        "answer": "A) Elevation of boiling point of water by application of pressure",
+        "explanation": "A pressure cooker works on the principle of \"A) Elevation of boiling point of water by application of pressure\". A pressure cooker is a sealed pot that uses steam pressure to cook food quickly. When water is heated in a pressure cooker, it produces steam, which increases the pressure inside the pot. The increased pressure raises the boiling point of water, allowing the food to cook at a higher temperature than it would in a regular pot. This results in faster cooking times and more tender food. The elevated pressure also helps to retain the nutrients and flavors of the food. The principle of a pressure cooker is based on the physical properties of water and the relationship between pressure and boiling point."
+    },
+    {
+        "questionId": 21,
+        "questionType": "MCQ",
+        "answer": "C) Exogamous marriages",
+        "explanation": "\"C) Exogamous marriages\", which refer to marriages outside one's own caste, are not a feature of the caste system. The caste system is characterized by a hierarchical social structure, hereditary occupation, and strict social boundaries. Accountability, although not a core feature, can be considered as a societal expectation within the caste system."
+    },
+    {
+        "questionId": 22,
+        "questionType": "MCQ",
+        "answer": "C) BIMARU States",
+        "explanation": "Ashish Bose is well known for his concept of \"C) BIMARU States\". BIMARU is an acronym that represents the states of Bihar, Madhya Pradesh, Rajasthan, and Uttar Pradesh in India. Bose used this term to highlight the economic and development challenges faced by these states, characterized by high population density, low per capita income, poor infrastructure, and lagging socio-economic indicators. The concept brought attention to the need for targeted development interventions and policy reforms in these states to address the existing disparities and promote inclusive growth."
+    },
+    {
+        "questionId": 23,
+        "questionType": "MCQ",
+        "answer": "B) Uttar Pradesh",
+        "explanation": "The state of India that was the first to pass the Jamindari Abolition Act is \"B) Uttar Pradesh\". The Zamindari Abolition Act was passed in 1950 and aimed to abolish the zamindari system, which was a feudal land tenure system that was prevalent in India. The act aimed to transfer ownership of land from landlords to tenants and to provide security of tenure to tenants. Uttar Pradesh was the first state to pass the Zamindari Abolition Act, followed by other states such as Bihar, West Bengal, and Odisha. The act was a significant step towards land reform in India and aimed to reduce economic inequality and social injustice."
+    },
+    {
+        "questionId": 24,
+        "questionType": "MCQ",
+        "answer": "D) 2005",
+        "explanation": "The Protection of Women from Domestic Violence Act was passed in 2005. The Act was enacted to address the issue of domestic violence against women and provide legal protection and remedies for victims. It recognizes various forms of domestic violence, including physical, sexual, emotional, verbal, and economic abuse. The Act aims to provide women with a safer environment, access to legal recourse, and support services. It outlines provisions for obtaining protection orders, counseling, and assistance for victims. This legislation marks an important step in recognizing and addressing the pervasive issue of domestic violence and safeguarding the rights of women."
+    },
+    {
+        "questionId": 25,
+        "questionType": "MCQ",
+        "answer": "D) Level of Urbanization",
+        "explanation": "The indicator of the Human Development Index that is not \"D) Level of Urbanization\". The Human Development Index (HDI) is a composite index that measures the average achievements of a country in three dimensions of human development: a long and healthy life, access to knowledge, and a decent standard of living. The three indicators used to calculate the HDI are life expectancy at birth, education (measured by mean years of schooling and expected years of schooling), and gross national income per capita. The HDI is used to rank countries based on their level of human development and to monitor progress over time. The level of urbanization is not an indicator of the HDI."
+    },
+    {
+        "questionId": 26,
+        "questionType": "MCQ",
+        "answer": "B) Beas",
+        "explanation": "The tributaries Phojal, Sarwati, and Hansa streams are all tributaries of the Beas River. The Beas River is a major river in northern India, flowing through the states of Himachal Pradesh and Punjab. These tributaries join the Beas River at different points along its course, contributing to its overall water flow and drainage. The Beas River, along with its tributaries, plays a crucial role in the irrigation and agricultural activities of the region, as well as providing water for various other purposes."
+    },
+    {
+        "questionId": 27,
+        "questionType": "MCQ",
+        "answer": "A) Pagoda",
+        "explanation": "The archaeological style of Adi Brahama temple Khokhan is \"A) Pagoda\". The Adi Brahama temple is located in the village of Khokhan in the Una district of Himachal Pradesh, India. The temple is dedicated to Lord Brahma and is believed to have been built during the 9th century AD. The temple is built in the pagoda style of architecture, which is characterized by multiple tiers of roofs that curve upwards towards a central point. The pagoda style of architecture is commonly found in East Asia and is often associated with Buddhist and Hindu temples."
+    },
+    {
+        "questionId": 28,
+        "questionType": "MCQ",
+        "answer": "C) Kinnaur",
+        "explanation": "The Bonangchyu dance is a traditional dance form associated with the Kinnaur region of Himachal Pradesh. It is performed during special occasions and festivals, showcasing the rich cultural heritage of the region. The dance is characterized by graceful movements, rhythmic footwork, and vibrant traditional costumes. It often involves a group of dancers forming a circle or a line while performing synchronized steps and gestures. The Bonangchyu dance holds significant cultural and social importance in preserving the traditional art forms of Kinnaur and promoting cultural identity."
+    },
+    {
+        "questionId": 29,
+        "questionType": "MCQ",
+        "answer": "B) Shimla",
+        "explanation": "According to the 2011 census, the district of H.P that has the highest number of urban households is \"B) Shimla\". The 2011 census of India is the 15th census of India and was conducted in two phases: the house listing phase and the population enumeration phase. The census provides data on various demographic and socio-economic indicators, including the number of households in urban and rural areas. According to the 2011 census, Shimla district had the highest number of urban households in Himachal Pradesh, followed by Solan and Kangra districts."
+    },
+    {
+        "questionId": 30,
+        "questionType": "MCQ",
+        "answer": "C) Manik Chand",
+        "explanation": "The court poet of Raja Dharam Chand of Kangra who wrote Dharam Chand Natak around 1562 AD is \"C) Manik Chand\". Dharam Chand Natak is a play that was written by Manik Chand, the court poet of Raja Dharam Chand of Kangra. The play is based on the life of Dharam Chand, who was a king of Kangra in the 16th century. The play is written in the Braj language and is considered a masterpiece of medieval Indian literature. The play is known for its lyrical language, vivid imagery, and portrayal of the social and cultural life of the Kangra region."
+    },
+    {
+        "questionId": 31,
+        "questionType": "MCQ",
+        "answer": "A) Kangra",
+        "explanation": "Zorawar Singh, General of Raja Gulab Singh who invaded Ladakh and Baltistan during 1834-41, belonged to the princely state of Kangra. Kangra district is the most populous district of Himachal Pradesh and had a population of 1,510,075 according to the 2011 census."
+    },
+    {
+        "questionId": 32,
+        "questionType": "MCQ",
+        "answer": "C) Seventeenth century",
+        "explanation": "The Chandrahabhaga Valley, previously held as a Jagir (feudal estate) by families of Tibetan origin, came under the sway of Kullu in the seventeenth century. This marked a significant historical event where the control and administration of the valley shifted to the Kullu rulers. The valley, located in the present-day Himachal Pradesh region, became a part of the Kullu kingdom during this period. This transition likely involved political negotiations, alliances, or conflicts that led to Kullu's dominance over the Chandrahabhaga Valley."
+    },
+    {
+        "questionId": 33,
+        "questionType": "MCQ",
+        "answer": "B) Siba",
+        "explanation": "The territory of the princely state of Siba was divided between two cousins/scions Vijay Singh and Ram Singh during the nineteenth century. Siba was a princely state in the region that is now part of the Indian state of Himachal Pradesh. The state was founded in the seventeenth century and was ruled by the Rajput Siba Dynasty."
+    },
+    {
+        "questionId": 34,
+        "questionType": "MCQ",
+        "answer": "A) 1870 AD",
+        "explanation": "Captain RC Lee set up an apple orchard in the Kullu area around 1870 AD according to some sources. However, according to other sources, he established the orchard in 1860. Captain RC Lee was a British army officer who is credited with introducing apple farming to the Kullu valley. Kullu is a district in the state of Himachal Pradesh and is known for its scenic beauty and cultural heritage. The district has a population of 437,474 according to the 2011 census."
+    },
+    {
+        "questionId": 35,
+        "questionType": "MCQ",
+        "answer": "A) Udit Prakesh",
+        "explanation": "Malhi Parkash ruled the state from 1108 AD to 1117 AD. He was a man of deep religious and charitable disposition. He fought battle with the Raja of Sirinagar of Garhwal and wrested from him the fort of Malda. His descendant Udit Parkash ruled from 1121 to 1127 AD who changed his capital from Rajban to Kalsi in Dehra Dun otherwise his period was not much eventful."
+    },
+    {
+        "questionId": 36,
+        "questionType": "MCQ",
+        "answer": "D) Kehri Singh",
+        "explanation": "Kehri Singh got the Hangrang Valley as a jagir from Tibet. He had retreated the territory of Tibet to the present limits by a treaty. Raja Ram Singh (1767 AD 1799) \u2013 Raja Ram Singh, in 1776, subdued the fort of Dhankar of Spiti. Raja Ram Singh shifted the capital of Bushahr princely state from Sarahan to Rampur."
+    },
+    {
+        "questionId": 37,
+        "questionType": "MCQ",
+        "answer": "B) 1923",
+        "explanation": "Russian painter Nicholas Roerich visited Naggar in Kullu District for the first time around 1923. Kullu is a district in the state of Himachal Pradesh and is known for its scenic beauty and cultural heritage"
+    },
+    {
+        "questionId": 38,
+        "questionType": "MCQ",
+        "answer": "C) Prithi Pal",
+        "explanation": "Raja Prithi Pal of Bangahal princely state was a contemporary of Mahatma Gandhi. Bangahal was a princely state in the region that is now part of the Indian state of Himachal Pradesh. The state was founded in the seventeenth century and was ruled by the Rajput Bangahal Dynasty"
+    },
+    {
+        "questionId": 39,
+        "questionType": "MCQ",
+        "answer": "A) Ravi",
+        "explanation": "The Ravi River is a transboundary river crossing northwestern India and eastern Pakistan. It is one of six rivers of the Indus System in Punjab region (Punjab means \"Five Rivers\"). The waters of the Ravi are allocated to India under the Indus Water Treaty."
+    },
+    {
+        "questionId": 40,
+        "questionType": "MCQ",
+        "answer": "D) Jesus and Mary",
+        "explanation": "Amrita Shergil joined Jesus and Mary School in Shimla around 1924-25. Amrita Shergil was an Indian painter of Hungarian-Indian origin. She is considered one of the most important women painters of 20th century India"
+    },
+    {
+        "questionId": 41,
+        "questionType": "MCQ",
+        "answer": "D) All of the Above",
+        "explanation": "Fish farms are located in various places in Kullu district of Himachal Pradesh, including Patil Kuhl, Moheli, and Nagini. "
+    },
+    {
+        "questionId": 42,
+        "questionType": "MCQ",
+        "answer": "C) NABARD",
+        "explanation": "The bank collaborating with the Himachal Pradesh government in implementing the Doodh Ganga Yojna is NABARD (National Bank for Agriculture and Rural Development). NABARD is an apex development bank in India that focuses on financing and promoting agriculture and rural development projects. The Doodh Ganga Yojna is a scheme aimed at promoting dairy farming and milk production in the state of Himachal Pradesh. NABARD's collaboration with the state government in implementing this scheme indicates their support in providing financial assistance, technical expertise, and guidance to promote the dairy sector and improve the livelihoods of farmers involved in dairy farming."
+    },
+    {
+        "questionId": 43,
+        "questionType": "MCQ",
+        "answer": "B) M/s Orange Business services",
+        "explanation": "M/s Orange Business Services was appointed as HIMSWAN Operator for a period of 3 Years to manage to NOC from 01.09.2014 to 31.08.2017. \u2022 M/s KPMG was appointed as HIMSWAN Third Party Auditor (TPA) for a period of 3 Years for monitoring the Service Levels of HIMSWAN Operator. TPA started services from 18.07.2014 to 17.07.2017. \u2022 Tenders have been floated for selection of new HIMSWAN Operator and TPA and alternate Band Width Provider."
+    },
+    {
+        "questionId": 44,
+        "questionType": "MCQ",
+        "answer": "D) Pandit Sukh Ram",
+        "explanation": "Himachal Vikas Congress, was a regional political party in Himachal Pradesh, India. HVC was formed when Sukh Ram split from the Indian National Congress. HVC merged with Congress in 2004."
+    },
+    {
+        "questionId": 45,
+        "questionType": "MCQ",
+        "answer": "C) Chamba and Sirmour",
+        "explanation": "The two districts of Himachal Pradesh covered under the Backward Region Grant Fund (BRGF) of the Ministry of Panchayati Raj, Government of India are Sirmour and Chamba."
+    },
+    {
+        "questionId": 46,
+        "questionType": "MCQ",
+        "answer": "B) Sanjay Rajput",
+        "explanation": "Sanjeev Rajput, a rifle shooter, secured India's 12th Olympic quota berth for shooting for the Rio Games by finishing fourth in the men's 50m rifle three-position event at the Asian Shooting Championship held in New Delhi in 2016"
+    },
+    {
+        "questionId": 47,
+        "questionType": "MCQ",
+        "answer": "B) Sanjay Mishra",
+        "explanation": "Sanjay Mishra has been appointed as the Lokayukta of Uttar Pradesh. The Lokayukta is an anti-corruption ombudsman who is responsible for investigating and addressing complaints of corruption against public officials. Sanjay Mishra is a former judge of the Allahabad High Court and has also served as the chairman of the Uttar Pradesh Human Rights Commission."
+    },
+    {
+        "questionId": 48,
+        "questionType": "MCQ",
+        "answer": "B) Gujarat",
+        "explanation": "Gujarat will get the first ever solar-stellar observatory, which will be set up by the Indian Institute of Astrophysics (IIA) in collaboration with the state government. The observatory will be located at the Devasthal site in the Himalayas and will have a 3.6-metre optical telescope and a 2-metre infrared telescope. The observatory will be used for studying the sun, stars, and galaxies, and will also have a facility for solar physics research."
+    },
+    {
+        "questionId": 49,
+        "questionType": "MCQ",
+        "answer": "C) 26th November, 1949",
+        "explanation": "The answer to the question \"India celebrated its first constitution Day on:\" is \"C) 26th November, 1949\". The Constitution of India was adopted by the Constituent Assembly on 26th November 1949, and it came into effect on 26th January 1950. The Constitution is the supreme law of India, and it lays down the framework for the governance of the country. In 2015, the Government of India declared 26th November as Constitution Day to commemorate the adoption of the Constitution."
+    },
+    {
+        "questionId": 50,
+        "questionType": "MCQ",
+        "answer": "A) Nagaland",
+        "explanation": "\"A) Nagaland\". The Hornbill Festival is a cultural festival held annually in Nagaland to promote the state's rich cultural heritage and to showcase the diversity of its tribes. The festival is named after the Indian hornbill, which is revered by the Naga tribes. The festival is a celebration of the state's unity in diversity and is attended by people from all over the world."
+    },
+    {
+        "questionId": 51,
+        "questionType": "statements",
+        "answer": "D) All of the above are correct",
+        "explanation": "IRNSS-1E is India's fifth navigational satellite, launched from the PSLV-C31 rocket successfully at the Satish Dhawan Space Centre in Sriharikota. It is part of the Indian Regional Navigation Satellite System (IRNSS), an independent regional satellite system designed to provide precise positioning and timing information. IRNSS-1E operates in the Indian region and extends coverage up to 1500 km around the Indian mainland. It plays a crucial role in enhancing navigation and positioning capabilities for various applications, including transportation, disaster management, and location-based services. By providing reliable and accurate information, IRNSS-1E contributes to the advancement of navigation technology in India and promotes self-reliance in the field of space technology."
+    },
+    {
+        "questionId": 52,
+        "questionType": "statements",
+        "answer": "D) None of the above",
+        "explanation": "The Pradhan Mantri Fasal Bima Yojana is a crop insurance scheme launched by the Government of India to provide insurance coverage and financial support to farmers in case of crop failure. The correct statements regarding the scheme are:\n1. For annual commercial and horticultural crops, the premium to be paid by farmers will be only 5%\n2. There will be a uniform premium of only 2% to be paid by farmers for all Kharif crops\n3. For Rabi crops, premium to be paid by farmers is 1.5%\nTherefore, all the statements are correct, and the answer is D) None of the above."
+    },
+    {
+        "questionId": 53,
+        "questionType": "statements",
+        "answer": "C) (1), (2), (3), (4), (5) and (6)",
+        "explanation": "The National Air Quality Index (AQI) measures air quality by considering multiple pollutants, including ammonia, nitrogen dioxide, sulphur dioxide, carbon dioxide, ozone, and lead. These pollutants are known to have significant impacts on air quality and human health. By monitoring and reporting the levels of these pollutants, the AQI provides an overall assessment of air quality and helps individuals and authorities make informed decisions to mitigate air pollution. Therefore, option C) (1), (2), (3), (4), (5), and (6) is the correct answer as it includes all the pollutants considered in the National AQI."
+    },
+    {
+        "questionId": 54,
+        "questionType": "statements",
+        "answer": "B) 2. only (1)",
+        "explanation": "The Deen Dayal Upadhyaya Gram Jyoti Yojana is a Government of India scheme that focuses on the electrification of rural areas. The correct statement regarding the scheme is: 1. Feeder separation (rural households and agricultural) 2. Electrification of rural and urban areas 3. Nationalization of power distribution companies in rural areas 4. Uninterrupted power supply to industries in rural areas Therefore, the answer is B) 2. only (1)."
+    },
+    {
+        "questionId": 55,
+        "questionType": "statements",
+        "answer": "A) 1. only (1)",
+        "explanation": "Avinash Dixit awards was awarded Padma Vibhushan in 2016. The Padma Vibhushan is the second-highest civilian award of the Republic of India, after the Bharat Ratna. Instituted on 2 January 1954, the award is given for \"exceptional and distinguished service\". All persons without distinction of race, occupation, position or sex are eligible for these awards."
+    },
+    {
+        "questionId": 56,
+        "questionType": "statements",
+        "answer": "A) 1. Marlon James ",
+        "explanation": "\"1. Marlon James\". Marlon James, a Jamaican author, won the Man Booker Prize in 2015 for his novel \"A Brief History of Seven Killings\". The Man Booker Prize is a prestigious literary award given annually to the best original novel written in the English language and published in the UK."
+    },
+    {
+        "questionId": 57,
+        "questionType": "statements",
+        "answer": "D) All of the above are correct ",
+        "explanation": "The International Solar Alliance (ISA) is a treaty-based intergovernmental organization that aims to promote solar energy use and reduce dependence on fossil fuels. The correct statements regarding the ISA are:\n1. Indian Prime Minister Narender Modi and French President Francois Hollande have jointly laid the foundation stone of the ISA Headquarters 2. The interim Secretariat of the ISA is located in Gurgaon, India 3. ISA has 121 member countries\nTherefore, the answer is D) All of the above are correct."
+    },
+    {
+        "questionId": 58,
+        "questionType": "statements",
+        "answer": "B) 2. only (1) and (3)",
+        "explanation": "According to the given statements, statement 1 is true as the Corruption Perception Index (CPI), 2015 was released by the Berlin-based corruption watchdog Transparency International. However, statement 2 is false as there is no mention of India's rank in the CPI 2015. Statement 3 is true as Denmark, Finland, and Sweden are indeed among the top-ranked countries in the CPI. Therefore, only statements 1 and 3 are correct. Thank you for pointing out the mistake."
+    },
+    {
+        "questionId": 59,
+        "questionType": "MCQ",
+        "answer": "A) The virus was first isolated in April 1947 in Brazil",
+        "explanation": "The incorrect statement regarding the Zika virus is option A) 'The virus was first isolated in April 1947 in Brazil'. The correct statement is that the virus was first isolated in April 1947 in Uganda, not Brazil. Zika virus was first identified in monkeys in the Zika Forest of Uganda during a study on yellow fever transmission. The virus was later identified in humans in 1952. It is important to note that while Brazil played a significant role in the 2015-2016 Zika outbreak, the initial isolation of the virus did not occur in Brazil."
+    },
+    {
+        "questionId": 60,
+        "questionType": "statements",
+        "answer": "A) 1. only (1) and (2)",
+        "explanation": "The correct answer is option A) 1. only (1) and (2). Statement 1 is correct that a total of 31 Organisation for Economic Co-operation and Development (OECD) members agreed to sign the Corporate Tax Avoidance deal. Statement 2 is also correct that the deal aims to make it harder for firms to hide money in tax havens or play one country's tax authorities against another. However, statement 3 is incorrect. France is among the 31 members who agreed to sign the deal. Therefore, the correct answer is option A) 1. only (1) and (2)."
+    },
+    {
+        "questionId": 61,
+        "questionType": "MCQ",
+        "answer": "C) The Harappan seals mention its relations with them.",
+        "explanation": "The statement that is incorrect about the Harappa's contacts with its contemporary civilizations is \"C) The Harappan seals mention its relations with them.\" While Harappan seals and jewelry have been found at archaeological sites in regions of Mesopotamia, which includes most of modern-day Iraq, Kuwait, and parts of Syria, there is no evidence that Harappan seals mention its relations with them. The term Melukha used in Mesopotamian tablets perhaps refers to Sindhu, which is now known as the Indus Valley. The Harappan seals have similarities with the seals of other contemporary civilizations. The Mesopotamians called cotton by the name of Sindhu, which is now known as India."
+    },
+    {
+        "questionId": 62,
+        "questionType": "MCQ",
+        "answer": "A) Pushyagupta",
+        "explanation": "Sudarshana lake in the Saurashtra region was built by Pushyagupta, the governor of Chandragupta Maurya. Therefore, the answer is A) Pushyagupta."
+    },
+    {
+        "questionId": 63,
+        "questionType": "MCQ",
+        "answer": "C) Mahanavami",
+        "explanation": "The most famous festival in the Vijayanagar empire was the Mahanavami festival, which was celebrated for nine days in the month of September. The festival was celebrated with great fervor and fanfare, and it was the largest festival in the Vijayanagar calendar. The festival celebrated the victory of Goddess Durga or Chamundi over the shapeshifting demon Mahishasura. The goddess took nine forms on nine days to defeat the demon, and on the 10th day, Vijaya Dashami was celebrated. The celebrations took different forms in different parts of India. In the southern city of Mysore, there was a grand procession with incredible tableaus and decorated elephants. By making the capital epicenter of Mahanavami celebrations in the world, the rulers of Vijayanagara proclaimed to be the protectors of all that is good in the world."
+    },
+    {
+        "questionId": 64,
+        "questionType": "MCQ",
+        "answer": "A) Tukaram",
+        "explanation": "The Bhakti poet of Maharashtra who conveyed his teachings through the numerous Abhangas was Tukaram. Tukaram was a seventeenth-century poet who lived in the town of Dehu, which is located near Pune. He was a popular poet and a leading figure in the Varkari Movement of the time, which sought to put devotion to God and loving service to mankind over the performance of religious rites and ceremonies. Tukaram composed his devotional poetry called Abhangas in Marathi, which is a format of devotional poetry sung in praise of the Hindu god Vitthal, also known as Vithoba. The word \"abhang\" comes from a for \"non-\" and bhanga for \"ending\" or \"interrupting\", in other words, a flawless, continuous process, in this case referring to a poem."
+    },
+    {
+        "questionId": 65,
+        "questionType": "MCQ",
+        "answer": "B) Mian Mir",
+        "explanation": "Dara Shikoh, the eldest son and heir-apparent of the Mughal emperor Shah Jahan, was the disciple of the Sufi saint Mian Mir. Mian Mir was a famous Qadiri Sufi saint of Lahore, and Dara Shikoh was introduced to him by Mullah Shah Badakhshi, who was Mian Mir's spiritual disciple and successor. Dara Shikoh was a follower of the Armenian Sufi-perennialist mystic Sarmad Kashani, as well as Mian Mir."
+    },
+    {
+        "questionId": 66,
+        "questionType": "MCQ",
+        "answer": "D) Jodhpur",
+        "explanation": "The state that was not annexed to the English East India Company's dominions under Dalhousie's Doctrine of Lapse was Jodhpur. The Doctrine of Lapse was a policy introduced by Lord Dalhousie, the Governor-General of India from 1848 to 1856, which stated that any Indian princely state would automatically be annexed by the British East India Company if the ruler died without a male biological heir. The states that were annexed under this policy included Satara, Jaitpur, Sambalpur, Baghat, Udaipur, Jhansi, Nagpur, Tanjore, and Arcot. However, Jodhpur was not annexed under this policy."
+    },
+    {
+        "questionId": 67,
+        "questionType": "MCQ",
+        "answer": "B) Dadabhai Naoroji",
+        "explanation": "The East India Association was established in 1866 in London by Dadabhai Naoroji. The organization was founded in collaboration with Indians and retired British officials in London. It was the first organization with members from different Indian provinces. The main objective of the East India Association was to provide a platform for Indians to express their grievances against British colonial rule and to work towards the betterment of India. Dadabhai Naoroji was a Parsi intellectual, educator, cotton trader, and an early Indian political and social leader. He was also known as the Grand Old Man of India."
+    },
+    {
+        "questionId": 68,
+        "questionType": "MCQ",
+        "answer": "D) 1934",
+        "explanation": "The Civil Disobedience Movement, launched by Mahatma Gandhi, was a significant nonviolent protest against British rule in India. It began in 1930 with the famous Salt March and aimed to challenge the unjust salt tax imposed by the British. The movement gained immense popularity and widespread participation across the country. However, due to increasing repression and violence from the British authorities, Gandhi decided to call off the movement in 1934. This decision was made to prevent further bloodshed and to reassess the strategies employed in the struggle for independence. Despite its conclusion, the Civil Disobedience Movement left a lasting impact on India's freedom struggle and played a pivotal role in shaping the nation's history."
+    },
+    {
+        "questionId": 69,
+        "questionType": "statements",
+        "answer": "B) (ii) (i) (iii) (iv)",
+        "explanation": "The correct option for the given statements is \"B) (ii) (i) (iii) (iv)\". The Nehru Report was a report prepared by a committee headed by Motilal Nehru in 1928, which proposed constitutional reforms for India. The Rowlatt Satyagraha was a nonviolent protest against the Rowlatt Act, which allowed the British government to imprison Indians without trial. The MacDonald Award was a proposal made by the British Prime Minister Ramsay MacDonald in 1932, which proposed a separate electorate for the depressed classes in India. The Congress Socialist Party was formed in 1934 by a group of socialist leaders within the Indian National Congress."
+    },
+    {
+        "questionId": 70,
+        "questionType": "MCQ",
+        "answer": "A) 1 and a half months",
+        "explanation": "Lord Mountbatten gave Sir C. Radcli only a month to delineate the international border of India in 1947. The British government, Congress, and League imposed an extremely tight timetable on the entire partition effort. Sir C. Radcli arrived in India on July 8, 1947, and met with Mountbatten and the nationalist leaders soon thereafter. It was at this meeting that Radcliffe learned, apparently for the first time, that the boundary must be completed by August 15. He protested, but Mountbatten, Nehru, and Jinnah stood firm. In their rush to achieve their own political goals, British India\u2019s most powerful parties decided not to complete territorial partition before final political separation. This decision left Indian and Pakistani citizens in the peculiar predicament of not knowing which country they were in on August 15 or 16. Additionally, Mountbatten\u2019s delay in announcing the Radcliffe Line meant effectively that India and Pakistan had no boundaries for the first two days of their existence."
+    },
+    {
+        "questionId": 71,
+        "questionType": "MCQ",
+        "answer": "A) Atlantic Ocean",
+        "explanation": "The Bermuda Triangle is located in the Atlantic Ocean. The Bermuda Triangle, also known as the Devil's Triangle, is a region in the western part of the North Atlantic Ocean where a number of ships and planes are said to have disappeared under mysterious circumstances. The boundaries of the area are not universally agreed upon, but it is marked by the Atlantic coast of the Florida panhandle (in the United States), Bermuda, and the Greater Antilles. While there have been a number of reported incidents involving ships and planes that have gone missing in the Bermuda Triangle, there is no scientific evidence to support the existence of the Bermuda Triangle as a place where unusual or mysterious events are more likely to occur than in any other part of the world."
+    },
+    {
+        "questionId": 72,
+        "questionType": "list",
+        "answer": "C) (a-ii) (b-iv) (c-i) (d-iii)",
+        "explanation": "The correct option for the given statements is \"C) (a-ii) (b-iv) (c-i) (d-iii)\". Burkina Faso is a landlocked country in western Africa, and its capital is Ouagadougou. Finland is a country in northern Europe, and its capital is Helsinki. Vietnam is a country in Southeast Asia, and its former capital, Saigon, is now known as Ho Chi Minh City. Taiwan is an island country in East Asia, and its capital is Taipei."
+    },
+    {
+        "questionId": 73,
+        "questionType": "MCQ",
+        "answer": "C) Periyar National Park -  Odisha",
+        "explanation": "The incorrect option among the given statements is \"C) Periyar National Park - Odisha\". Periyar National Park is a national park located in the state of Kerala, India. It is situated in the Cardamom Hills and is named after the Periyar River. The park is known for its elephants, tigers, and other wildlife, as well as its scenic beauty. Sariska Tiger Reserve is located in Rajasthan, Hemis National Park is located in Jammu and Kashmir, and Rajaji National Park is located in Uttarakhand."
+    },
+    {
+        "questionId": 74,
+        "questionType": "MCQ",
+        "answer": "D) Its width varies from 200km in Kashmir to 500 km in Arunachal Pradesh.",
+        "explanation": "Statement D) is false. The arc formed by the Himalayas varies from 400km in Kashmir to 150 km in Arunachal Pradesh. It covers a distance of about 2400 km. The Himalayas consist of three parallel mountain ranges, the Greater Himalayas, the Lesser Himalayas, and the Outer Himalayas."
+    },
+    {
+        "questionId": 75,
+        "questionType": "MCQ",
+        "answer": "C) Lucknow - Gandak",
+        "explanation": "The incorrect statement among the given options is \"C) Lucknow - Gandak\". The Gandak River flows through the Indian states of Bihar, Uttar Pradesh, and Nepal. Lucknow is the capital of the Indian state of Uttar Pradesh and is not located on the banks of the Gandak River. Jaunpur is a city in the Indian state of Uttar Pradesh, and the Gomati River flows through it. Nashik is a city in the Indian state of Maharashtra, and the Godavari River flows through it. Ujjain is a city in the Indian state of Madhya Pradesh, and the Shipra River flows through it."
+    },
+    {
+        "questionId": 76,
+        "questionType": "MCQ",
+        "answer": "B) Durand line",
+        "explanation": "B) Durand line. It is named for Sir Henry Mortimer Durand, the foreign secretary of the colonial government of India, who induced Abdur Rahman Khan, the emir of Afghanistan, to agree to an international boundary. The Durand Line lies in a region of varying elevation."
+    },
+    {
+        "questionId": 77,
+        "questionType": "MCQ",
+        "answer": "A) Milpa",
+        "explanation": "The name of shifting cultivation in Mexico is \"Milpa\". Milpa is a traditional polyculture system of Mesoamerica that is based on the cultivation of maize, beans, and squash, but also associated with a great diversity of crops and wild species. The term \"milpa\" comes from the Nahuatl language (\"milli,\" sown field, and \"pan,\" on top of) and is the common term in Spanish and Mexico."
+    },
+    {
+        "questionId": 78,
+        "questionType": "MCQ",
+        "answer": "D) Black soil",
+        "explanation": "The best soil for cotton cultivation is \"D) Black soil\". Black soil, also known as regur soil or black cotton soil, is a type of soil that is found in the Deccan Plateau region of India. It is rich in nutrients such as calcium, magnesium, and potassium, and has good water retention capacity. Black soil is highly retentive of moisture and very productive, making it ideal for the cultivation of cotton. Alluvial soil, laterite soil, and red soil are other types of soil found in India, but they are not as suitable for cotton cultivation as black soil."
+    },
+    {
+        "questionId": 79,
+        "questionType": "MCQ",
+        "answer": "A) Nile",
+        "explanation": "The longest river in the world is the Nile River, which flows through northeastern Africa and drains into the Mediterranean Sea. The Nile River has a length of about 4,132 miles (6,650 kilometers) and drains an area estimated at 1,293,000 square miles (3,349,000 square kilometers). It has often been considered the longest river in the world, although there is some debate surrounding this, as some believe the Amazon River in South America might be longer."
+    },
+    {
+        "questionId": 80,
+        "questionType": "MCQ",
+        "answer": "C) Kerala",
+        "explanation": "Varkala beach is located in Kerala. Varkala is a coastal town in the Indian state of Kerala, located in the Thiruvananthapuram district. It is situated on the Arabian Sea and is known for its beautiful beaches, including the Varkala Beach."
+    },
+    {
+        "questionId": 81,
+        "questionType": "MCQ",
+        "answer": "D) Sir B.N. Rao",
+        "explanation": "The constituent advisor to the Constituent Assembly was Sir B.N. Rau. Sir Benegal Narsing Rau was an Indian civil servant, jurist, diplomat, and statesman known for his key role in drafting the Constitution of India. He was appointed the Constitutional Advisor to the Constituent Assembly in formulating the Indian Constitution in 1936. He was responsible for the general structure of the democratic framework of the Constitution and prepared its initial draft in February 1948. This draft was debated, revised, and finally adopted by the Constituent Assembly of India on 26 November 1949."
+    },
+    {
+        "questionId": 82,
+        "questionType": "statements",
+        "answer": "D) 1, 2, 3, and 4",
+        "explanation": "Article 21 of the Indian Constitution guarantees the fundamental right to life and personal liberty, encompassing various aspects such as livelihood, good health, clean environment, water, speedy trial, and humanitarian treatment during imprisonment. Additionally, the 86th Constitutional amendment introduced the right to education at the elementary level as a fundamental right under Article 21A. While the right to shelter is protected under Article 19 (1) (e) read with Article 21, the right to reputation is not explicitly mentioned in Article 21. However, the Supreme Court has recognized the right to privacy as an integral part of life and personal liberty under Article 21. Although there is no specific legislation on the right to adequate housing, the courts have interpreted Article 21 to include this right. Overall, Article 21 safeguards several human rights, ensuring the protection and well-being of individuals in India."
+    },
+    {
+        "questionId": 83,
+        "questionType": "MCQ",
+        "answer": "B) the Ministry of Personnel",
+        "explanation": "The Central Information Commission falls under the Ministry of Personnel. The Central Information Commission (CIC) is a statutory body that was established in 2005 under the Right to Information Act, 2005. The CIC is responsible for ensuring transparency and accountability in the functioning of the government by hearing complaints and appeals regarding the Right to Information Act. The CIC consists of one Chief Information Commissioner and not more than ten Information Commissioners, who are appointed by the President of India on the recommendation of a committee consisting of the Prime Minister as Chairperson, the Leader of Opposition in the Lok Sabha, and a Union Cabinet Minister to be nominated by the Prime Minister."
+    },
+    {
+        "questionId": 84,
+        "questionType": "MCQ",
+        "answer": "A) the President and the Governor",
+        "explanation": "During the term of office, criminal proceedings cannot be instituted against the President and the Governor. Article 361 of the Indian Constitution provides immunity to the President and the Governor from criminal proceedings during their term of office. This immunity is granted to ensure that the President and the Governor can perform their duties without any fear of harassment or intimidation. However, this immunity does not extend to civil proceedings or to any criminal proceedings instituted against them before they assumed office."
+    },
+    {
+        "questionId": 85,
+        "questionType": "MCQ",
+        "answer": "D) Presiding Officer of the House",
+        "explanation": "The Presiding Officer of the House decides the question of disqualification of a member of Parliament on the grounds of defection. The Tenth Schedule of the Indian Constitution, also known as the Anti-Defection Law, deals with the disqualification of members of Parliament and state legislatures on the grounds of defection. The Presiding Officer of the House, who is the Speaker in the case of the Lok Sabha and the Chairman in the case of the Rajya Sabha, is responsible for deciding on questions of disqualification under the Anti-Defection Law. However, if the decision of the Presiding Officer is challenged, it can be appealed to the High Court and then to the Supreme Court of India."
+    },
+    {
+        "questionId": 86,
+        "questionType": "MCQ",
+        "answer": "A) President of India",
+        "explanation": "The President of India has the power to declare a caste or a tribe as a scheduled caste or scheduled tribe. This power is derived from Article 341 for scheduled castes and Article 342 for scheduled tribes of the Indian Constitution. The President exercises this power based on the advice of the Governor of the concerned state and in consultation with the Parliament. The President's declaration is crucial in determining the eligibility of a particular caste or tribe for reservation benefits and protective measures."
+    },
+    {
+        "questionId": 87,
+        "questionType": "MCQ",
+        "answer": "C) Delimitation Commission",
+        "explanation": "The Delimitation Commission determines the area of a Lok Sabha constituency for the purpose of election. The Delimitation Commission is a high-level body that is responsible for the readjustment of electoral constituencies and the allocation of seats in the Lok Sabha and state legislative assemblies in India. The Delimitation Commission is appointed by the President of India and consists of a retired Supreme Court judge or a retired Chief Justice of a High Court as the Chairperson and two other members, who are usually retired civil servants. The Delimitation Commission is responsible for determining the boundaries of constituencies and ensuring that the population of each constituency is roughly the same."
+    },
+    {
+        "questionId": 88,
+        "questionType": "MCQ",
+        "answer": "C) It is neither a constitutional body nor a statutory body",
+        "explanation": "It\u2019s a non-constitutional and non-statutory body of India as it is not created by the Indian Constitution nor by any act of Parliament. This non-constitutional body is considered the premier policy-maker institution, and its main duty is to enhance the country\u2019s economic growth. The name NITI Aayog was chosen as the name of this authority because, in Sanskrit, NITI refers to behaviour, morality, guidance, etc. But as the full form of NITI (National Institution for Transforming India) suggests, it means policy."
+    },
+    {
+        "questionId": 89,
+        "questionType": "statements",
+        "answer": "B) 1 and 3",
+        "explanation": "The correct options for the All India Services are Indian Police Services (IPS) and Indian Forest Services (IFS). Indian Police Services (IPS) is responsible for maintaining law and order and ensuring public safety in India. It is one of the three All India Services, along with the Indian Administrative Service (IAS) and the Indian Forest Service (IFS). Indian Forest Services (IFS) is responsible for the management of forests and wildlife in India. It is also one of the three All India Services, along with the Indian Administrative Service (IAS) and the Indian Police Service (IPS)."
+    },
+    {
+        "questionId": 90,
+        "questionType": "statements",
+        "answer": "B) 1 and 2",
+        "explanation": "The committee that recommended the creation of 'Nyaya Panchayats' is the Balwant Rai Mehta Committee. The Ashok Mehta Committee, LM Singhvi Committee, and GVK Rao Committee did not specifically recommend the creation of Nyaya Panchayats. Therefore, the correct answer is option B) 1 and 2."
+    },
+    {
+        "questionId": 91,
+        "questionType": "MCQ",
+        "answer": "C) Arvind Subramanian",
+        "explanation": "The Chief Economic Advisor to the Government of India is Arvind Subramanian. He was appointed as the Chief Economic Advisor (CEA) of the Government of India on October 16, 2014, and served until June 20, 2018. Arvind Subramanian is an Indian economist who is currently a Senior Fellow at the Watson Institute for International and Public Affairs at Brown University. He has also served as a Professor of Economics at Ashoka University and a Senior Fellow at the Peterson Institute for International Economics and Center for Global Development."
+    },
+    {
+        "questionId": 92,
+        "questionType": "MCQ",
+        "answer": "B) 10.5% and 7.3%",
+        "explanation": "According to the World Bank and the Economic Survey of India, the growth rate of GDP of India during 2014-15 was 10.5% at current prices and 7.3% at constant prices. However, the options provided in the question do not match with the available data. Therefore, the answer to the question 'What has been the growth rate of GDP of India during 2014-15 at the current prices and constant prices respectively?' cannot be determined from the given options."
+    },
+    {
+        "questionId": 93,
+        "questionType": "MCQ",
+        "answer": "A) 127",
+        "explanation": "According to the Human Development Report (HDR) of 2014, the Gender Inequality Index (GII) of India was 0.563, which is equivalent to a rank of 127 out of 188 countries. The GII is a composite measure that reflects gender-based disadvantage in three dimensions: reproductive health, empowerment, and the labor market. A higher GII value indicates higher gender inequality, while a lower value indicates lower gender inequality."
+    },
+    {
+        "questionId": 94,
+        "questionType": "MCQ",
+        "answer": "B) 32 percent to 42 percent",
+        "explanation": "The 14th Finance Commission of India has recommended an increase in the states' share in the central divisible pool taxes from 32 percent to 42 percent. The commission was constituted by the President of India in January 2013 and submitted its report in February 2015. The 14th Finance Commission recommended that tax devolution should be the primary route of resources to the states, and that the share of states in the net proceeds of the shareable central tax revenue should be increased to 42% for the years 2015 to 2020."
+    },
+    {
+        "questionId": 95,
+        "questionType": "MCQ",
+        "answer": "A) 1872",
+        "explanation": "The first census in India was conducted in the year 1872. The census was conducted under the British Raj and covered the territories that were under British rule at that time. The census was conducted to gather information on the population, religion, and occupation of the people living in India. The census was conducted every ten years thereafter, with the most recent census being conducted in 2011."
+    },
+    {
+        "questionId": 96,
+        "questionType": "MCQ",
+        "answer": "C) 382 and 123",
+        "explanation": "As per Census 2011, the population density of India is 382 people per square kilometer. The population density of Himachal Pradesh, as per Census 2011, is 123 people per square kilometer."
+    },
+    {
+        "questionId": 97,
+        "questionType": "MCQ",
+        "answer": "A) 13th January, 2016",
+        "explanation": "The Pradhan Mantri Fasal Bima Yojana was approved by the Central Government on 13th January 2016. The scheme was launched to provide insurance coverage and financial support to farmers in the event of crop failure due to natural calamities, pests, or diseases. The scheme aims to reduce the burden of premiums on farmers who take loans for their cultivation and to safeguard them against inclement weather. The scheme covers all food and oilseed crops and annual commercial/horticultural crops for which past yield data is available and for which the requisite number of Crop Cutting Experiments (CCEs) are conducted."
+    },
+    {
+        "questionId": 98,
+        "questionType": "MCQ",
+        "answer": "A) Kerala, Goa, Tamilnadu and HP",
+        "explanation": "According to the Census 2011, the average age is above 30 years for the following states: Kerala, Goa, Tamil Nadu, and Himachal Pradesh. The average age is an important demographic indicator that reflects the age structure of the population of a state or a country. A higher average age indicates that the population is aging, while a lower average age indicates that the population is younger. Kerala has the highest average age among all the states in India, which is 33.8 years, while Bihar has the lowest average age, which is 20.9 years."
+    },
+    {
+        "questionId": 99,
+        "questionType": "MCQ",
+        "answer": "D) Management of Fiscal Deficit",
+        "explanation": "The Reserve Bank of India (RBI) is responsible for several functions, including regulation of credit, banker of the government and commercial banks, and management of foreign exchange reserves. However, the management of fiscal deficit is not a function of the Reserve Bank of India. Fiscal deficit refers to the difference between the government's total expenditure and its total revenue, and it is managed by the Ministry of Finance."
+    },
+    {
+        "questionId": 100,
+        "questionType": "MCQ",
+        "answer": "A) Financial inclusion initiative",
+        "explanation": "Swabhiman is a financial inclusion initiative launched by the Government of India and banks in the state to bridge the economic gap between rural and urban India. The main goal of the Swabhiman Scheme is to make banking services more accessible and convenient to the people living in large rural areas who do not have access to banking services. The scheme aims to bring banking services to large rural areas in the country and is operated by the Ministry of Finance, Government of India."
+    }
+]

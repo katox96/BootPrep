@@ -1,0 +1,1296 @@
+[
+    {
+        "questionId": 1,
+        "question": "Which of the following is not a freshwater ecosystem?",
+        "type": "MCQ",
+        "options": [
+            "A) Pound",
+            "B) Lake",
+            "C) Wetland",
+            "D) Open Ocean"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 2,
+        "question": "Which of these is not an ecosystem service?",
+        "type": "MCQ",
+        "options": [
+            "A) Climate control",
+            "B) Recreational Benefits",
+            "C) Winds",
+            "D) Food"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 3,
+        "question": "Desert ecosystems are characterized by annual rainfall of less than:",
+        "type": "MCQ",
+        "options": [
+            "A) 25 cm",
+            "B) 30 cm",
+            "C) 40 cm",
+            "D) 50 cm"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 4,
+        "question": "Which of these places is reputed to be the world's most biologically diverse?",
+        "type": "MCQ",
+        "options": [
+            "A) Yasuni tropical rainforest",
+            "B) Western Ghats",
+            "C) Eastern Himalayas",
+            "D) Indo-Burma region"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 5,
+        "question": "India is home to approximately how many mammalian species?",
+        "type": "MCQ",
+        "options": [
+            "A) 1320",
+            "B) 628",
+            "C) 350",
+            "D) 3560"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 6,
+        "question": "Identify the correct sequence of countries with the highest biodiversity:",
+        "type": "MCQ",
+        "options": [
+            "A) Brazil > Indonesia > Colombia > China > ",
+            "B) Brazil > Colombia > India > Indonesia",
+            "C) Bolivia > Indonesia > Colombia > India",
+            "D) Bolivia > Venezuela > Indonesia > Colombia"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 7,
+        "question": "Which of these is not a factor threatening the extinction of several species in India?",
+        "type": "MCQ",
+        "options": [
+            "A) Population explosion",
+            "B) Climate change",
+            "C) Laxity in implementation of environment policies",
+            "D) Socio-cultural practices"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 8,
+        "question": "According to the Paris agreement on climate change, the rise in the average temperature of Earth's surface above pre-industrial levels should be limited to:",
+        "type": "MCQ",
+        "options": [
+            "A) 1 Degree Celsius",
+            "B) 2 Degree Celsius",
+            "C) 2.5 Degree Celsius",
+            "D) 3 Degree Celsius"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 9,
+        "question": "The acronym UNFCCC represents:",
+        "type": "MCQ",
+        "options": [
+            "A) United Nation Framework on Climate Change",
+            "B) United Nation Fund for Climate control",
+            "C) United Nation Fund for Climate change",
+            "D) United Nation Framework for climate change"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 10,
+        "question": "In the context of climate change, the measures undertaken by the Government of India have a target of electric power generation by renewable energy (by the year 2030) of:",
+        "type": "MCQ",
+        "options": [
+            "A) 350 GW",
+            "B) 175 GW",
+            "C) 500 GW",
+            "D) 250 GW"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 11,
+        "question": "When a body is taken from the earth to the moon:",
+        "type": "MCQ",
+        "options": [
+            "A) Mass change but weight remains the same",
+            "B) Weight change but mass remains the same",
+            "C) Both weight and mass change",
+            "D) Both weight and mass remain the same"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 12,
+        "question": "Decibel is used to measure the intensity field of:",
+        "type": "MCQ",
+        "options": [
+            "A) Magnetic field",
+            "B) Sound",
+            "C) Light",
+            "D) Heat"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 13,
+        "question": "Which of the following vegetable oils does not contain essential fatty acids?",
+        "type": "MCQ",
+        "options": [
+            "A) Sunflower oil",
+            "B) Mustard oil",
+            "C) Coconut oil",
+            "D) Groundnut oil"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 14,
+        "question": "Usually fuels on burning cause pollution. Which one of the following fuels causes minimum environmental pollution?",
+        "type": "MCQ",
+        "options": [
+            "A) Diesel",
+            "B) Coal",
+            "C) Hydrogen",
+            "D) Kerosene"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 15,
+        "question": "Vegetables are easily perishable because of their high content of:",
+        "type": "MCQ",
+        "options": [
+            "A) Sugars",
+            "B) Water",
+            "C) Vitamins",
+            "D) Enzymes"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 16,
+        "question": "Sweat mainly serves to eliminate:",
+        "type": "MCQ",
+        "options": [
+            "A) Water, NaCl",
+            "B) NaCl, Fats",
+            "C) Dirt, water",
+            "D) Serum, Water"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 17,
+        "question": "In a poultry unit, the factor most influencing the cost is the cost of:",
+        "type": "MCQ",
+        "options": [
+            "A) Feed",
+            "B) Transportation",
+            "C) Chicks",
+            "D) Medicines"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 18,
+        "question": "Bombyx mori is a:",
+        "type": "MCQ",
+        "options": [
+            "A) Fish",
+            "B) Silkworm",
+            "C) Ringworm",
+            "D) Moth"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 19,
+        "question": "Which of the following statements is correct?",
+        "type": "MCQ",
+        "options": [
+            "A) Wheat bran is rich in carbohydrates",
+            "B) Fungal fermentation of rice is used for the preparation of alcoholic drinks",
+            "C) Rice has antibiotic properties",
+            "D) Wheat contains 80-85% carbohydrates"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 20,
+        "question": "A pressure cooker works on the principle of:",
+        "type": "MCQ",
+        "options": [
+            "A) Elevation of boiling point of water by application of pressure",
+            "B) Making the food-grains inside softer",
+            "C) Making the food-grains softer by application of pressure and temperature",
+            "D) Keeping the food-grains inside steam for a longer time"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 21,
+        "question": "Which of the following is not a feature of the caste system?",
+        "type": "MCQ",
+        "options": [
+            "A) Hierarchy",
+            "B) Hereditary occupation",
+            "C) Exogamous marriages",
+            "D) Accountability"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 22,
+        "question": "Ashish Bose is well known for his concept:",
+        "type": "MCQ",
+        "options": [
+            "A) Demographic transition",
+            "B) Population Explosion",
+            "C) BIMARU States",
+            "D) Sustainable Development"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 23,
+        "question": "Which state of India was the first to pass the Jamindari Abolition Act?",
+        "type": "MCQ",
+        "options": [
+            "A) Bihar",
+            "B) Uttar Pradesh",
+            "C) Rajasthan",
+            "D) Karnataka"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 24,
+        "question": "In which year was the Protection of Women from Domestic Violence Act passed?",
+        "type": "MCQ",
+        "options": [
+            "A) 1998",
+            "B) 2001",
+            "C) 2004",
+            "D) 2005"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 25,
+        "question": "Which is not an indicator of the Human Development Index?",
+        "type": "MCQ",
+        "options": [
+            "A) Life expectancy",
+            "B) Education component",
+            "C) National per capita income",
+            "D) Level of Urbanization"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 26,
+        "question": "Of which river are the tributaries Phojal, Sarwati, and Hansa streams?",
+        "type": "MCQ",
+        "options": [
+            "A) Satluj",
+            "B) Beas",
+            "C) Ravi",
+            "D) Yamuna"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 27,
+        "question": "What is the archaeological style of Adi Brahama temple Khokhan?",
+        "type": "MCQ",
+        "options": [
+            "A) Pagoda",
+            "B) Pent-roof",
+            "C) Pyramid-roof",
+            "D) Pyramid"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 28,
+        "question": "With which region of H.P is Bonangchyu dance associated?",
+        "type": "MCQ",
+        "options": [
+            "A) Chamba",
+            "B) Sirmour",
+            "C) Kinnaur",
+            "D) Kangra"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 29,
+        "question": "According to the 2011 census, which district of H.P has the highest number of urban households?",
+        "type": "MCQ",
+        "options": [
+            "A) Kangra",
+            "B) Shimla",
+            "C) Mandi",
+            "D) Solan"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 30,
+        "question": "Who was the court poet of Raja Dharam Chand of Kangra who wrote Dharam Chand Natak around 1562 AD?",
+        "type": "MCQ",
+        "options": [
+            "A) Ganesh Singh",
+            "B) Kanhyaya Lal Sharma",
+            "C) Manik Chand",
+            "D) Padam Chand Guleri"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 31,
+        "question": "To which princely state did Zorawar Singh, General of Raja Gulab Singh who invaded Ladakh and Baltistan during 1834-41, belong?",
+        "type": "MCQ",
+        "options": [
+            "A) Kangra",
+            "B) Sirmour",
+            "C) Jubbal",
+            "D) Kehlur"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 32,
+        "question": "When did the Chandrahabhaga Valley, which was held as Jagir by the families of Tibetan origin, come under the sway of Kullu?",
+        "type": "MCQ",
+        "options": [
+            "A) Thirteen century",
+            "B) Fifteenth century",
+            "C) Seventeenth century",
+            "D) Eighteenth century"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 33,
+        "question": "The territory of which of the following princely states was divided between two cousins/scions Vijay Singh and Ram Singh during the nineteenth century?",
+        "type": "MCQ",
+        "options": [
+            "A) Datarpur",
+            "B) Siba",
+            "C) Guler",
+            "D) Jaswan"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 34,
+        "question": "Around which year did Captain RC Lee set up an apple orchard in the Kullu area?",
+        "type": "MCQ",
+        "options": [
+            "A) 1870 AD",
+            "B) 1895 AD",
+            "C) 1905 AD",
+            "D) 1910 AD"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 35,
+        "question": "Which Raja of Sirmaur princely state shifted the capital of his state from Rajban to Kalsi in the beginning of the thirteenth century?",
+        "type": "MCQ",
+        "options": [
+            "A) Udit Prakesh",
+            "B) Kaul Prakash",
+            "C) Maha Prakash",
+            "D) Sumer Prakash"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 36,
+        "question": "Which Raja of Bushahr princely state received Hang-Rang valley from Tibet as Jagir?",
+        "type": "MCQ",
+        "options": [
+            "A) Prem Singh",
+            "B) Karam Singh",
+            "C) Bhup Singh",
+            "D) Kehri Singh"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 37,
+        "question": "Around which year did Russian painter Nicholas Roerich visit Naggar in Kullu District for the first time?",
+        "type": "MCQ",
+        "options": [
+            "A) 1915",
+            "B) 1923",
+            "C) 1926",
+            "D) 1930"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 38,
+        "question": "Which Raja of Bangahal princely state was a contemporary of Mahatma Gandhi?",
+        "type": "MCQ",
+        "options": [
+            "A) Raghunath Pal",
+            "B) Dalei Pal",
+            "C) Prithi Pal",
+            "D) Man Pal"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 39,
+        "question": "In Which basin is Upper Joiner hydro-power project?",
+        "type": "MCQ",
+        "options": [
+            "A) Ravi",
+            "B) Satluj",
+            "C) Beas",
+            "D) Yamuna"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 40,
+        "question": "Which school did Amrita Shergil join in Shimla around 1924-25?",
+        "type": "MCQ",
+        "options": [
+            "A) Taral Hall",
+            "B) Alfred Corpet",
+            "C) Santa Annciate",
+            "D) Jesus and Mary"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 41,
+        "question": "At which place in Kullu District of Himachal Pradesh is fish farm?",
+        "type": "MCQ",
+        "options": [
+            "A) Patil Kuhl",
+            "B) Moheli",
+            "C) Nagini",
+            "D) All of the Above"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 42,
+        "question": "Which bank is collaborating with the Himachal Pradesh government in implementing Doodh Ganga Yojna?",
+        "type": "MCQ",
+        "options": [
+            "A) UCO Bank",
+            "B) State Bank of India",
+            "C) NABARD",
+            "D) H.P state Cooperative Bank"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 43,
+        "question": "Which agency is managing Himachal Pradesh state wide Area networks (HIMSWAN) services?",
+        "type": "MCQ",
+        "options": [
+            "A) M/s KPMG",
+            "B) M/s Orange Business services",
+            "C) M/s E&Y HPSDC",
+            "D) M/s Vyam Technologies"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 44,
+        "question": "Who founded Himachal Pradesh congress (HVC)?",
+        "type": "MCQ",
+        "options": [
+            "A) Maheshwar Singh",
+            "B) Thakur Ram Lal",
+            "C) Dr. Salig Ram",
+            "D) Pandit Sukh Ram"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 45,
+        "question": "Which two districts of H.P are covered under Backward region Grant fund of ministry of Panchayati Raj, Government of India?",
+        "type": "MCQ",
+        "options": [
+            "A) Kinnaur and Lahul spiti",
+            "B) Lahul-spiti and chamba",
+            "C) Chamba and Sirmour",
+            "D) Sirmour and Kinnaur"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 46,
+        "question": "Who among the following persons has secured India\u2019s 12th Olympic quota berth for shooting for the Rio Games?",
+        "type": "MCQ",
+        "options": [
+            "A) Napis Tortungpanich",
+            "B) Sanjay Rajput",
+            "C) Vitaliy Dovgun",
+            "D) Jitu Rai"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 47,
+        "question": "Who among the following persons has been appointed as UP\u2019s Lokayukta?",
+        "type": "MCQ",
+        "options": [
+            "A) Prabhu Nath Singh",
+            "B) Sanjay Mishra",
+            "C) Virender Singh",
+            "D) N.K. Mehrotra"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 48,
+        "question": "Which of the following Indian States will get the first ever solar-stellar observatory?",
+        "type": "MCQ",
+        "options": [
+            "A) Rajasthan",
+            "B) Gujarat",
+            "C) Maharashtra",
+            "D) Karnataka"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 49,
+        "question": "India celebrated its first constitution Day on:",
+        "type": "MCQ",
+        "options": [
+            "A) 15th August, 1947",
+            "B) 26th January, 1950",
+            "C) 26th November, 1949",
+            "D) NOTA"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 50,
+        "question": "In which of the following states, \u2018Hornbill\u2019 festival has been observed to uphold Unity in Diversity?",
+        "type": "MCQ",
+        "options": [
+            "A) Nagaland",
+            "B) Manipur",
+            "C) Assam",
+            "D) Mizoram"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 51,
+        "question": "Consider the following statements regarding IRNSS-1E:",
+        "type": "statements",
+        "statements": [
+            "1. It is India\u2019s fifth navigational satellite",
+            "2. It was launched from PSLV-C31",
+            "3. It was successfully launched from Satish Dhawan Space Centre, SHAR, Sriharikota",
+            "4. It is an independent regional satellite system designed to provide information in the Indian region and 1500 km around the Indian Mainland"
+        ],
+        "options": [
+            "A) (1), (2) and (3)",
+            "B) (2), (3) and (4)",
+            "C) (1), (2) and (4)",
+            "D) All of the above are correct"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 52,
+        "question": "With regard to the recently approved 'Pradhan Mantri Fasal Bima Yojana', which of the following statement is/are incorrect?",
+        "type": "statements",
+        "statements": [
+            "1. For annual commercial and horticultural crops, the premium to be paid by farmers will be only 5%",
+            "2. There will be a uniform premium of only 2% to be paid by farmers for all Kharif crops",
+            "3. For Rabi crops, premium to be paid by farmers is 1.5%"
+        ],
+        "options": [
+            "A) (1) only",
+            "B) (2) only",
+            "C) (3) only",
+            "D) None of the above"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 53,
+        "question": "The National Air quality Index (AQI) measures air quality by taking into consideration which of the following pollutants?",
+        "type": "statements",
+        "statements": [
+            "1. Ammonia",
+            "2. Nitrogen dioxide",
+            "3. Sulphur dioxide",
+            "4. Carbon dioxide",
+            "5. Ozone",
+            "6. Lead"
+        ],
+        "options": [
+            "A) (1), (3) and (5) only",
+            "B) (1), (2), (4) and (6) only",
+            "C) (1), (2), (3), (4), (5) and (6)",
+            "D) (1), (5) and (6) only"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 54,
+        "question": "The Deen Dayal Upadhyaya Gram Jyoti Yojana focuses on?",
+        "type": "statements",
+        "statements": [
+            "1. Feeder separation (rural households and agricultural)",
+            "2. Electrification of rural and urban areas",
+            "3. Nationalization of power distribution companies in rural areas",
+            "4. Uninterrupted power supply to industries in rural areas"
+        ],
+        "options": [
+            "A) 1. only (3)",
+            "B) 2. only (1)",
+            "C) 3. only (2)",
+            "D) All of the above"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 55,
+        "question": "Who has been awarded the Padma Vibhushan?",
+        "type": "statements",
+        "statements": [
+            "1. Avinash Dixit",
+            "2. Sania Mirza",
+            "3. Priyanka Chopra",
+            "4. Anjum Chopra"
+        ],
+        "options": [
+            "A) 1. only (1)",
+            "B) 2. only (2)",
+            "C) 3. only (3)",
+            "D) 4. only (4)"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 56,
+        "question": "Who won the Man Booker Prize in 2015?",
+        "type": "statements",
+        "statements": [
+            "1. Marlon James",
+            "2. Sanjeev Sahota",
+            "3. James Tott",
+            "4. Ali Smith"
+        ],
+        "options": [
+            "A) 1. Marlon James",
+            "B) 2. Sanjeev Sahota",
+            "C) 3. James Tott",
+            "D) 4. Ali Smith"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 57,
+        "question": "Consider the following statements regarding the International Solar Alliance (ISA):",
+        "type": "statements",
+        "statements": [
+            "1. Indian Prime Minister Narender Modi and French President Francois Hollande have jointly laid the foundation stone of the ISA Headquarters",
+            "2. The interim Secretariat of the ISA is located in Gurgaon, India",
+            "3. ISA has 121 member countries"
+        ],
+        "options": [
+            "A) 1. only (1) and (2)",
+            "B) 2. only (2) and (3)",
+            "C) 3. only (1) and (3)",
+            "D) All of the above are correct "
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 58,
+        "question": "Consider the following statements regarding the Corruption Perception Index (CPI), 2015:",
+        "type": "statements",
+        "statements": [
+            "1. The Corruption Perception Index, 2015 was released by the Berlin-based corruption watchdog Transparency International",
+            "2. India ranks 76th out of 194 countries in the CPI 2015",
+            "3. The list is topped by Denmark, followed by Finland and Sweden"
+        ],
+        "options": [
+            "A) 1. only (1) and (2)",
+            "B) 2. only (1) and (3)",
+            "C) 3. only (2) and (3)",
+            "D) All of the above are correct"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 59,
+        "question": "Which statement is incorrect regarding the Zika virus?",
+        "type": "MCQ",
+        "options": [
+            "A) The virus was first isolated in April 1947 in Brazil",
+            "B) It is transmitted by daytime-active Aedes mosquitoes such as A. aegypti",
+            "C) It is a member of the virus family Flaviviridae and the genus Flavivirus",
+            "D) The most common symptoms of Zika are fever, rash, joint pain, muscle pain, headache, etc"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 60,
+        "question": "Consider the following statements regarding the Corporate Tax Avoidance deal:",
+        "type": "statements",
+        "statements": [
+            "1. A total of 31 Organisation for Economic Co-operation and Development (OECD) members agreed to sign this deal",
+            "2. It will be harder for firms to hide money in tax havens or play one country\u2019s tax authorities against another",
+            "3. France is not among the 31 members who agreed to sign the deal"
+        ],
+        "options": [
+            "A) 1. only (1) and (2)",
+            "B) 2. only (2) and (3)",
+            "C) 3. only (1) and (3)",
+            "D) All of the above are correct"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 61,
+        "question": "Which of the following is not correct about the Harappa\u2019s contacts with its contemporary civilizations?",
+        "type": "MCQ",
+        "options": [
+            "A) Similarity of some of its seals with them.",
+            "B) The term Melukha used in Mesopotamian tablets perhaps refers to Sindhu.",
+            "C) The Harappan seals mention its relations with them.",
+            "D) The Mesopotamians called cotton by the name of Sindhu."
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 62,
+        "question": "Who built the Sudarshana lake in the Saurashtra region?",
+        "type": "MCQ",
+        "options": [
+            "A) Pushyagupta",
+            "B) Dhanananda",
+            "C) Kharavela",
+            "D) Samudragupta"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 63,
+        "question": "Which one of the following festivals was most famous in Vijayanagar empire?",
+        "type": "MCQ",
+        "options": [
+            "A) Vasant Ritu",
+            "B) Brahmotsavam",
+            "C) Mahanavami",
+            "D) Ramana Vaidi"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 64,
+        "question": "Which of the following Bhakti poets of Maharashtra conveyed his teachings through the numerous Abhangas?",
+        "type": "MCQ",
+        "options": [
+            "A) Tukaram",
+            "B) Namdev",
+            "C) Eknath",
+            "D) Ramdas"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 65,
+        "question": "Dara Shikoh was the disciple of which Sufi saint?",
+        "type": "MCQ",
+        "options": [
+            "A) Mirza Ghalib",
+            "B) Mian Mir",
+            "C) Mullah Shah",
+            "D) Mir Taki Mir"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 66,
+        "question": "Which of the following states were not annexed to the English East India Company\u2019s dominions under Dalhousie\u2019s Doctrine of Lapse?",
+        "type": "MCQ",
+        "options": [
+            "A) Satara",
+            "B) Nagpur",
+            "C) Jhansi",
+            "D) Jodhpur"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 67,
+        "question": "Who established the East India Association in 1866 in London?",
+        "type": "MCQ",
+        "options": [
+            "A) Raja Ram Mohan Roy",
+            "B) Dadabhai Naoroji",
+            "C) Surendra Nath Banerjee",
+            "D) Lala Lajpat Rai"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 68,
+        "question": "When was the Civil Disobedience Movement finally called off by Mahatma Gandhi?",
+        "type": "MCQ",
+        "options": [
+            "A) 1931",
+            "B) 1932",
+            "C) 1933",
+            "D) 1934"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 69,
+        "question": "69. Consider the following:",
+        "type": "statements",
+        "statements": [
+            "1. The Nehru Report",
+            "2. The Rowlatt Satyagraha",
+            "3. The MacDonald Award",
+            "4. Formation of Congress Socialist Party"
+        ],
+        "options": [
+            "A) (i) (ii) (iii) (iv)",
+            "B) (ii) (i) (iii) (iv)",
+            "C) (iii) (i) (ii) (iv)",
+            "D) (ii) (i) (iv) (iii)"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 70,
+        "question": "How much time did Lord Mountbatten give to Sir C. Radcli to delineate the international border of India in 1947?",
+        "type": "MCQ",
+        "options": [
+            "A) 1 and a half months",
+            "B) 3 and a half months",
+            "C) 4 months",
+            "D) 6 months"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 71,
+        "question": "Bermuda Triangle is located in:",
+        "type": "MCQ",
+        "options": [
+            "A) Atlantic Ocean",
+            "B) Pacific Ocean",
+            "C) Indian Ocean",
+            "D) China Ocean"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 72,
+        "question": "Which one of the following is not correctly matched?",
+        "type": "list",
+        "listI": {
+            "items": [
+                "a. Burkina Faso",
+                "b. Finland",
+                "c. Vietnam",
+                "d. Taiwan"
+            ],
+            "heading": "Country"
+        },
+        "listII": {
+            "items": [
+                "(i) Ho-Chi-Minh City",
+                "(ii) Helsinki",
+                "(iii) Ouagadougou",
+                "(iv) Taipei"
+            ],
+            "heading": "Capital"
+        },
+        "options": [
+            "A) (a-iii) (b-ii) (c-i) (d-iv)",
+            "B) (a-i) (b-ii) (c-iv) (d-iii)",
+            "C) (a-ii) (b-iv) (c-i) (d-iii)",
+            "D) (a-iii) (b-i) (c-ii) (d-iv)"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 73,
+        "question": "Which one of the following is incorrect?",
+        "type": "MCQ",
+        "options": [
+            "A) Sariska Tiger         -  Rajasthan",
+            "B) Hemis National Park   -  J&K",
+            "C) Periyar National Park -  Odisha",
+            "D) Rajaji National Park  -  Uttarakhand"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 74,
+        "question": "Which is incorrect about Himalaya?",
+        "type": "MCQ",
+        "options": [
+            "A) Himalayas are young folded mountains.",
+            "B) Before Himalayas, there was a Tethys sea.",
+            "C) Highest peak of the world is in Himalayan range.",
+            "D) Its width varies from 200km in Kashmir to 500 km in Arunachal Pradesh."
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 75,
+        "question": "Which one of the following is incorrect?",
+        "type": "MCQ",
+        "options": [
+            "A) Jaunpur - Gomati",
+            "B) Nashik - Godavari",
+            "C) Lucknow - Gandak",
+            "D) Ujjain - Shipra"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 76,
+        "question": "Which line separates India from Afghanistan?",
+        "type": "MCQ",
+        "options": [
+            "A) Radcliffe line",
+            "B) Durand line",
+            "C) McMahon line",
+            "D) None of the above"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 77,
+        "question": "What is the name of shifting cultivation in Mexico?",
+        "type": "MCQ",
+        "options": [
+            "A) Milpa",
+            "B) Jhumming",
+            "C) Roca",
+            "D) Caingin"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 78,
+        "question": "Which soil is best for cotton cultivation?",
+        "type": "MCQ",
+        "options": [
+            "A) Alluvial Soil",
+            "B) Laterite Soil",
+            "C) Red Soil",
+            "D) Black soil"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 79,
+        "question": "Which is the Longest river of the World?",
+        "type": "MCQ",
+        "options": [
+            "A) Nile",
+            "B) Amazon",
+            "C) Yangtze",
+            "D) Congo"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 80,
+        "question": "Varkala beach is located in:",
+        "type": "MCQ",
+        "options": [
+            "A) Karnataka",
+            "B) Puducherry",
+            "C) Kerala",
+            "D) Tamil Nadu"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 81,
+        "question": "Who among the following was the constituent advisor to the Constituent Assembly?",
+        "type": "MCQ",
+        "options": [
+            "A) Dr. B.R. Ambedkar",
+            "B) Dr. Rajendra Prasad",
+            "C) K.M. Munshi",
+            "D) Sir B.N. Rao"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 82,
+        "question": "Which of the following human rights come within the ambit of Article 21 of the Indian Constitution?",
+        "type": "statements",
+        "statements": [
+            "1. Right to shelter",
+            "2. Right to pure drinking water",
+            "3. Right to reputation",
+            "4. Right to privacy"
+        ],
+        "options": [
+            "A) 1 and 4",
+            "B) 2 and 4",
+            "C) 1, 3, and 4",
+            "D) 1, 2, 3, and 4"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 83,
+        "question": "The Central Information Commission falls under:",
+        "type": "MCQ",
+        "options": [
+            "A) the Ministry of Communications and Information Technology",
+            "B) the Ministry of Personnel",
+            "C) the Ministry of Law",
+            "D) the Ministry of Human Resource"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 84,
+        "question": "During the term of office, criminal proceedings cannot be instituted against:",
+        "type": "MCQ",
+        "options": [
+            "A) the President and the Governor",
+            "B) the President, the Vice-President and the Governor",
+            "C) the President, VP, Speaker of Lok Sabha and Governor",
+            "D) the President, the VP, the PM and the Governor"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 85,
+        "question": "Who among the following decides the question of disqualification of a member of Parliament on the grounds of defection?",
+        "type": "MCQ",
+        "options": [
+            "A) the President of India",
+            "B) Election Commission",
+            "C) The Supreme court of India",
+            "D) Presiding Officer of the House"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 86,
+        "question": "Who among the following has the power to declare a caste or a tribe as scheduled caste or scheduled tribe?",
+        "type": "MCQ",
+        "options": [
+            "A) President of India",
+            "B) Parliament",
+            "C) Home Minister",
+            "D) Chairman of the National Commission of SC or ST"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 87,
+        "question": "Who among the following determines the area of a Lok Sabha constituency for the purpose of election?",
+        "type": "MCQ",
+        "options": [
+            "A) President",
+            "B) Election Commission",
+            "C) Delimitation Commission",
+            "D) Census Commission"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 88,
+        "question": "Which of the following statements is correct about NITI Aayog?",
+        "type": "MCQ",
+        "options": [
+            "A) It is a constitutional body",
+            "B) It is a statutory body",
+            "C) It is neither a constitutional body nor a statutory body",
+            "D) It is a constitutional body"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 89,
+        "question": "Which of the following are All India Services?",
+        "type": "statements",
+        "statements": [
+            "1. Indian Police Services",
+            "2. Indian Foreign Services",
+            "3. Indian Forest Services",
+            "4. Indian Revenue Services"
+        ],
+        "options": [
+            "A) 1 and 2",
+            "B) 1 and 3",
+            "C) 1, 2, and 4",
+            "D) 1, 2, 3, and 4"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 90,
+        "question": "Which of the following committees recommended the creation of 'Nyaya Panchayats'?",
+        "type": "statements",
+        "statements": [
+            "1. Ashok Mehta Committee",
+            "2. LM Singhvi Committee",
+            "3. GVK Rao Committee",
+            "4. Balwant Rai Mehta Committee"
+        ],
+        "options": [
+            "A) 1 only",
+            "B) 1 and 2",
+            "C) 2 and 3",
+            "D) 1, 2, and 4"
+        ],
+        "subject": ""
+    },
+    {
+        "questionId": 91,
+        "question": "Who is the Chief Economic Advisor to the Government of India?",
+        "type": "MCQ",
+        "options": [
+            "A) Raghuram Rajan",
+            "B) Arvind Panagariya",
+            "C) Arvind Subramanian",
+            "D) Y.V. Reddy"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 92,
+        "question": "What has been the growth rate of GDP of India during 2014-15 at the current prices and constant prices respectively?",
+        "type": "MCQ",
+        "options": [
+            "A) 10.5% and 6.9%",
+            "B) 10.5% and 7.3%",
+            "C) 9.5% and 7.3%",
+            "D) 11% and 7.3%"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 93,
+        "question": "As per HDR, 2014 the Gender Inequality Index of India is:",
+        "type": "MCQ",
+        "options": [
+            "A) 127",
+            "B) 120",
+            "C) 137",
+            "D) 122"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 94,
+        "question": "The 14th Finance Commission has enhanced the states\u2019 share in the central divisible pool taxes from:",
+        "type": "MCQ",
+        "options": [
+            "A) 30 percent to 42 percent",
+            "B) 32 percent to 42 percent",
+            "C) 32 percent to 40 percent",
+            "D) 31 percent to 41 percent"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 95,
+        "question": "First Census was conducted in which year in India?",
+        "type": "MCQ",
+        "options": [
+            "A) 1872",
+            "B) 1891",
+            "C) 1911",
+            "D) 1951"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 96,
+        "question": "What is the population density (per sq. km) of India and Himachal Pradesh respectively as per Census 2011?",
+        "type": "MCQ",
+        "options": [
+            "A) 282 and 132",
+            "B) 282 and 123",
+            "C) 382 and 123",
+            "D) 282 and 133"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 97,
+        "question": "Pradhan Mantri Fasal Bima Yojna was approved by Central Government on:",
+        "type": "MCQ",
+        "options": [
+            "A) 13th January, 2016",
+            "B) 23rd January, 2016",
+            "C) 13th January, 2015",
+            "D) 25th December, 2016"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 98,
+        "question": "As per the Census 2011, the average age is above 30 years for the following states:",
+        "type": "MCQ",
+        "options": [
+            "A) Kerala, Goa, Tamilnadu and HP",
+            "B) UP, Bihar, Meghalaya and WB",
+            "C) UP, Bihar, Meghalaya and Jharkhand",
+            "D) Kerala, Goa, UP and Bihar"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 99,
+        "question": "Which of the following is not a function of Reserve Bank of India?",
+        "type": "MCQ",
+        "options": [
+            "A) Regulation of foreign exchange",
+            "B) Regulation of Credit",
+            "C) Banker of the government and Commercial Bank",
+            "D) Management of Fiscal Deficit"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 100,
+        "question": "Swabhiman is a:",
+        "type": "MCQ",
+        "options": [
+            "A) Financial inclusion initiative",
+            "B) Pension initiative for BPL families",
+            "C) Insurance Policy for Women",
+            "D) Rural Infrastructure Project"
+        ],
+        "subject": "Economics"
+    }
+]

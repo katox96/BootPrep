@@ -1,0 +1,35 @@
+{
+  "name": "mockdude",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next-auth/mongodb-adapter": "^1.1.1",
+    "@radix-ui/react-alert-dialog": "^1.0.3",
+    "class-variance-authority": "^0.6.0",
+    "clsx": "^1.2.1",
+    "fs-extra": "^11.1.1",
+    "lucide-react": "^0.214.0",
+    "mongodb": "^4.15.0",
+    "next": "13.3.0",
+    "next-auth": "^4.22.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sass": "^1.62.1",
+    "sharp": "^0.32.1",
+    "tailwind-merge": "^1.12.0",
+    "tailwind-scrollbar": "^3.0.4",
+    "tailwindcss-animate": "^1.0.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.6",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  }
+}

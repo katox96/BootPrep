@@ -1,0 +1,1699 @@
+[
+    {
+        "questionId": 1,
+        "question": "According to 2019-20 (budget estimates) what percentage of total expenditure is to be spent on salary, pension, interest payments and subsidies in Himachal Pradesh?",
+        "type": "MCQ",
+        "options": [
+            "A) 39%",
+            "B) 49%",
+            "C) 59%",
+            "D) 69%"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 2,
+        "question": "Mian Jawahar Singh, Sh.Badri Nath and Sh. Jwala Singh were the leaders of which of the following revolutionary movement of H.P.?",
+        "type": "MCQ",
+        "options": [
+            "A) Praja Mandal",
+            "B) Gadar Party",
+            "C) Pajauta Movement",
+            "D) Dumh Movement"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 3,
+        "question": "The first one-day international cricket match was played between which the following teams in HPCA Stadium Dharamshala?",
+        "type": "MCQ",
+        "options": [
+            "A) India and England",
+            "B) India and South Africa",
+            "C) India and Australia",
+            "D) Newzealand and England"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 4,
+        "question": "'No scenery in my opinion presents such sublime and delightful contrasts.' This quote by G.C. Barnes is for which of the following district?",
+        "type": "MCQ",
+        "options": [
+            "A) Kangra",
+            "B) Kullu",
+            "C) Kinnaur",
+            "D) Chamba"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 5,
+        "question": "Match the following combinations and select the correct answer",
+        "type": "statements",
+        "statements": [
+            "A) Koti state    -  Founded by descendants of Guler state",
+            "B) Balsan state  -  An offshoot of ancient Sirmaur",
+            "C) Dhami state   -  Founded by the descendants of Prithviraj Chauhan",
+            "D) Darkoti state -  Founder ruler was Durga Singh a scion of the house of Jaipur (Marwar)"
+        ],
+        "options": [
+            "A) All are true",
+            "B) Only 1 is false",
+            "C) All are false",
+            "D) Only 3 is true"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 6,
+        "question": "\u2018Mundro\u2019 and Garu\u2019 are known as the children of the hypergamous union of which of the following tribe?",
+        "type": "MCQ",
+        "options": [
+            "A) Swanglas",
+            "B) Gaddis",
+            "C) Khampas",
+            "D) Gujjars"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 7,
+        "question": "Kunchen form of marriage in Sikkim is exactly similar to which of the following marriage system of H.P.?",
+        "type": "MCQ",
+        "options": [
+            "A) Damchalshish",
+            "B) Darosh (dub-dub)",
+            "C) Batta-Satta",
+            "D) Chheti"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 8,
+        "question": "The Jad tribe of Himachal Pradesh are followers of which of the following religion?",
+        "type": "MCQ",
+        "options": [
+            "A) Buddhism",
+            "B) Hinduism",
+            "C) Islam",
+            "D) Christianity"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 9,
+        "question": "Read the following statements carefully:",
+        "type": "statements",
+        "statements": [
+            "1. Sultan Mahmud Ghaznavi attacked Nagarkot fort in 1009 A.D.",
+            "2. In 1339, the Nagarkot expedition was led personally by Sultan Muhammad Tugluq",
+            "3. In 1348 A.D., Raja Purab Chand recovered Kangra fort",
+            "4. After Amir Timur\u2019s return, Hari Chand ascended the throne of Kangra in 1405 A.D."
+        ],
+        "options": [
+            "A) 1 and 2",
+            "B) 2 and 3",
+            "C) 2 and 4",
+            "D) 1 and 4"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 10,
+        "question": "Which of the following are not true about folk dances, fairs and festivals of H.P.?",
+        "type": "statements",
+        "statements": [
+            "1. \u2018Kharait\u2019 and \u2018Ujagjama\u2019 are famous sword dances",
+            "2. \u2018Bhunda\u2019, \u2018Shant\u2019 and \u2018Bhoj\u2019 are given the importance of \u2018Kumbha\u2019 by the hill people",
+            "3. \u2018Minjar\u2019 fair starts on the second Sunday of Sawan",
+            "4. \u2018Chhamb\u2019 is the sacred masked dance performed only by Lamas"
+        ],
+        "options": [
+            "A) All of the above",
+            "B) 2 and 3",
+            "C) 1 and 4",
+            "D) None of these"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 11,
+        "question": "Which of the following statement(s) is/are not true?",
+        "type": "statements",
+        "statements": [
+            "1. Parangla pass lies between Kinnaur and Lahaul",
+            "2. Manirang is the highest peak of Chamba",
+            "3. Kalichho is the famous lake of the Chamba district",
+            "4. Chobia pass lies between Ladakh and Lahaul"
+        ],
+        "options": [
+            "A) All of the above",
+            "B) None of the above",
+            "C) 2 and 3",
+            "D) 4 only"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 12,
+        "question": "Select the true statements from the following:",
+        "type": "statements",
+        "statements": [
+            "1. Chamba, Kullu and Kinnaur are considered the most susceptible to landslide threats",
+            "2. Una, Bilaspur, Sirmaur, Shimla and Solan are considered as low vulnerable to disaster threats",
+            "3. Hum valley of Una district has hardly any natural drinking water source",
+            "4. As per the study of the central water board, Kala Amb valley in Sirinaur district has exploited the least underground water"
+        ],
+        "options": [
+            "A) 2 and 3",
+            "B) 2, 3 and 4",
+            "C) 1, 2 and 3",
+            "D) 4 only"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 13,
+        "question": "Which of the following statement (s) is/are not correct? Choose the right answer:",
+        "type": "statements",
+        "statements": [
+            "1. The per capita income at current prices as per first revised estimates for the year 2019-20 witnessed an increase of 6.2 per cent",
+            "2. As per the revised estimates, the contraction in the economy for 2020-21 was expected to be around 7.9 per cent as on December 2020",
+            "3. The Economic growth in the state (H.P.) is still governed by agriculture activities",
+            "4. The smaller projects in the hydroelectric power sector up to 2MW have been reserved for investors from Himachal Pradesh only"
+        ],
+        "options": [
+            "A) 2 only",
+            "B) 3 and 4",
+            "C) 1 and 2",
+            "D) 4 only"
+        ],
+        "subject": "HP Economic Survey"
+    },
+    {
+        "questionId": 14,
+        "question": "Which of the following statement(s) is/ are not correct about the Social Welfare programs of the Government of Himachal Pradesh?",
+        "type": "statements",
+        "statements": [
+            "1. e-Udyan portal: Where farmers can avail Horticulture farming service benefits while sitting in their home",
+            "2. Vishesh Mahila Utthan Yojna: Scheme formulated for rehabilitation of physically and sexually abused women through technical and vocational training",
+            "3. Medha Protsahan Yojna: Rupees one lakh is provided to the meritorious students to provide guidance at coaching centres",
+            "4. Mukhya Mantri Ek Bigha Scheme: State Government will empower rural women by helping them become self-sufficient and get employment under MGNREGS"
+        ],
+        "options": [
+            "A) 2 and 3",
+            "B) 1 and 4",
+            "C) 4 only",
+            "D) None of these"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 15,
+        "question": "Which of the following statements are correct?",
+        "type": "statements",
+        "statements": [
+            "1. Himachal Pradesh is the first state to pioneer the Districts Good Governance Index (DGGI) for measuring Governance Performance on seven themes",
+            "2. The idea of DGGI was obtained from the Public Affairs Centre, Bangaluru when Himachal Pradesh was ranked 1st among 12 small states on the Public Affair Index",
+            "3. The government of Himachal Pradesh has decided that DGGI will be the regular exercise of the Department of Economics and Statistics",
+            "4. Hamirpur district was awarded the first Prize on basis of DGGI-2019"
+        ],
+        "options": [
+            "A) All of the above",
+            "B) 3 only",
+            "C) 4 only",
+            "D) 1, 2 and 3"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 16,
+        "question": "Which of the following statement(s) is/are not correct about the Banking System in Himachal Pradesh?",
+        "type": "statements",
+        "statements": [
+            "1. As per census 2011, the average population per branch in the state comes to 3129 people",
+            "2. The Himachal Pradesh State Cooperative Bank Ltd. has 217 branches in Himachal Pradesh",
+            "3. Kangra district has the highest number of 423 bank branches",
+            "4. The State Bank of India has been given the responsibility of Lead Bank of two districts Chamba and Lahaul-Spiti"
+        ],
+        "options": [
+            "A) None of these",
+            "B) 1, 3 and 4",
+            "C) All of these",
+            "D) 2 only"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 17,
+        "question": "NABARD consultancy services (NABCONS) was not involved in which of the following assignments during the financial year 2020-21?",
+        "type": "statements",
+        "statements": [
+            "1. A comprehensive study of Kisan Credit Card scheme and Handloom sector",
+            "2. Third-party survey of Toilets constructed by SJVN",
+            "3. Third-party inspection of Border Area Development Program",
+            "4. NABCONS was now Central Technical Support Agency for Deen Dayal Upadhyaya Grameen Kaushal Vikas Yojana (DDU-GKY) in the state"
+        ],
+        "options": [
+            "A) None of these",
+            "B) 2 and 4",
+            "C) 1 and 3",
+            "D) All of these"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 18,
+        "question": "Which of the following statement (s) is/are correct?",
+        "type": "statements",
+        "statements": [
+            "1. As per the 2011 census, Himachal Pradesh is the only state in the country where 89.96 % population lives in rural areas",
+            "2. Agriculture / Horticulture provide direct employment to about 70 per cent of the total workers of the state",
+            "3. About 15.72 per cent of the total GSDP comes from Agriculture and its allied sectors",
+            "4. Out of the total geographical area of the state, the area of operational holdings is about 29.44 lakh hectares"
+        ],
+        "options": [
+            "A) 3 and 4",
+            "B) 1 and 2",
+            "C) 3 only",
+            "D) 4 only"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 19,
+        "question": "Select the incorrect sentence(s) from the following: Choose the right answer:",
+        "type": "statements",
+        "statements": [
+            "1. The state government has taken an initiative towards good governance by setting up the CM Dashboard",
+            "2. Bharat Net is an initiative of the Government of India to provide broadband services to the Municipalities",
+            "3. HIMSWAN was set up in the state under the state e-governance Plan (SeGP) in 2010",
+            "4. The government of Himachal Pradesh has set up a \u2018State Data Centre at Delhi in 2020"
+        ],
+        "options": [
+            "A) 4 only",
+            "B) 2 and 3",
+            "C) 1 and 4",
+            "D) 1 only"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 20,
+        "question": "Which of the following is/are correct about the Himachal Pradesh Town & Country Planning Act-1977? Choose the right answer:",
+        "type": "statements",
+        "statements": [
+            "1. It has been enforced in 55 Planning areas",
+            "2. The planning area constitutes to 1.60% of the total geographical area of the state",
+            "3. The above act is enforced in 35 special areas of Himachal Pradesh",
+            "4. 2.06% area of the total geographical area of the state comes under special area"
+        ],
+        "options": [
+            "A) None of these",
+            "B) 2 and 3",
+            "C) 4 only",
+            "D) All of these"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 21,
+        "question": "Match List-I with List-II and choose the correct answer from the given options: Choose the right answer:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "a. Herman Goetz",
+                "b. W.G. Archer",
+                "c. M.S. Randhawa",
+                "d. Joseph Charles French"
+            ],
+            "heading": "Author"
+        },
+        "listII": {
+            "items": [
+                "(1)   Himalayan Art",
+                "(2)  The Early Wooden Temples of Chamb",
+                "(3) Kangra Valley Paintings",
+                "(4)  Kangra Painting"
+            ],
+            "heading": "Books"
+        },
+        "options": [
+            "A) (a-4) (b-3) (c-2) (4-1)",
+            "B) (a-3) (b-4) (c-1) (4-2)",
+            "C) (a-4) (b-1) (c-2) (4-3)",
+            "D) (a-2) (b-4) (c-3) (4-1)"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 22,
+        "question": "Choose the right answer:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "a. Bandli sanctuary",
+                "b. Daranghati sanctuary",
+                "c. Gamgul Siahbehi sanctuary",
+                "d. Lippa-Asrang sanctuary"
+            ],
+            "heading": "ListI"
+        },
+        "listII": {
+            "items": [
+                "1)   Mandi",
+                "2)  Upper catchment areas of Tirthan, Sainj and Jiva rivers",
+                "3) Shimla",
+                "4)  Chamba"
+            ],
+            "heading": "ListII"
+        },
+        "options": [
+            "A) (A-5) (B-2) (C-1) (D-4)",
+            "B) (A-1) (B-3) (C-2) (D-5)",
+            "C) (A-1) (B-3) (C-4) (D-5)",
+            "D) (A-1) (B-2) (C-4) (D-5)"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 23,
+        "question": "Choose the right answer:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "a. Zungtee",
+                "b. A scene of savage grandeur",
+                "c. Mone",
+                "d. Chhepta"
+            ],
+            "heading": "ListI"
+        },
+        "listII": {
+            "items": [
+                "1)   Tidong",
+                "2)  The historical village",
+                "3) A fine awarded by Biradri Panchayat",
+                "4)  Birth Customs",
+                "5) Satluj"
+            ],
+            "heading": "ListII"
+        },
+        "options": [
+            "A) (A-5) (B-2) (C-1) (D-4)",
+            "B) (A-4) (B-3) (C-5) (D-2)",
+            "C) (A-3) (B-5) (C-2) (D-1)",
+            "D) (A-5) (B-1) (C-2) (D-3)"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 24,
+        "question": "Desertification is a term used to explain a process of decline in the biological productivity of an ecosystem, leading to total loss of productivity. While this phenomenon is often linked to the arid, semi-arid and sub-humid ecosystems, even in the humid tropics, the impact could be most dramatic. The impoverishment of human-impacted terrestrial ecosystems may exhibit itself in a variety of ways; accelerated erosion as in the mountain regions of the country, salinization of land as in the semi-arid and arid \u2018green revolution\u2019 areas of the country, e.g., Haryana and Western Uttar Pradesh, and site quality decline \u2013 a common phenomenon due to general decline in tree cover and monotonous monoculture of rice/wheat across the Indian plains. A major consequence of deforestation is that it relates to adverse alterations in hydrology and related soil nutrient losses. The consequence of deforestation invariably arise out of site degradation through erosive losses. Tropical Asia, Africa and South America have the highest levels of erosion. The ultimate consequences of site desertification are soil degradation, alteration in available water and its quality and the consequent decline in food, fodder and fuel-wood yields essentials for the economic well beings of rural communities.\n Desertification leads to a decline in:",
+        "type": "MCQ",
+        "options": [
+            "A) Industrial productivity",
+            "B) Agricultural productivity",
+            "C) Biological productivity",
+            "D) Human productivity"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 25,
+        "question": "Desertification is a term used to explain a process of decline in the biological productivity of an ecosystem, leading to total loss of productivity. While this phenomenon is often linked to the arid, semi-arid and sub-humid ecosystems, even in the humid tropics, the impact could be most dramatic. The impoverishment of human-impacted terrestrial ecosystems may exhibit itself in a variety of ways; accelerated erosion as in the mountain regions of the country, salinization of land as in the semi-arid and arid \u2018green revolution\u2019 areas of the country, e.g., Haryana and Western Uttar Pradesh, and site quality decline \u2013 a common phenomenon due to general decline in tree cover and monotonous monoculture of rice/wheat across the Indian plains. A major consequence of deforestation is that it relates to adverse alterations in hydrology and related soil nutrient losses. The consequence of deforestation invariably arise out of site degradation through erosive losses. Tropical Asia, Africa and South America have the highest levels of erosion. The ultimate consequences of site desertification are soil degradation, alteration in available water and its quality and the consequent decline in food, fodder and fuel-wood yields essentials for the economic well beings of rural communities.\n Desertification leads to a decline in:",
+        "type": "MCQ",
+        "options": [
+            "A) Industrial productivity",
+            "B) Agricultural productivity",
+            "C) Biological productivity",
+            "D) Human productivity"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 26,
+        "question": "Desertification is a term used to explain a process of decline in the biological productivity of an ecosystem, leading to total loss of productivity. While this phenomenon is often linked to the arid, semi-arid and sub-humid ecosystems, even in the humid tropics, the impact could be most dramatic. The impoverishment of human-impacted terrestrial ecosystems may exhibit itself in a variety of ways; accelerated erosion as in the mountain regions of the country, salinization of land as in the semi-arid and arid \u2018green revolution\u2019 areas of the country, e.g., Haryana and Western Uttar Pradesh, and site quality decline \u2013 a common phenomenon due to general decline in tree cover and monotonous monoculture of rice/wheat across the Indian plains. A major consequence of deforestation is that it relates to adverse alterations in hydrology and related soil nutrient losses. The consequence of deforestation invariably arise out of site degradation through erosive losses. Tropical Asia, Africa and South America have the highest levels of erosion. The ultimate consequences of site desertification are soil degradation, alteration in available water and its quality and the consequent decline in food, fodder and fuel-wood yields essentials for the economic well beings of rural communities.\n Where is the level of erosion highest?",
+        "type": "MCQ",
+        "options": [
+            "A) Monsoon Asia climate",
+            "B) Tropical Asia climate",
+            "C) Tropical Savannah climate",
+            "D) Tropical Steppe climate"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 27,
+        "question": "Desertification is a term used to explain a process of decline in the biological productivity of an ecosystem, leading to total loss of productivity. While this phenomenon is often linked to the arid, semi-arid and sub-humid ecosystems, even in the humid tropics, the impact could be most dramatic. The impoverishment of human-impacted terrestrial ecosystems may exhibit itself in a variety of ways; accelerated erosion as in the mountain regions of the country, salinization of land as in the semi-arid and arid \u2018green revolution\u2019 areas of the country, e.g., Haryana and Western Uttar Pradesh, and site quality decline \u2013 a common phenomenon due to general decline in tree cover and monotonous monoculture of rice/wheat across the Indian plains. A major consequence of deforestation is that it relates to adverse alterations in hydrology and related soil nutrient losses. The consequence of deforestation invariably arise out of site degradation through erosive losses. Tropical Asia, Africa and South America have the highest levels of erosion. The ultimate consequences of site desertification are soil degradation, alteration in available water and its quality and the consequent decline in food, fodder and fuel-wood yields essentials for the economic well beings of rural communities.\n Deforestation adversely affects the",
+        "type": "MCQ",
+        "options": [
+            "A) Geomorphology",
+            "B) Pedology",
+            "C) Cryology",
+            "D) Hydrology"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 28,
+        "question": "Desertification is a term used to explain a process of decline in the biological productivity of an ecosystem, leading to total loss of productivity. While this phenomenon is often linked to the arid, semi-arid and sub-humid ecosystems, even in the humid tropics, the impact could be most dramatic. The impoverishment of human-impacted terrestrial ecosystems may exhibit itself in a variety of ways; accelerated erosion as in the mountain regions of the country, salinization of land as in the semi-arid and arid \u2018green revolution\u2019 areas of the country, e.g., Haryana and Western Uttar Pradesh, and site quality decline \u2013 a common phenomenon due to general decline in tree cover and monotonous monoculture of rice/wheat across the Indian plains. A major consequence of deforestation is that it relates to adverse alterations in hydrology and related soil nutrient losses. The consequence of deforestation invariably arise out of site degradation through erosive losses. Tropical Asia, Africa and South America have the highest levels of erosion. The ultimate consequences of site desertification are soil degradation, alteration in available water and its quality and the consequent decline in food, fodder and fuel-wood yields essentials for the economic well beings of rural communities.\n Desertification often occurs in",
+        "type": "MCQ",
+        "options": [
+            "A) Polar areas",
+            "B) Hot desert areas",
+            "C) Cold weather season",
+            "D) Arunachal Pradesh"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 29,
+        "question": "Desertification is a term used to explain a process of decline in the biological productivity of an ecosystem, leading to total loss of productivity. While this phenomenon is often linked to the arid, semi-arid and sub-humid ecosystems, even in the humid tropics, the impact could be most dramatic. The impoverishment of human-impacted terrestrial ecosystems may exhibit itself in a variety of ways; accelerated erosion as in the mountain regions of the country, salinization of land as in the semi-arid and arid \u2018green revolution\u2019 areas of the country, e.g., Haryana and Western Uttar Pradesh, and site quality decline \u2013 a common phenomenon due to general decline in tree cover and monotonous monoculture of rice/wheat across the Indian plains. A major consequence of deforestation is that it relates to adverse alterations in hydrology and related soil nutrient losses. The consequence of deforestation invariably arise out of site degradation through erosive losses. Tropical Asia, Africa and South America have the highest levels of erosion. The ultimate consequences of site desertification are soil degradation, alteration in available water and its quality and the consequent decline in food, fodder and fuel-wood yields essentials for the economic well beings of rural communities.\n Accelerated erosion chiefly occurs in",
+        "type": "MCQ",
+        "options": [
+            "A) Mountains",
+            "B) Plains",
+            "C) Valley",
+            "D) Plateau"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 30,
+        "question": "Who was the author of the book \u2018Gulamgiri\u201d?",
+        "type": "MCQ",
+        "options": [
+            "A) Swami Dayanand",
+            "B) Dr.B.R. Ambedkar",
+            "C) Mahatma Jyotiba Pule",
+            "D) Swami Ramkrishan Parmhans"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 31,
+        "question": "In which year \u2018The Indian Universities Act\u2019 was passed?",
+        "type": "MCQ",
+        "options": [
+            "A) 1901",
+            "B) 1904",
+            "C) 1905",
+            "D) 1909"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 32,
+        "question": "In which Governor General\u2019s tenure, the Britishers conquered \u2018Sindh\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) Lord Auckland",
+            "B) Lord Ellenborough",
+            "C) Lord Hasting",
+            "D) Lord Dalhousie"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 33,
+        "question": "Shifting cultivation in Jharkhand State is known as:",
+        "type": "MCQ",
+        "options": [
+            "A) Koman",
+            "B) Khil",
+            "C) Kuruwa",
+            "D) Kumari"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 34,
+        "question": "Which of the following pair is not correctly matched?",
+        "type": "MCQ",
+        "options": [
+            "A) Kosi \u2013 Consequent river",
+            "B) Narmada \u2013 Rift valley river",
+            "C) Sutlej \u2013 Antecedent river",
+            "D) Ghaggar \u2013 Endoreic river"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 35,
+        "question": "Which of the following glaciers is located in the Karakoram ranges of the Himalayan region?",
+        "type": "MCQ",
+        "options": [
+            "A) Shafat",
+            "B) Milam",
+            "C) Zemu",
+            "D) Biafo"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 36,
+        "question": "Kirghiz refers to:",
+        "type": "MCQ",
+        "options": [
+            "A) Desert",
+            "B) Lake",
+            "C) Cattle herders",
+            "D) Mountain"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 37,
+        "question": "Alps mountain chain is related with:",
+        "type": "MCQ",
+        "options": [
+            "A) Europe",
+            "B) Asia",
+            "C) Australia",
+            "D) Antarctic"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 38,
+        "question": "The water holding capacity is highest in:",
+        "type": "MCQ",
+        "options": [
+            "A) Sandy soil",
+            "B) Clayey soil",
+            "C) Loamy soil",
+            "D) Mixture of sand and loam"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 39,
+        "question": "Which leader was not a member of the Constitutional Draft Committee?",
+        "type": "MCQ",
+        "options": [
+            "A) Jawaharlal Nehru",
+            "B) Dr.B.R. Ambedkar",
+            "C) B.L. Mitter",
+            "D) Mohammad Saadulla"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 40,
+        "question": "Which of the following officers can be removed from his office by the Governor?",
+        "type": "MCQ",
+        "options": [
+            "A) Advocate General of State",
+            "B) State Election. Commissioner",
+            "C) Member, State Public Service Commission",
+            "D) Member, State Human Rights Commission"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 41,
+        "question": "By which time Governor has to return an ordinary bill to the concerned State Legislative Assembly for reconsideration?",
+        "type": "MCQ",
+        "options": [
+            "A) One month",
+            "B) Two months",
+            "C) Six months",
+            "D) No time limit"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 42,
+        "question": "The sustainable Development Goal \u201cGood Health and Well being\u2019 has shown improvement in India due to:",
+        "type": "MCQ",
+        "options": [
+            "A) Clean Water & Sanitation",
+            "B) Decline in Maternal Mortality Ratio",
+            "C) Better Access to Housing",
+            "D) Widespread Waste Collection and Procession"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 43,
+        "question": "\u2018National Mission for Sustainable Agriculture has been launched to:",
+        "type": "MCQ",
+        "options": [
+            "A) Enhance agricultural productivity by integrated farming",
+            "B) Promote organic farming",
+            "C) Increase irrigation coverage",
+            "D) Provide insurance cover to farmers"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 44,
+        "question": "The government has released a new four-colour classification scheme for industries based on their pollution potential. Which is not correct in this regard?",
+        "type": "MCQ",
+        "options": [
+            "A) Moderately polluting \u2013 orange category",
+            "B) Not polluting \u2013 white category",
+            "C) Most polluting-red category",
+            "D) None of these"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 45,
+        "question": "What is the minimum calorie requirement in rural areas for measuring poverty?",
+        "type": "MCQ",
+        "options": [
+            "A) 2100 calories per person per day",
+            "B) 2200 calories per person per day",
+            "C) 2400 calories per person per day",
+            "D) 3100 calories per person per day"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 46,
+        "question": "The phenomenon of \u2018demographic dividend\u2019 of a country is related to:",
+        "type": "MCQ",
+        "options": [
+            "A) A sharp decline in the total population",
+            "B) A decline in the infant mortality Rate",
+            "C) An increase in the sex ratio",
+            "D) An increase in the population in the working-age group"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 47,
+        "question": "SANKALP is launched to provide:",
+        "type": "MCQ",
+        "options": [
+            "A) Better healthcare for rural poor",
+            "B) Better healthcare for urban poor",
+            "C) Quality education",
+            "D) Market relevant training to youth"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 48,
+        "question": "According to FRBM Act, India\u2019s fiscal deficit should not exceed:",
+        "type": "MCQ",
+        "options": [
+            "A) 2 percent of GDP",
+            "B) 3 percent of GDP",
+            "C) 4 percent of GDP",
+            "D) 3.5 percent of GDP"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 49,
+        "question": "Which of the following statement is not correct?",
+        "type": "MCQ",
+        "options": [
+            "A) Calcium oxide reacts vigorously with water to produce lime",
+            "B) Slaked lime slowly creates a layer of calcium nitrate on the walls during whitewashing",
+            "C) Silver chloride is sensitive to sunlight",
+            "D) Decomposition reactions require energy for breaking down of reactants"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 50,
+        "question": "Which of the following statement is correct?",
+        "type": "MCQ",
+        "options": [
+            "A) A very small opaque object does not change the straight path of light",
+            "B) Convex mirrors are generally used in torches",
+            "C) The mass density of kerosene is less than that of water",
+            "D) The ability of a medium to reflect light is expressed as optical density"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 51,
+        "question": "Which of the following statement is not correct?",
+        "type": "MCQ",
+        "options": [
+            "A) During dental caries, bacteria act on saliva to produce acids",
+            "B) Blood pressure much greater in arteries than in veins",
+            "C) Normal systolic pressure is about 120mm of Hg and diastolic pressure is 80 mm of Hg",
+            "D) Dental plaque is caused by demineralization of enamel"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 52,
+        "question": "Which of the following statement is correct?",
+        "type": "MCQ",
+        "options": [
+            "A) Cell vacuoles do not store waste materials",
+            "B) Water transport in plants occurs across xylem",
+            "C) Breakdown of pyruvate in yeast in the absence of oxygen yields ethanol",
+            "D) Energy released from the rupture of the terminal phosphate group of ATP is equivalent to 35.5 kJ/mol"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 53,
+        "question": "What was the name of the chariot of Lord Jagannath during the recent Rath Yatra?",
+        "type": "MCQ",
+        "options": [
+            "A) Taladhwaja",
+            "B) Debadalana",
+            "C) Gundicha",
+            "D) Nandighosha"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 54,
+        "question": "E-Medha portal is related to what?",
+        "type": "MCQ",
+        "options": [
+            "A) Related to Ayurveda terminologies to record clinical study",
+            "B) Deals with R&D in Ayurveda",
+            "C) Online public access catalogue for Indian medical heritage books",
+            "D) Provides digitized information on rare manuscripts"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 55,
+        "question": "What is true about the Overseas Citizens of India (OCI) card scheme?",
+        "type": "MCQ",
+        "options": [
+            "A) The cardholder gets a multipurpose lifetime visa to visit India",
+            "B) He/She can purchase agricultural land in India",
+            "C) He/She gets voting rights",
+            "D) If registered for five years, he/she will automatically get Indian citizenship"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 56,
+        "question": "Which foreign country\u2019s contingent took part in Republic Day Parade 2021?",
+        "type": "MCQ",
+        "options": [
+            "A) Bangladesh",
+            "B) Sri Lanka",
+            "C) Afghanistan",
+            "D) Myanmar"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 57,
+        "question": "Which is the latest country with whom India has established 2+2 dialogue recently?",
+        "type": "MCQ",
+        "options": [
+            "A) USA",
+            "B) Japan",
+            "C) Russia",
+            "D) Australia"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 58,
+        "question": "Who is appointed as the new Prime Minister of Italy in February 2021?",
+        "type": "MCQ",
+        "options": [
+            "A) Mario Draghi",
+            "B) Giancario Giorgetti",
+            "C) Andrea Oriando",
+            "D) Luigi Di Maio"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 59,
+        "question": "Which of the countries became members of the Shanghai Cooperation Organization (SCO) in 2017?",
+        "type": "statements",
+        "statements": [
+            "1. India",
+            "2. Afghanistan",
+            "3. Turkey",
+            "4. Pakistan"
+        ],
+        "options": [
+            "A) 1 and 2",
+            "B) 2 and 3",
+            "C) 1 and 3",
+            "D) 1 and 4"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 60,
+        "question": "Arrange the following Gandhi Peace Prize award winner personalities/institutions in chronological order on the basis of the year awards were conferred on them:",
+        "type": "chronology",
+        "items": [
+            "1. Yohei Sasakawa",
+            "2. Sheikh Mujibur Rehman",
+            "3. Ekal Abhiyan Trust",
+            "4. Qaboos bin Said Al Said"
+        ],
+        "options": [
+            "A) 1, 2, 4, 3",
+            "B) 3, 1, 4, 2",
+            "C) 4, 2, 1, 3",
+            "D) 2, 3, 4, 1"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 61,
+        "question": "There are two statements. In the light of these two statements, choose the most appropriate from the options given below",
+        "type": "statements",
+        "statements": [
+            "Statement 1: There was a provision in the Charter Act of 1833 to abolish slavery",
+            "Statement 2: In 1855, the British merged the Riyasat of Awadh with their kingdom, accusing them of misrule"
+        ],
+        "options": [
+            "A) Both Statement 1 and Statement 2 are correct",
+            "B) Both Statement 1 and Statement 2 are incorrect",
+            "C) Statement 1 is correct and Statement 2 is incorrect",
+            "D) Statement 1 is incorrect and Statement 2 is correct"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 62,
+        "question": "There are two statements. In the light of these two statements, choose the most appropriate from the options given below",
+        "type": "statements",
+        "statements": [
+            "Statement 1: Young Bengal Movement was started by Sisir Kumar Ghosh.",
+            "Statement 2: Prarthna Samaj was established in Bombay in 1865."
+        ],
+        "options": [
+            "A) Both Statement 1 and Statement 2 are correct",
+            "B) Both Statement 1 and Statement 2 are incorrect",
+            "C) Statement 1 is correct and Statement 2 is incorrect",
+            "D) Statement 1 is incorrect and Statement 2 is correct"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 63,
+        "question": "There are two statements. In the light of these two statements, choose the most appropriate from the options given below",
+        "type": "statements",
+        "statements": [
+            "Statement 1: Container Corporation of India Limited is under the administrative control of the Ministry of Defence.",
+            "Statement 2: Dedicated Goods Transport Corridor Corporation Limited is under the administrative control of the Ministry of Railways."
+        ],
+        "options": [
+            "A) Both Statement 1 and Statement 2 are correct",
+            "B) Both Statement 1 and Statement 2 are incorrect",
+            "C) Statement 1 is correct and Statement 2 is incorrect",
+            "D) Statement 1 is incorrect and Statement 2 is correct"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 64,
+        "question": "There are two statements. In the light of these two statements, choose the most appropriate from the options given below",
+        "type": "statements",
+        "statements": [
+            "Statement 1: Quepem and Canacona are the chief bauxite deposits areas in Goa.",
+            "Statement 2: Most of the bauxite deposits in India are associated with laterites and occur generally as sheets."
+        ],
+        "options": [
+            "A) Both Statement 1 and Statement 2 are correct",
+            "B) Both Statement 1 and Statement 2 are incorrect",
+            "C) Statement 1 is correct and Statement 2 is incorrect",
+            "D) Statement 1 is incorrect and Statement 2 is correct"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 65,
+        "question": "There are two statements. In the light of these two statements, choose the most appropriate from the options given below",
+        "type": "statements",
+        "statements": [
+            "Statement 1: Mahatma Gandhi gave the slogan of \u2018Do or Die\u2019 during Quit India Movement.",
+            "Statement 2: Subhash Chandra Bose established Forward Bloc Party in 1939."
+        ],
+        "options": [
+            "A) Both Statement 1 and Statement 2 are correct",
+            "B) Both Statement 1 and Statement 2 are incorrect",
+            "C) Statement 1 is correct and Statement 2 is incorrect",
+            "D) Statement 1 is incorrect and Statement 2 is correct"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 66,
+        "question": "There are two statements. In the light of these two statements, choose the most appropriate from the options given below",
+        "type": "statements",
+        "statements": [
+            "Statement 1: In 1942, S.N. Tagore established Indian Revolutionary Communist Party.",
+            "Statement 2: Dr.B.R. Ambedkar moved \u2018Objective Resolution\u2019 in Constituent Assembly on 13\u2033 December 1946."
+        ],
+        "options": [
+            "A) Both Statement 1 and Statement 2 are correct",
+            "B) Both Statement 1 and Statement 2 are incorrect",
+            "C) Statement 1 is correct and Statement 2 is incorrect",
+            "D) Statement 1 is incorrect and Statement 2 is correct"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 67,
+        "question": "There are two statements. In the light of these two statements, choose the most appropriate from the options given below",
+        "type": "statements",
+        "statements": [
+            "Statement 1: Revenue Deficit is the excess of revenue expenditure over revenue receipts.",
+            "Statement 2: Effective Revenue Deficit is the difference between Revenue Deficit and Grants for the creation of Capital Assets."
+        ],
+        "options": [
+            "A) Both Statement 1 and Statement 2 are correct",
+            "B) Both Statement 1 and Statement 2 are incorrect",
+            "C) Statement 1 is correct and Statement 2 is incorrect",
+            "D) Statement 1 is incorrect and Statement 2 is correct"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 68,
+        "question": "There are two statements. In the light of these two statements, choose the most appropriate from the options given below",
+        "type": "statements",
+        "statements": [
+            "Statement 1: The amount of usable energy remains constant as it is passed from one trophic level to another.",
+            "Statement 2: The energy within an ecosystem is constant and never changes."
+        ],
+        "options": [
+            "A) Both Statement 1 and Statement 2 are correct",
+            "B) Both Statement 1 and Statement 2 are incorrect",
+            "C) Statement 1 is correct and Statement 2 is incorrect",
+            "D) Statement 1 is incorrect and Statement 2 is correct"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 69,
+        "question": "There are two statements. In the light of these two statements, choose the most appropriate from the options given below",
+        "type": "statements",
+        "statements": [
+            "Statement 1: Ruhar Valley of Germany is the world\u2019s greatest mining and industrial region.",
+            "Statement 2: Bostan is an important shipbuilding centre in the USA."
+        ],
+        "options": [
+            "A) Both Statement 1 and Statement 2 are correct",
+            "B) Both Statement 1 and Statement 2 are incorrect",
+            "C) Statement 1 is correct and Statement 2 is incorrect",
+            "D) Statement 1 is incorrect and Statement 2 is correct"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 70,
+        "question": "There are two statements. In the light of these two statements, choose the most appropriate from the options given below",
+        "type": "statements",
+        "statements": [
+            "Statement 1: Malacca Strait is a shipping channel between the Indian Ocean and the Pacific Ocean.",
+            "Statement 2: Irrawaddy River system is related to Indonesia."
+        ],
+        "options": [
+            "A) Both Statement 1 and Statement 2 are correct",
+            "B) Both Statement 1 and Statement 2 are incorrect",
+            "C) Statement 1 is correct and Statement 2 is incorrect",
+            "D) Statement 1 is incorrect and Statement 2 is correct"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 71,
+        "question": "Arrange the following events in chronological order: Choose the right answer:",
+        "type": "chronology",
+        "items": [
+            "1. Death of C.R. Das",
+            "2. Simon Commission appointed",
+            "3. Death of revolutionary Jatin Das",
+            "4. Nehru Report"
+        ],
+        "options": [
+            "A) 1, 2, 3, 4",
+            "B) 1, 2, 4, 3",
+            "C) 2, 1, 3, 4",
+            "D) 2, 1, 4, 3"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 72,
+        "question": "Arrange these later Mughal Badshahs chronologically: Choose the right answer:",
+        "type": "chronology",
+        "items": [
+            "1. Jahandar Shah",
+            "2. Farrukhsiyar",
+            "3. Ahmed Shah",
+            "4. Alamgir II"
+        ],
+        "options": [
+            "A) 1, 2, 3, 4",
+            "B) 3, 1, 2, 4",
+            "C) 1, 2, 4, 3",
+            "D) 2, 1, 3, 4"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 73,
+        "question": "Arrange the following rivers from East to West direction: Choose the right answer:",
+        "type": "chronology",
+        "items": [
+            "1. Kosi river",
+            "2. Teesta river",
+            "3. Gandak river",
+            "4. Sharda river"
+        ],
+        "options": [
+            "A) 2, 3, 4, 1",
+            "B) 2, 1, 3, 4",
+            "C) 2, 1, 4, 3",
+            "D) 3, 2, 4, 1"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 74,
+        "question": "Arrange the following countries from North to South: Choose the right answer:",
+        "type": "chronology",
+        "items": [
+            "1. Norway",
+            "2. Denmark",
+            "3. Austria",
+            "4. Spain"
+        ],
+        "options": [
+            "A) 4, 3, 2, 1",
+            "B) 1, 2, 3, 4",
+            "C) 2, 1, 3, 4",
+            "D) 3, 4, 2, 1"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 75,
+        "question": "Arrange the following from South to North :",
+        "type": "chronology",
+        "items": [
+            "1. Arctic Ocean",
+            "2. Gulf of Mexico",
+            "3. Hudson Bay",
+            "4. Baffin Bay"
+        ],
+        "options": [
+            "A) 1, 2, 3, 4",
+            "B) 2, 4, 1, 3",
+            "C) 1, 3, 2, 4",
+            "D) 2, 3, 4, 1"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 76,
+        "question": "Put these agrarian movements in chronological order with the date of their start",
+        "type": "chronology",
+        "items": [
+            "1. Bardoli Peasants Movement",
+            "2. Khera Peasants Movement",
+            "3. Champaran Satyagrah",
+            "4. Mopla Peasants Movement"
+        ],
+        "options": [
+            "A) 2, 3, 1, 4",
+            "B) 3, 2, 4, 1",
+            "C) 3, 4, 1, 2",
+            "D) 1, 3, 2, 4"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 77,
+        "question": "Arrange the following steps in relation to self-help groups in the correct sequence:",
+        "type": "chronology",
+        "items": [
+            "1. Lending, repayment and maintaining accounts and records",
+            "2. Arranging regular meetings with groups",
+            "3. Identifying the area and forming a group of women with common interests",
+            "4. Deciding on the amount for contribution and pooling the money"
+        ],
+        "options": [
+            "A) 4, 3, 2, 1",
+            "B) 1, 2, 3, 4",
+            "C) 3, 2, 4,1",
+            "D) 2, 3, 4, 1"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 78,
+        "question": "Arrange the following four Indo-US defence agreements in chronological order on the basis of year of signing of these pacts:",
+        "type": "chronology",
+        "items": [
+            "1. Logistics Exchange Memorandum of Association (LEMOA)",
+            "2. Basic Exchange and Cooperation Agreement (BECA)",
+            "3. General Security of Military Information Agreement (GSOMIA)",
+            "4. Communications Compatibility and Security Agreement (COMCASA)"
+        ],
+        "options": [
+            "A) 1, 2, 3, 4",
+            "B) 2, 4, 3, 1",
+            "C) 3, 1, 4, 2",
+            "D) 4, 2, 1, 3"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 79,
+        "question": "Consider the given four statements and choose the correct answer from the given options. Choose the correct answer:",
+        "type": "statements",
+        "statements": [
+            "1. In 1865, High Courts were established at Calcutta, Madras and Bombay",
+            "2. In 1791, Jonathan Duncan, started a Sanskrit College at Varanasi",
+            "3. The first Telegraph line from Calcutta to Agra was opened in 1854",
+            "4. The Pitt\u2019s India Act was passed in 1785"
+        ],
+        "options": [
+            "A) 1 and 2",
+            "B) 3 and 4",
+            "C) 1 and 3",
+            "D) 2 and 3"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 80,
+        "question": "Consider the given four statements and choose the correct answer from the given options. Choose the correct answer:",
+        "type": "statements",
+        "statements": [
+            "1. Haider Ali established a Modern arsenal in Dindigul in 1757 AD",
+            "2. Haider Ali died in 1783 AD",
+            "3. Tipu Sultan planted a \u2018Tree of Liberty\u2019 at Srirangapatnam",
+            "4. Tipu Sultan was a member of a \u2018Jacobin Club\u2019"
+        ],
+        "options": [
+            "A) 3 and 4",
+            "B) 1 and 4",
+            "C) 2 and 3",
+            "D) 2 and 4"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 81,
+        "question": "Consider the given four statements and choose the correct answer from the given options. Choose the correct answer:",
+        "type": "statements",
+        "statements": [
+            "1. Jute is used for making decorative items",
+            "2. Sugarcane is a cereal crop",
+            "3. Cotton requires a clear sky during the flowering stage",
+            "4. Sugarcane is a crop of temperate areas"
+        ],
+        "options": [
+            "A) 3 and 4",
+            "B) 1 and 3",
+            "C) 2 and 4",
+            "D) 2 and 3"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 82,
+        "question": "Consider the given four statements and choose the correct answer from the given options. Choose the correct answer:",
+        "type": "statements",
+        "statements": [
+            "1. Dholavira",
+            "2. Rakhigarhi",
+            "3. Mohenjo-Daro",
+            "4. Ganweriwala"
+        ],
+        "options": [
+            "A) 1 and 2",
+            "B) 2 and 3",
+            "C) 3 and 4",
+            "D) 2 and 4"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 83,
+        "question": "Consider the given four statements and choose the correct answer from the given options. Choose the correct answer:",
+        "type": "statements",
+        "statements": [
+            "1. Bedouins are the wandering tribes of Central Asia",
+            "2. Croats are inhabitants of Croatia",
+            "3. Eskimos live in the Philippines",
+            "4. People of New Zealand are known as Kiwis"
+        ],
+        "options": [
+            "A) 2 and 4",
+            "B) 1 and 4",
+            "C) 2 and 3",
+            "D) 1 and 2"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 84,
+        "question": "Consider the given four statements and choose the correct answer from the given options. Choose the correct answer:",
+        "type": "statements",
+        "statements": [
+            "1. Miami Beach is a centre for many world beauty contests",
+            "2. Glasgow is known for diamond mining",
+            "3. Honolulu is famous for textile industry",
+            "4. Istanbul is formerly known as Constantinople"
+        ],
+        "options": [
+            "A) 2 and 4",
+            "B) 3 and 4",
+            "C) 1 and 2",
+            "D) 1 and 4"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 85,
+        "question": "Consider the given four statements and choose the correct answer from the given options. Choose the correct answer:",
+        "type": "statements",
+        "statements": [
+            "1. Part IX has been created after the passing of 73rdconstitutional amendment",
+            "2. Part IXA has been created with the passing of 74thconstitutional amendment",
+            "3. Part X has been created with the approval of 73rdconstitutional amendment",
+            "4. Part XA has been created with the approval of 74thconstitutional amendment"
+        ],
+        "options": [
+            "A) 1 and 2",
+            "B) 2 and 3",
+            "C) 3 and 4",
+            "D) 1 and 4"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 86,
+        "question": "Consider the given four statements and choose the correct answer from the given options. Choose the correct answer:",
+        "type": "statements",
+        "statements": [
+            "1. Justice Deepak Misra has been instrumental in the creation of Public Interest Litigation (PIL)",
+            "2. Justice Ranjan Gogoi joined Rajya Sabha after retirement from Supreme Court",
+            "3. Justice P.N. Bhagwati introduced PIL",
+            "4. Justice V.K. Krishna Iyer resigned before time"
+        ],
+        "options": [
+            "A) 1 and 3",
+            "B) 3 and 4",
+            "C) 2 and 3",
+            "D) 1 and 4"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 87,
+        "question": "Consider the given four statements and choose the correct answer from the given options. Choose the correct answer:",
+        "type": "statements",
+        "statements": [
+            "1. \u2018Ease of Living Index\u2019 is released by the Ministry of Housing and Urban Affairs\u2018",
+            "2. This index was firstly released in August 2019",
+            "3. The citizen Participation survey is an important part of the Index assessment",
+            "4. It captures the quality of life based on data collected on 6 parameters"
+        ],
+        "options": [
+            "A) 1 and 2",
+            "B) 3 and 4",
+            "C) 1 and 3",
+            "D) 2 and 4"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 88,
+        "question": "Consider the given four statements and choose the correct answer from the given options. Choose the correct answer:",
+        "type": "statements",
+        "statements": [
+            "1. Jaivik Kheti Portal\u2019 is an initiative of the Ministry of Agriculture, Department of Agriculture along with the Ministry of Science Technology and Climate change",
+            "2. This portal is not an E-commerce platform",
+            "3. This portal does not promote organic farming",
+            "4. This portal provides price discovery mechanisms to help farmers"
+        ],
+        "options": [
+            "A) 1 and 2",
+            "B) 1 and 3",
+            "C) 2 and 4",
+            "D) 1 and 4"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 89,
+        "question": "Consider the given four statements and choose the correct answer from the given options. Choose the correct answer:",
+        "type": "statements",
+        "statements": [
+            "1. Blood plasma contains significant amounts of antibodies to fight coronavirus",
+            "2. Blood plasma is a pale yellow in colour",
+            "3. Blood plasma contains haemoglobin",
+            "4. Any person can donate blood plasma to any other person affected by a coronavirus"
+        ],
+        "options": [
+            "A) 1 and 3",
+            "B) 3 and 4",
+            "C) 1 and 3",
+            "D) 2 and 4"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 90,
+        "question": "Match List-I with List-II and choose the correct answer from the given options: Choose the correct answer:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "a. Delhi Darbar",
+                "b. Second Anglo-Afghan war",
+                "c. Kuka Movement starts",
+                "d. Queen Victoria declared \u2018Kaiser-i-Hind\u2019"
+            ],
+            "heading": "Event"
+        },
+        "listII": {
+            "items": [
+                "1)   1872",
+                "2)  1876",
+                "3) 1878",
+                "4)  1877"
+            ],
+            "heading": "Year"
+        },
+        "options": [
+            "A) (A-4) (B-2) (C-1) (D-3)",
+            "B) (A-4) (B-3) (C-1) (D-2)",
+            "C) (A-3) (B-2) (C-1) (D-4)",
+            "D) (A-2) (B-3) (C-4) (D-1)"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 91,
+        "question": "Match List-I with List-II and choose the correct answer from the given options: Choose the correct answer:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "a. Tropical savannah",
+                "b. Hot desert",
+                "c. Polar type",
+                "d. Monsoon with dry summer"
+            ],
+            "heading": "ListII"
+        },
+        "listII": {
+            "items": [
+                "1)   Coromandel coast of Tamilnadu",
+                "2)  Most of the peninsular plateaus",
+                "3) Western Rajasthan",
+                "4)  Jammu and Kashmir"
+            ],
+            "heading": "ListI"
+        },
+        "options": [
+            "A) (A-2) (B-4) (C-1) (D-3)",
+            "B) (A-2) (B-3) (C-4) (D-1)",
+            "C) (A-2) (B-3) (C-1) (D-4)",
+            "D) (A-1) (B-3) (C-4) (D-2)"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 92,
+        "question": "Match List-I with List-II and choose the correct answer from the given options: Choose the correct answer:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "A. First Amendment",
+                "B. Forty-fourth amendment",
+                "C. Eighty-sixth amendment",
+                "D. One hundred and third amendment"
+            ],
+            "heading": "Amendments"
+        },
+        "listII": {
+            "items": [
+                "1)   Right to Education",
+                "2)  Reservation for EWS",
+                "3) Right to Property",
+                "4)  Ninth Schedule"
+            ],
+            "heading": "Issues"
+        },
+        "options": [
+            "A) (A-1) (B-2) (C-4) (D-3)",
+            "B) (A-4) (B-3) (C-1) (D-2)",
+            "C) (A-3) (B-1) (C-2) (D-4)",
+            "D) (A-2) (B-3) (C-4) (D-1)"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 93,
+        "question": "Match List-I with List-II and choose the correct answer from the given options: Choose the correct answer:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "A. Article 15 (4) and 16 (4)",
+                "B. Article 15 (6) and 16 (6)",
+                "C. Article 243 D",
+                "D. Article 330"
+            ],
+            "heading": "Constitution Articles"
+        },
+        "listII": {
+            "items": [
+                "1)   Lok Sabha Seats",
+                "2)  Panchayati Raj Institutions",
+                "3) Other Backward Classes (OBCs)",
+                "4)  Economically Weaker Sections (EWS)"
+            ],
+            "heading": "Area of reservations"
+        },
+        "options": [
+            "A) (A-1) (B-3) (C-2) (D-4)",
+            "B) (A-4) (B-2) (C-1) (D-3)",
+            "C) (A-3) (B-4) (C-2) (D-1)",
+            "D) (A-2) (B-3) (C-1) (D-4)"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 94,
+        "question": "Match List-I with List-II and choose the correct answer from the given options: Choose the correct answer:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "A. Net Tax Revenue",
+                "B. Non-Tax Revenue",
+                "C. Gross Tax Revenue",
+                "D. Non-debt capital Receipts"
+            ],
+            "heading": "ListI"
+        },
+        "listII": {
+            "items": [
+                "1)   6%",
+                "2)  22.3%",
+                "3) 8.4%",
+                "4)  -2.5%"
+            ],
+            "heading": "ListII"
+        },
+        "options": [
+            "A) (A-4) (B-2) (C-1) (D-3)",
+            "B) (A-1) (B-3) (C-4) (D-2)",
+            "C) (A-1) (B-2) (C-3) (D-4)",
+            "D) (A-4) (B-3) (C-1) (D-2)"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 95,
+        "question": "Match List-I with List-II and choose the correct answer from the given options: Choose the correct answer:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "A. Litmus",
+                "B. Nitrogen",
+                "C. Calcium Hydroxyapatite",
+                "D. Hydrogen Peroxide"
+            ],
+            "heading": "ListI"
+        },
+        "listII": {
+            "items": [
+                "1)   Tooth enamel Nitrogen",
+                "2)  Anti microbial agent",
+                "3) Chips sealed in packet",
+                "4)  Lichen"
+            ],
+            "heading": "ListII"
+        },
+        "options": [
+            "A) (A-4) (B-3) (C-1) (D-2)",
+            "B) (A-4) (B-3) (C-2) (D-1)",
+            "C) (A-3) (B-4) (C-1) (D-2)",
+            "D) (A-2) (B-3) (C-4) (D-1)"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 96,
+        "question": "Match List-I with List-II and choose the correct answer from the given options: Choose the correct answer:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "A. S.I. unit of power of a lens",
+                "B. S.I. unit of electric potential difference",
+                "C. Potential difference between two points",
+                "D. S.I. unit of electric charge"
+            ],
+            "heading": "ListI"
+        },
+        "listII": {
+            "items": [
+                "1) V",
+                "2) Coulomb",
+                "3) Diopter",
+                "4) W/Q"
+            ],
+            "heading": "ListII"
+        },
+        "options": [
+            "A) (A-4) (B-3) (C-2) (D-1)",
+            "B) (A-3) (B-4) (C-1) (D-2)",
+            "C) (A-2) (B-3) (C-4) (D-1)",
+            "D) (A-3) (B-1) (C-4) (D-2)"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 97,
+        "question": "Match List-I with List-II and choose the correct answer from the given options: Choose the correct answer:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "A. Peristaltic movement",
+                "B. Gastric glands",
+                "C. Amylase",
+                "D. Bile juice"
+            ],
+            "heading": "ListI"
+        },
+        "listII": {
+            "items": [
+                "1)   Saliva",
+                "2)  Alimentary canal",
+                "3) Inner lining of stomach",
+                "4)  Liver"
+            ],
+            "heading": "ListII"
+        },
+        "options": [
+            "A) (A-4) (B-3) (C-2) (D-1)",
+            "B) (A-3) (B-4) (C-1) (D-2)",
+            "C) (A-1) (B-2) (C-3) (D-4)",
+            "D) (A-2) (B-3) (C-1) (D-4)"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 98,
+        "question": "Match List-I with List-II and choose the correct answer from the given options: Choose the correct answer:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "A. Gregor Mendel",
+                "B. Harold C. Urey",
+                "C. Charles Darwin",
+                "D. Charles Darwin"
+            ],
+            "heading": "ListI"
+        },
+        "listII": {
+            "items": [
+                "1)   Role of earthworms in soil fertility",
+                "2)  University of Vienna Charles Darwin",
+                "3) Origin of organic molecules on earth",
+                "4)  Periodic table"
+            ],
+            "heading": "ListII"
+        },
+        "options": [
+            "A) (A-3) (B-4) (C-2) (D-1)",
+            "B) (A-2) (B-3) (C-1) (D-4)",
+            "C) (A-1) (B-2) (C-3) (D-4)",
+            "D) (A-4) (B-3) (C-2) (D-1)"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 99,
+        "question": "Match List-I with List-II and choose the correct answer from the given options",
+        "type": "list",
+        "listI": {
+            "items": [
+                "A. B.C.Roy Trophy",
+                "B. Ezra Cup",
+                "C. Murugappa Gold Cup",
+                "D. Nehru Trophy"
+            ],
+            "heading": "Trophy / Cup"
+        },
+        "listII": {
+            "items": [
+                "1)  Polo",
+                "2)  Boat Race",
+                "3)  Football",
+                "4)  Hockey"
+            ],
+            "heading": "Sports"
+        },
+        "options": [
+            "A) (A-3) (B-1) (C-4) (D-2)",
+            "B) (A-1) (B-2) (C-3) (D-4)",
+            "C) (A-4) (B-2) (C-1) (D-3)",
+            "D) (A-2) (B-4) (C-1) (D-3)"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 100,
+        "question": "Match List-I with List-II and choose the correct answer from the given options",
+        "type": "list",
+        "listI": {
+            "items": [
+                "A. Jennifer Doudna",
+                "B. Robert B. Wilson",
+                "C. Andrea M. Ghez",
+                "D. Louise Gluck"
+            ],
+            "heading": "Person"
+        },
+        "listII": {
+            "items": [
+                "1)   Economics",
+                "2)  Physics",
+                "3) Literature",
+                "4)  Chemistry"
+            ],
+            "heading": "Area"
+        },
+        "options": [
+            "A) (A-1) (B-2) (C-3) (D-4)",
+            "B) (A-2) (B-3) (C-4) (D-1)",
+            "C) (A-4) (B-1) (C-2) (D-3)",
+            "D) (A-3) (B-4) (C-1) (D-2)"
+        ],
+        "subject": "General Knowledge"
+    }
+]

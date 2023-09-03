@@ -1,0 +1,602 @@
+[
+    {
+        "questionId": 1,
+        "questionType": "MCQ",
+        "answer": "A) Upto 0.06 ppm",
+        "explanation": "An ozone concentration of up to 0.06 ppm (parts per million) is considered good in ambient air. Ozone is a gas that exists in the Earth's atmosphere and can be both beneficial and harmful. In the upper atmosphere, ozone acts as a shield, protecting the planet from harmful ultraviolet radiation. However, at ground level, high concentrations of ozone can be harmful to human health and the environment. Therefore, maintaining ozone levels within the range of up to 0.06 ppm is desirable to ensure good air quality."
+    },
+    {
+        "questionId": 2,
+        "questionType": "MCQ",
+        "answer": "C) 35-60",
+        "explanation": "The intensity of a normal conversation typically ranges between 35 to 60 decibels (dB). Decibels are a unit used to measure sound intensity. At the lower end of the range, 35 dB represents a quiet conversation, while at the higher end, 60 dB corresponds to a slightly louder conversation or a busy restaurant environment. It's important to note that sound levels can vary depending on the surroundings and individual speaking volumes, but the given range encompasses the typical intensity of a normal conversation."
+    },
+    {
+        "questionId": 3,
+        "questionType": "MCQ",
+        "answer": "D) Desertification",
+        "explanation": "The impacts caused by the construction of dams and reservoirs include loss of flora and fauna, reservoir-induced seismicity, and waterborne diseases. However, one impact that is not typically associated with dams and reservoirs is desertification. Desertification refers to the process of land degradation, typically in arid or semi-arid regions, leading to the transformation of fertile land into desert-like conditions. While the construction of dams and reservoirs can have environmental and social impacts, desertification is not directly caused by these structures."
+    },
+    {
+        "questionId": 4,
+        "questionType": "MCQ",
+        "answer": "D) Composition",
+        "explanation": "The water cycle, also known as the hydrological cycle, involves several processes including condensation, infiltration, and evaporation. However, the process of composition does not occur in the water cycle. Composition refers to the act of combining or forming something, which is not a natural process involved in the water cycle. The water cycle primarily includes processes where water changes its state or location, such as evaporation from bodies of water, condensation into clouds, and infiltration into the ground."
+    },
+    {
+        "questionId": 5,
+        "questionType": "list",
+        "answer": "D) (a-ii) (b-iv) (c-i) (d-iii)",
+        "explanation": "The correct match between List-1 (Events) and List-2 (Names) is: \\n\\na. Appiko Movement - (ii) Appu and Mamtha \\nb. Narmada Bachao Andolan - (iv) Medha Patkar \\nc. People for Animals - (i) Maneka Gandhi \\nd. Resurrection of Kali Bein rivulet - (iii) Balbir Singh Seechewal \\n\\nTherefore, the correct answer is D) (a-ii) (b-iv) (c-i) (d-iii). The Appiko Movement is associated with Appu and Mamtha, the Narmada Bachao Andolan is led by Medha Patkar, People for Animals is associated with Maneka Gandhi, and the Resurrection of Kali Bein rivulet is spearheaded by Balbir Singh Seechewal."
+    },
+    {
+        "questionId": 6,
+        "questionType": "columns",
+        "answer": "C) iii iv i ii",
+        "explanation": "The correct match between Column-1 and Column-2 is as follows: \\n\\na. The Montreal Protocol - (iii) 1987 \\nb. The Paris Agreement - (iv) 2015 \\nc. The Rio Summit - (i) 1992 \\nd. First UN IPCC Conference - (ii) 1995 \\n\\nTherefore, the correct answer is C) iii iv i ii. The Montreal Protocol was established in 1987, the Paris Agreement was adopted in 2015, the Rio Summit took place in 1992, and the first UN IPCC Conference was held in 1995."
+    },
+    {
+        "questionId": 7,
+        "questionType": "MCQ",
+        "answer": "D) Spinach",
+        "explanation": "Spinach is not derived from wild cabbage. While broccoli, cauliflower, and kohlrabi are all derived from wild cabbage (Brassica oleracea), spinach (Spinacia oleracea) belongs to a different plant species. Spinach is a leafy green vegetable that is not closely related to wild cabbage. Although both spinach and wild cabbage are members of the plant family Brassicaceae, they belong to different genera. Therefore, among the given options, D) Spinach is not derived from wild cabbage."
+    },
+    {
+        "questionId": 8,
+        "questionType": "MCQ",
+        "answer": "B) Darwin",
+        "explanation": "The scientist associated with the theory of natural selection during the evolution of life is Charles Darwin. Darwin's theory of natural selection, also known as Darwinism, proposed that species evolve over time through a process of variation, adaptation, and selection. His influential work, 'On the Origin of Species,' published in 1859, presented evidence for the mechanism of natural selection as the driving force behind the diversity of life on Earth. Mendel is known for his studies in genetics, Haldane for his contributions to evolutionary biology and genetics, and Miller for his experiments on the origin of life. However, it was Charles Darwin who is primarily associated with the theory of natural selection."
+    },
+    {
+        "questionId": 9,
+        "questionType": "MCQ",
+        "answer": "C) Action of anaerobic microorganisms",
+        "explanation": "Bio-gas is produced under the condition of the action of anaerobic microorganisms. Anaerobic microorganisms are capable of breaking down organic matter in the absence of oxygen. In the process of anaerobic digestion, these microorganisms convert organic materials, such as agricultural waste, food waste, or sewage, into bio-gas, which primarily consists of methane and carbon dioxide. The anaerobic conditions are essential for the functioning of the specific microorganisms involved in bio-gas production. Therefore, the correct condition for bio-gas production is the action of anaerobic microorganisms."
+    },
+    {
+        "questionId": 10,
+        "questionType": "MCQ",
+        "answer": "B) Ventricles have to pump blood into various organs",
+        "explanation": "Ventricles have thicker muscular walls than atria because ventricles have to pump blood into various organs throughout the body. The ventricles are responsible for pumping oxygenated blood from the heart to the rest of the body (left ventricle) and pumping deoxygenated blood to the lungs for oxygenation (right ventricle). The muscular walls of the ventricles need to be thicker and stronger to generate enough force to propel blood to different organs and overcome the resistance of the circulatory system. In contrast, the atria primarily receive blood from the veins and assist in filling the ventricles, requiring less force for their pumping function. Therefore, the thicker muscular walls of the ventricles are necessary to facilitate efficient blood circulation to various organs."
+    },
+    {
+        "questionId": 11,
+        "questionType": "MCQ",
+        "answer": "D) Movement of hand",
+        "explanation": "The movement of the hand is not a reflex action. Reflex actions are involuntary and rapid responses to stimuli that occur without conscious thought or control. Breathing, heart-pumping, and salivation are examples of reflex actions. Breathing is regulated by the respiratory center in the brainstem, which responds to changes in carbon dioxide levels. Heart-pumping is controlled by the cardiac conduction system, which coordinates the contraction and relaxation of the heart muscle. Salivation is a reflex action triggered by the presence or anticipation of food. In contrast, movement of the hand is typically a voluntary action that involves conscious thought and control. Therefore, among the given options, D) Movement of hand is not a reflex action."
+    },
+    {
+        "questionId": 12,
+        "questionType": "MCQ",
+        "answer": "C) Hind-brain",
+        "explanation": "The hindbrain is responsible for maintaining the posture and equilibrium of the body. It is the region of the brain located at the back and consists of several structures, including the cerebellum and the brainstem. The cerebellum plays a crucial role in coordinating muscle movements, balance, and posture. It receives sensory information from various parts of the body and integrates it to maintain balance and ensure smooth and coordinated movements. The brainstem, which includes the medulla oblongata and the pons, also contributes to maintaining posture and controlling basic bodily functions. Therefore, among the given options, C) Hind-brain is the part of the brain that maintains posture and equilibrium of the body."
+    },
+    {
+        "questionId": 13,
+        "questionType": "MCQ",
+        "answer": "D) Purple",
+        "explanation": "The color of Litmus solution when it is neither acidic nor basic is purple. Litmus is a natural dye extracted from lichens and is commonly used as an indicator in chemistry. In its natural state, litmus is purple. When litmus is exposed to an acidic solution, it turns red, indicating acidity. On the other hand, when it comes into contact with a basic solution, it turns blue, indicating alkalinity. Therefore, in a neutral solution where the acidity and alkalinity are balanced, litmus solution retains its original purple color."
+    },
+    {
+        "questionId": 14,
+        "questionType": "MCQ",
+        "answer": "A) All bases are soluble in water",
+        "explanation": "The statement that is not correct is A) All bases are soluble in water. While many bases are indeed soluble in water, it is not true that all bases dissolve in water. Some bases, such as sodium hydroxide (NaOH) and potassium hydroxide (KOH), are highly soluble in water and are referred to as alkalis. However, there are certain bases, such as metal oxides or metal hydroxides, that have limited solubility in water. For example, calcium hydroxide (Ca(OH)2), commonly known as lime, has low solubility in water. Therefore, it is incorrect to say that all bases are soluble in water."
+    },
+    {
+        "questionId": 15,
+        "questionType": "MCQ",
+        "answer": "C) Power",
+        "explanation": "In pH, 'p' represents the power. pH is a scale used to measure the acidity or alkalinity of a solution. It is based on the negative logarithm of the concentration of hydrogen ions (H+) in the solution. The power symbolized by 'p' indicates the exponential nature of the pH scale. Each unit change in pH represents a tenfold change in the concentration of hydrogen ions. For example, a solution with a pH of 3 is ten times more acidic than a solution with a pH of 4. Therefore, 'p' in pH signifies the power or exponential relationship between hydrogen ion concentration and acidity/alkalinity."
+    },
+    {
+        "questionId": 16,
+        "questionType": "MCQ",
+        "answer": "D) Cataract",
+        "explanation": "Cataract does not represent a refractive defect of vision. Refractive defects are conditions that affect the focusing ability of the eye, causing blurred or distorted vision. The refractive defects mentioned in the options include myopia (nearsightedness), hypermetropia (farsightedness), and presbyopia (age-related farsightedness). These conditions occur due to abnormalities in the shape or size of the eye, affecting the way light is focused onto the retina. Cataract, on the other hand, is a condition characterized by clouding of the eye's natural lens, leading to blurred or hazy vision. It is not related to the refraction of light but rather to the opacity of the lens. Therefore, among the given options, D) Cataract does not represent a refractive defect of vision."
+    },
+    {
+        "questionId": 17,
+        "questionType": "MCQ",
+        "answer": "B) Violet",
+        "explanation": "During dispersion of white light by a glass prism, violet light bends the most. When white light passes through a prism, it gets separated into its constituent colors due to the phenomenon of dispersion. This occurs because different colors of light have different wavelengths and hence different refractive indices in the prism. Violet light has the shortest wavelength among the visible colors, and it experiences the highest degree of refraction or bending as it passes through the prism. On the other hand, red light, which has the longest wavelength, bends the least. Therefore, among the given options, B) Violet light bends the most during dispersion of white light by a glass prism."
+    },
+    {
+        "questionId": 18,
+        "questionType": "MCQ",
+        "answer": "B) Refraction of starlight",
+        "explanation": "The twinkling of stars is primarily caused by the refraction of starlight. When starlight enters the Earth's atmosphere, it encounters different layers of air with varying densities and temperatures. These variations in the density of air act as a medium for the refraction of light. As the starlight passes through these different layers, it undergoes bending or refraction due to the changes in the refractive index of the air. This bending of starlight leads to the apparent twinkling effect that we observe. Therefore, among the given options, B) Refraction of starlight is responsible for the twinkling of stars."
+    },
+    {
+        "questionId": 19,
+        "questionType": "MCQ",
+        "answer": "A) 7 July, 1992",
+        "explanation": "Swiss envoy W.P. Blazer officially declared Khajjiar as 'Mini Switzerland' by putting up a signboard on 7 July, 1992. Khajjiar, located in the Chamba district of Himachal Pradesh, India, is a picturesque hill station known for its scenic beauty and resemblance to the landscape of Switzerland. The signboard declaring Khajjiar as 'Mini Switzerland' was a symbolic recognition of its resemblance to the Swiss countryside. Therefore, the correct year when the signboard was put up by W.P. Blazer is A) 7 July, 1992."
+    },
+    {
+        "questionId": 20,
+        "questionType": "list",
+        "answer": "B) (b) (c) (a) (d)",
+        "explanation": "The correct match between List-1 (Valleys) and List-2 (Ranges) is as follows:\\n\\na. Kiara-dun Valley - (iii) Shimla Ridge and Shivalik Hills\\nb. Balh Valley - (ii) Markanda and Dharti Ranges\\nc. Kangra Valley - (i) Dhauladhar and Shivalik Range\\nd. Bara Bhangal Valley - (iv) Dhauladhar and Pir Panjal Ranges\\n\\nTherefore, the correct answer is B) (b) (c) (a) (d). The Kiara-dun Valley is associated with Shimla Ridge and Shivalik Hills, the Balh Valley is associated with Markanda and Dharti Ranges, the Kangra Valley is associated with Dhauladhar and Shivalik Range, and the Bara Bhangal Valley is associated with Dhauladhar and Pir Panjal Ranges."
+    },
+    {
+        "questionId": 21,
+        "questionType": "MCQ",
+        "answer": "A) Trans Himalayan Zone",
+        "explanation": "The Trans Himalayan Zone has the highest percentage of the total geographical area of Himachal Pradesh. The Trans Himalayan Zone, also known as the Cold Desert Zone, is located in the northernmost part of Himachal Pradesh. It encompasses areas such as Lahaul and Spiti, Kinnaur, and parts of Chamba district. This zone is characterized by high mountain ranges, barren landscapes, and cold climatic conditions. It occupies a significant portion of the state's geographical area, contributing to the highest 36+ percentage of the total area. Therefore, the correct answer is A) Trans Himalayan Zone."
+    },
+    {
+        "questionId": 22,
+        "questionType": "MCQ",
+        "answer": "C) Gaddi",
+        "explanation": "'Chola and Dora' are the popular traditional dress of the Gaddi tribe. The Gaddi tribe is an indigenous community residing in the state of Himachal Pradesh, India. They are primarily found in the districts of Chamba, Kangra, and parts of Lahaul-Spiti. 'Chola' refers to the traditional upper garment worn by Gaddi men, which is a loose-fitting long-sleeved shirt made of woolen fabric. 'Dora' is a belt or sash worn around the waist. Together, the Chola and Dora form an integral part of the traditional attire of the Gaddi tribe. Therefore, the correct answer is C) Gaddi."
+    },
+    {
+        "questionId": 23,
+        "questionType": "list",
+        "answer": "C) (i-d) (ii-a) (iii-b) (iv-c)",
+        "explanation": "The correct match between List-I (Tribes) and List-II (Traditional ornaments) is as follows:\\n\\na. Swangla - (i) Pith-Chuk or chori\\nb. Gaddi - (ii) Phaktum or Phanktum\\nc. Khampa - (iii) Jhanjrara\\nd. Pangwal - (iv) Rusa-te-byah\\n\\nTherefore, the correct answer is C) (i-d) (ii-a) (iii-b) (iv-c). Swangla is associated with Pith-Chuk or chori, Gaddi is associated with Phaktum or Phanktum, Khampa is associated with Jhanjrara, and Pangwal is associated with Rusa-te-byah."
+    },
+    {
+        "questionId": 24,
+        "questionType": "MCQ",
+        "answer": "D) Kinnauras",
+        "explanation": "According to the 'Vayu Purana,' the Kinnauras tribe is said to be the inhabitants of the 'Mahand Mountains.' The Vayu Purana is one of the eighteen Mahapuranas, a genre of ancient Hindu texts that provide mythological and historical information. The Mahand Mountains, also known as the Mahananda Mountains, are located in the Kinnaur district of Himachal Pradesh, India. The Kinnauras tribe, also known as the Kinnauris, are indigenous people of the Kinnaur region and have been traditionally associated with this mountainous area. Therefore, the correct answer is D) Kinnauras."
+    },
+    {
+        "questionId": 25,
+        "questionType": "MCQ",
+        "answer": "A) 23655 sq. km",
+        "explanation": "Out of the total geographical area of Himachal Pradesh, which is 55673 sq. km., an area of 23655 sq. km. falls in the scheduled area. The scheduled area refers to the regions that are designated as tribal areas under the Fifth Schedule of the Constitution of India. These areas are primarily inhabited by indigenous tribal communities and have specific provisions for their governance and protection of their rights. In Himachal Pradesh, several districts such as Kinnaur, Lahaul and Spiti, and parts of Chamba and Mandi districts fall within the scheduled area. Therefore, the correct answer is A) 23655 sq. km."
+    },
+    {
+        "questionId": 26,
+        "questionType": "MCQ",
+        "answer": "D) Masrur Temple",
+        "explanation": "The earliest specimen of the 'Nagara design' found in Himachal Pradesh is the Masrur Temple. The Masrur Temple, also known as the Masroor Rock Cut Temple, is located in the Kangra district of Himachal Pradesh. It is a group of rock-cut temples dating back to the 8th century AD. The temples at Masrur showcase the Nagara architectural style, characterized by its distinctive tower-like spires called shikharas. The Nagara style is one of the major architectural styles of ancient Indian temples. Therefore, among the given options, D) Masrur Temple represents the earliest specimen of the Nagara design found in Himachal Pradesh."
+    },
+    {
+        "questionId": 27,
+        "questionType": "MCQ",
+        "answer": "A) Raja Kirpal Pal",
+        "explanation": "The 'Basholi School of Painting' came into prominence from the time of Raja Kirpal Pal. The Basholi School of Painting is a renowned art style that originated in the Basholi region of present-day Himachal Pradesh, India. It flourished during the 17th and 18th centuries under the patronage of various Rajput rulers. Raja Kirpal Pal was one of the prominent rulers who supported and encouraged the development of this art form. The Basholi School of Painting is known for its distinctive style characterized by vibrant colors, detailed miniature-like compositions, and depiction of themes from Hindu mythology. Therefore, the correct answer is A) Raja Kirpal Pal."
+    },
+    {
+        "questionId": 28,
+        "questionType": "MCQ",
+        "answer": "B) The Great Himalayan National Park",
+        "explanation": "The Great Himalayan National Park of Himachal Pradesh occupies an area of 1171 sq. km. The Great Himalayan National Park is a UNESCO World Heritage Site located in the Kullu region of Himachal Pradesh. It is known for its rich biodiversity and serves as a habitat for numerous species of flora and fauna, including several endangered species. The park is characterized by its diverse ecosystems, alpine meadows, snow-capped peaks, and pristine forests. It offers opportunities for wildlife viewing, trekking, and nature exploration. Therefore, the correct answer is B) The Great Himalayan National Park."
+    },
+    {
+        "questionId": 29,
+        "questionType": "MCQ",
+        "answer": "C) Saksham Gudia board, H.P.",
+        "explanation": "The government of Himachal Pradesh has changed the name of 'Kanya Sashaktikaran and Kalyan Board Himachal Pradesh' to 'Saksham Gudia board, H.P.' The Kanya Sashaktikaran and Kalyan Board Himachal Pradesh was an initiative aimed at empowering and supporting girls and women in the state. The new name, 'Saksham Gudia board, H.P.', continues the focus on empowerment but with a new emphasis on the term 'Saksham,' which means capable or empowered. The word 'Gudia' translates to 'doll,' symbolizing the nurturing and protection of girls. Therefore, the correct answer is C) Saksham Gudia board, H.P."
+    },
+    {
+        "questionId": 30,
+        "questionType": "MCQ",
+        "answer": "B) Sharda and Tankri",
+        "explanation": "The stone inscriptions found in the Chamba region have mostly been written in the Sharda and Tankri scripts. Sharda script, also known as Sarada, was commonly used for writing in the region during ancient times. It is an abugida script that was prevalent in parts of northern India, including Himachal Pradesh. Tankri, on the other hand, is a script used for writing in the Dogri language. These scripts bear historical and linguistic significance, offering insights into the cultural and literary heritage of the Chamba region."
+    },
+    {
+        "questionId": 31,
+        "questionType": "MCQ",
+        "answer": "C) Col. Paris Bradshaw",
+        "explanation": "In the Treaty of Sugauli, which was signed between the East India Company and the Kingdom of Nepal in 1816, Colonel Paris Bradshaw was the signatory on behalf of the East India Company. The Treaty of Sugauli marked the end of the Anglo-Nepalese War and resulted in several provisions and territorial changes. Colonel Paris Bradshaw, as a representative of the East India Company, played a significant role in negotiating and finalizing the terms of the treaty. Therefore, the correct answer is C) Col. Paris Bradshaw."
+    },
+    {
+        "questionId": 32,
+        "questionType": "MCQ",
+        "answer": "C) Olive",
+        "explanation": "The centers of Lanji, Saro, and Rajnagar in Chamba district of Himachal Pradesh are known for the development of olive cultivation. Olive cultivation has gained significance in these areas due to the favorable climatic conditions and suitable soil. Olive trees are cultivated for their fruit, which is used for various purposes, including olive oil production. The cultivation of olives has not only contributed to the agricultural economy but has also provided employment opportunities and income generation for the local population. Therefore, the correct answer is C) Olive."
+    },
+    {
+        "questionId": 33,
+        "questionType": "MCQ",
+        "answer": "C) 10519 MW",
+        "explanation": "Out of the identified potential of 27436 MW of hydro-power in Himachal Pradesh, 10519 MW has been harnessed. Himachal Pradesh is known for its abundant water resources and favorable topography, which make it suitable for hydro-power generation. The state has harnessed a significant portion of its hydro-power potential, contributing to its overall energy production and meeting the electricity demands of the region. Therefore, the correct answer is C) 10519 MW."
+    },
+    {
+        "questionId": 34,
+        "questionType": "MCQ",
+        "answer": "A) Matri Shakti Bima Yojna",
+        "explanation": "Under the scheme 'Matri Shakti Bima Yojna', all women in the age group of 10 to 75 years, living below the poverty line, are covered in case of their death or disability. This scheme provides financial protection and support to women from economically vulnerable backgrounds. It aims to address the financial hardships faced by women and their families in the event of their untimely death or disability. By providing insurance coverage, the Matri Shakti Bima Yojna contributes to the social welfare and empowerment of women in India. Therefore, the correct answer is A) Matri Shakti Bima Yojna."
+    },
+    {
+        "questionId": 35,
+        "questionType": "MCQ",
+        "answer": "C) Soil Testing",
+        "explanation": "Under the H.P. Public Service Guarantee Act of 2011, soil testing has been declared as a public service by the state government of Himachal Pradesh. This means that individuals have the right to receive timely and efficient soil testing services from the government. Soil testing plays a crucial role in agriculture by providing valuable information about the nutrient content, pH level, and other properties of the soil. It helps farmers make informed decisions regarding fertilizer application and soil management practices, ultimately enhancing crop productivity and sustainability. Therefore, the correct answer is C) Soil Testing."
+    },
+    {
+        "questionId": 36,
+        "questionType": "list",
+        "answer": "C) (i-D) (ii-C) (iii-A) (iv-E)",
+        "explanation": "The correct combination for the given list is: (i) Gaiety Theatre - D) Henry Irwin, (ii) Kalka-Shimla Railway - C) M. S. Harrington, (iii) Satyakam - A) Samual Evans Stokes, (iv) Old Shimla Bank - E) Messors Barrett &amp; Co. Therefore, the correct answer is C) (i-D) (ii-C) (iii-A) (iv-E)."
+    },
+    {
+        "questionId": 37,
+        "questionType": "MCQ",
+        "answer": "B) Amrita Shergil",
+        "explanation": "The famous works 'Black Nude', 'Sitting Nude', and 'Young Girls' are created by the artist Amrita Shergil. Amrita Shergil was an eminent Indian painter of Hungarian-Indian heritage. She is considered one of the most important women artists of the 20th century in India and a pioneer in modern Indian art. Her works often depicted themes of female identity, emotions, and the socio-economic conditions of the people. She is known for her bold and distinctive style, combining Western techniques with Indian subject matter. Therefore, the correct answer is B) Amrita Shergil."
+    },
+    {
+        "questionId": 38,
+        "questionType": "MCQ",
+        "answer": "B) Auckland House",
+        "explanation": "The important decision to invade Afghanistan in 1938 and the subsequent criticism of that decision at Shimla by the British took place in Auckland House. Auckland House is a renowned educational institution in Shimla, Himachal Pradesh, named after Lord Auckland, the Governor-General of India from 1836 to 1842. The decision to invade Afghanistan was made during Lord Auckland's tenure, and the criticism of that decision occurred later at Auckland House in Shimla. Therefore, the correct answer is B) Auckland House."
+    },
+    {
+        "questionId": 39,
+        "questionType": "MCQ",
+        "answer": "A) Abhay Ashtekar",
+        "explanation": "The 2018 Einstein Prize was awarded to Abhay Ashtekar. Abhay Ashtekar is an Indian theoretical physicist known for his significant contributions to the field of loop quantum gravity. He is a professor at Pennsylvania State University and has made pioneering advancements in our understanding of the nature of space, time, and gravity. The Einstein Prize is a prestigious recognition awarded to individuals who have made remarkable achievements in the field of theoretical physics, and Abhay Ashtekar's contributions have been widely acknowledged in the scientific community. Therefore, the correct answer is A) Abhay Ashtekar."
+    },
+    {
+        "questionId": 40,
+        "questionType": "MCQ",
+        "answer": "B) To help railway minister to keep track of punctuality of trains",
+        "explanation": "The 'eDrishti' software is launched to facilitate the railway minister in keeping track of the punctuality of trains. It is a monitoring tool that provides real-time information about train schedules, delays, and other relevant data. With the help of eDrishti, the railway minister can effectively monitor the performance and punctuality of trains across the railway network. This software enables efficient management and decision-making in the railway sector, ensuring better service and reliability for passengers. Therefore, the correct answer is B) To help the railway minister to keep track of punctuality of trains."
+    },
+    {
+        "questionId": 41,
+        "questionType": "MCQ",
+        "answer": "D) All of these",
+        "explanation": "The Fields Medal is a prestigious award given to mathematicians under the age of 40 who have made significant contributions to the field of mathematics. The statement 'All of these' is correct because Akshay Venkatesh, Caucher Birkar, and Peter Scholze are all winners of the Fields Medal. Akshay Venkatesh won the award in 2018, Caucher Birkar in 2018, and Peter Scholze in 2018. These mathematicians have made remarkable advancements in their respective areas of mathematical research. Therefore, the correct answer is D) All of these."
+    },
+    {
+        "questionId": 42,
+        "questionType": "MCQ",
+        "answer": "D) All of these",
+        "explanation": "In 2018, the Nobel Prize in Chemistry was awarded jointly to George Smith, Frances Arnold, and Greg Winter. George Smith was awarded for the development of phage display of peptides and antibodies. Frances Arnold was awarded for the directed evolution of enzymes. Greg Winter was awarded for the phage display of peptides and antibodies. These scientists made significant contributions to the field of chemistry through their groundbreaking research and advancements. Therefore, the correct answer is D) All of these."
+    },
+    {
+        "questionId": 43,
+        "questionType": "MCQ",
+        "answer": "B) Ashok Kumar Gupta",
+        "explanation": "Ashok Kumar Gupta has been appointed as the Chairman of the Competition Commission of India. He assumed office on 26th March 2019. The Competition Commission of India is a statutory body responsible for enforcing competition laws and promoting fair market practices in India. As the Chairman, Ashok Kumar Gupta is responsible for leading the Commission's efforts in ensuring fair competition and preventing anti-competitive practices in various sectors of the economy. Therefore, the correct answer is B) Ashok Kumar Gupta."
+    },
+    {
+        "questionId": 44,
+        "questionType": "MCQ",
+        "answer": "C) Sikkim",
+        "explanation": "The state in India that was awarded FAO's Future Policy Award, 2018 for being a 100% organic state is Sikkim. Sikkim achieved the remarkable feat of becoming the first state in India to be fully organic in 2016. This means that all agricultural practices in the state, including farming and livestock rearing, are carried out using organic and sustainable methods without the use of synthetic fertilizers and pesticides. Sikkim's transition to organic farming has helped promote biodiversity, protect the environment, and ensure the production of healthy and chemical-free food. Therefore, the correct answer is C) Sikkim."
+    },
+    {
+        "questionId": 45,
+        "questionType": "MCQ",
+        "answer": "A) It is an informal mechanism between India, USA, Australia and Japan for the security in Pacific Region.",
+        "explanation": "QUAD refers to an informal mechanism between India, USA, Australia, and Japan for security in the Pacific region. It is a strategic dialogue forum that aims to promote cooperation and coordination among the four countries on various regional and global issues, including maritime security, counterterrorism, and free and open Indo-Pacific. The QUAD meetings involve discussions and consultations on shared interests and values, with the goal of maintaining a rules-based international order and promoting stability in the region. While it is not a formal organization, the QUAD has gained significance as a platform for dialogue and collaboration among like-minded countries. Therefore, the correct answer is A) It is an informal mechanism between India, USA, Australia, and Japan for security in the Pacific Region."
+    },
+    {
+        "questionId": 46,
+        "questionType": "MCQ",
+        "answer": "B) It is sustainable use of ocean resources for economic growth",
+        "explanation": "Blue economy refers to the sustainable use of ocean resources for economic growth. It encompasses various economic activities such as fisheries, aquaculture, maritime transportation, renewable energy, tourism, and coastal development. The concept emphasizes the importance of balancing economic development with the conservation and preservation of marine ecosystems. Blue economy aims to promote sustainable practices that contribute to both economic prosperity and the health of marine ecosystems. By utilizing ocean resources in a responsible and sustainable manner, blue economy seeks to support livelihoods, foster innovation, and protect the environment. Therefore, the correct answer is B) It is the sustainable use of ocean resources for economic growth."
+    },
+    {
+        "questionId": 47,
+        "questionType": "MCQ",
+        "answer": "B) My Son Temple",
+        "explanation": "The Archaeological Survey of India (ASI) is undertaking the renovation of the My Son Temple group in Vietnam. My Son is a UNESCO World Heritage site located in Quang Nam Province of Vietnam. It is a cluster of Hindu temples dedicated to the worship of the god Shiva. The temple complex dates back to the 4th century and showcases the rich cultural and architectural heritage of the Champa civilization. The ASI's renovation efforts aim to preserve and restore the historical and cultural significance of the My Son Temple group. Therefore, the correct answer is B) My Son Temple."
+    },
+    {
+        "questionId": 48,
+        "questionType": "MCQ",
+        "answer": "C) Meghalaya",
+        "explanation": "The Nongkrem dance festival is being celebrated in Meghalaya. It is a significant festival of the Khasi tribe, which is one of the major ethnic groups in the state. The festival is held annually at the Smit village near Shillong, the capital of Meghalaya. Nongkrem is a religious festival that is dedicated to the goddess Ka Blei Synshar, who is believed to be the provider of a good harvest and prosperity. The festival features traditional music, dance performances, rituals, and cultural activities, making it an important cultural event in Meghalaya. Therefore, the correct answer is C) Meghalaya."
+    },
+    {
+        "questionId": 49,
+        "questionType": "MCQ",
+        "answer": "D) Centre for Science and Environment (CSE)",
+        "explanation": "The Centre for Science and Environment (CSE) has been awarded the 2018 Indira Gandhi Prize for Peace, Disarmament and Development. The CSE is a non-governmental organization based in India that focuses on environmental sustainability and development issues. It has made significant contributions in the areas of environmental research, advocacy, and policy analysis. The Indira Gandhi Prize recognizes individuals or organizations that have made outstanding contributions towards promoting peace, disarmament, and development. The CSE's efforts in promoting sustainable development and advocating for environmental conservation have earned them this prestigious award. Therefore, the correct answer is D) Centre for Science and Environment (CSE)."
+    },
+    {
+        "questionId": 50,
+        "questionType": "MCQ",
+        "answer": "C) Electricity",
+        "explanation": "The theme of the International Energy Agency publication 'World Energy Outlook, 2018' is electricity. The publication focuses on the global energy landscape and provides in-depth analysis and projections for various energy sources and sectors. In the 2018 edition, particular attention is given to the role of electricity in shaping the future energy system. The report discusses key trends, challenges, and opportunities related to electricity generation, consumption, and infrastructure development. It also explores the implications of different policy and technology pathways for the future of the electricity sector. Therefore, the correct answer is C) Electricity."
+    },
+    {
+        "questionId": 51,
+        "questionType": "MCQ",
+        "answer": "A) Shakti",
+        "explanation": "The name of the first microprocessor developed by IIT Madras is Shakti. Shakti is an indigenous microprocessor project initiated by IIT Madras with the aim of developing a series of microprocessors that are designed and manufactured in India. It is part of the government's 'Make in India' initiative and aims to reduce dependency on imported microprocessors. The Shakti project focuses on developing microprocessors with different performance levels for various applications including smartphones, embedded systems, and supercomputers. Therefore, the correct answer is A) Shakti."
+    },
+    {
+        "questionId": 52,
+        "questionType": "MCQ",
+        "answer": "B) 1987",
+        "explanation": "The INF treaty, also known as the Intermediate-Range Nuclear Forces Treaty, was signed in 1987. It was a bilateral treaty between the United States and the Soviet Union (now Russia) that aimed to eliminate all intermediate-range and shorter-range missiles. The treaty prohibited the development, testing, and deployment of ground-launched ballistic and cruise missiles with ranges between 500 and 5,500 kilometers. However, in recent years, there have been concerns about Russia's compliance with the treaty, and the United States announced its withdrawal from the treaty in 2019. Therefore, the correct answer is B) 1987."
+    },
+    {
+        "questionId": 53,
+        "questionType": "MCQ",
+        "answer": "D) All of these",
+        "explanation": "Mariculture refers to the cultivation and farming of marine organisms in their natural habitats or in specially designed structures such as tanks or enclosures. It is a specialized branch of aquaculture that focuses on the cultivation of plants and animals in marine environments. Mariculture involves the cultivation of various species, including finfish, shellfish, and seaweed, for commercial purposes such as food production and ornamental trade. It can be practiced in different types of water bodies, including those with tidal influences. Therefore, the correct answer is D) All of these."
+    },
+    {
+        "questionId": 54,
+        "questionType": "MCQ",
+        "answer": "D) All of these",
+        "explanation": "The World Economic Forum selected multiple projects to be launched as the Centre for Fourth Industrial Revolution in India. These projects include drones, blockchain technology, and artificial intelligence. The Centre for Fourth Industrial Revolution aims to accelerate the adoption and governance of emerging technologies and promote their positive impact on society. By selecting these projects, the World Economic Forum recognizes their potential in driving innovation, economic growth, and addressing global challenges. Therefore, the correct answer is D) All of these."
+    },
+    {
+        "questionId": 55,
+        "questionType": "MCQ",
+        "answer": "A) Gujarat",
+        "explanation": "The Banni Grassland is situated in the state of Gujarat, India. It is a unique and ecologically important grassland ecosystem located in the Banni region of the Kutch district. The grassland supports a diverse range of flora and fauna, including various bird species, mammals, and reptiles. It is known for its rich biodiversity and serves as an important habitat for several endangered and migratory species. The local communities depend on the grassland for grazing their livestock and it also plays a crucial role in the conservation of wildlife. Therefore, the correct answer is A) Gujarat."
+    },
+    {
+        "questionId": 56,
+        "questionType": "list",
+        "answer": "C) (2-A) (1-B) (4-C) (3-D)",
+        "explanation": "The correct match between List-1 and List-2 is as follows:\\nFrance - 2 (A)\\nUSA - 1 (B)\\nSouth Africa - 4 (C)\\nUK - 3 (D)\\nTherefore, the correct answer is C) (2-A) (1-B) (4-C) (3-D)."
+    },
+    {
+        "questionId": 57,
+        "questionType": "MCQ",
+        "answer": "C) 15 October",
+        "explanation": "The UN observes 15th October as International Rural Women's Day. This day aims to recognize and celebrate the contributions of rural women in various aspects of society, including agriculture, food security, and sustainable development. It highlights the challenges faced by rural women and promotes gender equality and women's empowerment in rural areas. The observance of this day raises awareness about the importance of addressing the specific needs and rights of rural women worldwide."
+    },
+    {
+        "questionId": 58,
+        "questionType": "MCQ",
+        "answer": "D) All of these",
+        "explanation": "The festival of Bathukamma is related to all the given options. It is a floral festival celebrated in the state of Telangana, India. The festival involves the worship of the Mother Goddess in the form of Bathukamma, which means 'Mother Goddess come Alive'. It is a significant festival in Telangana culture and is marked by vibrant floral arrangements, traditional songs, and dance performances. Additionally, the New South Wales Parliament in Sydney, Australia, also celebrated the Bathukamma festival for the first time, recognizing its cultural significance."
+    },
+    {
+        "questionId": 59,
+        "questionType": "MCQ",
+        "answer": "D) Jai Prakash Narayan",
+        "explanation": "Jai Prakash Narayan, also known as JP Narayan, propounded the idea of Partyless democracy. He was a prominent political leader and social activist in India. He advocated for a system of governance that goes beyond traditional party politics and emphasized the importance of grassroots participation and decentralized decision-making. JP Narayan played a significant role in the Indian political landscape during the 1970s and led the opposition against the government of Prime Minister Indira Gandhi. His ideas on partyless democracy aimed to promote transparency, accountability, and people-centric governance."
+    },
+    {
+        "questionId": 60,
+        "questionType": "MCQ",
+        "answer": "B) Indian Council Act, 1892",
+        "explanation": "The element of election was introduced in India for the first time through the Indian Council Act of 1892. This act expanded the legislative councils and allowed for the election of some members to these councils. It marked a significant step towards representative government in British India. Prior to this act, the councils were mostly nominated, and the introduction of elections provided a limited form of popular participation in the political process. The Indian Council Act of 1892 laid the foundation for further reforms and paved the way for increased political representation in subsequent years."
+    },
+    {
+        "questionId": 61,
+        "questionType": "list",
+        "answer": "C) (A-4) (B-3) (C-2) (D-1)",
+        "explanation": "The correct matching of items in List-1 with List-2 is as follows:\\n\\nA) Drain of wealth theory - 4. Dadabhai Naoroji\\nB) Swaraj as my birth right - 3. B. G. Tilak\\nC) Separate Communal electorate - 2. M. Ali Jinnah\\nD) Entry into legislation - 1. C. R. Das\\n\\nThe Drain of wealth theory was propounded by Dadabhai Naoroji, Swaraj as my birth right was advocated by B. G. Tilak, Separate Communal electorate was supported by M. Ali Jinnah, and Entry into legislation was promoted by C. R. Das. These ideas and leaders played significant roles in India's struggle for independence and the shaping of its political landscape."
+    },
+    {
+        "questionId": 62,
+        "questionType": "list",
+        "answer": "C) (a-2) (b-3) (c-1) (d-4)",
+        "explanation": "The correct matching of items in List-1 with List-2 is as follows:\\n\\na. Formation of village panchayat - 2. Article 40\\nb. Uniform civil code - 3. Article 44\\nc. Agriculture and animal husbandry - 1. Article 48\\nd. Separation of judiciary from the executive - 4. Article 50\\n\\nArticle 40 of the Indian Constitution deals with the organization of village panchayats, Article 44 addresses the implementation of a uniform civil code, Article 48 focuses on agriculture and animal husbandry, and Article 50 emphasizes the separation of the judiciary from the executive. These articles reflect important aspects of governance and social policies in India."
+    },
+    {
+        "questionId": 63,
+        "questionType": "MCQ",
+        "answer": "D) All of the above",
+        "explanation": "The definition of a money bill under Article 110 of the Indian Constitution includes all the options mentioned. According to Article 110, a bill is considered a money bill if it deals with any of the following matters: the imposition, abolition, alteration, or regulation of any tax; the regulation of borrowing of money by the government; and the appropriation of money out of the consolidated fund of India. Therefore, all the options mentioned in the question are covered under the definition of a money bill."
+    },
+    {
+        "questionId": 64,
+        "questionType": "MCQ",
+        "answer": "C) 368",
+        "explanation": "The amendment process in the Indian Constitution is governed by Article 368. This article provides the procedure for amending the Constitution. It specifies that amendments can be initiated by either house of Parliament, and certain types of amendments require a special majority of votes in both houses. Article 368 lays down the detailed process, including the role of the President in giving assent to the amendments. Therefore, the correct answer is option C) 368."
+    },
+    {
+        "questionId": 65,
+        "questionType": "MCQ",
+        "answer": "C) 91st Constitutional Amendment Act, 2003",
+        "explanation": "The correct answer is option C) 91st Constitutional Amendment Act, 2003. This amendment act introduced a restriction on the size of the council of ministers in the central and state governments. According to this amendment, the size of the council of ministers cannot exceed 15 percent of the total members of the Lok Sabha or the State Legislative Assembly. The aim of this amendment was to prevent the proliferation of large cabinets and promote efficiency in governance. Therefore, the 91st Constitutional Amendment Act, 2003, is the correct legislation that introduced this restriction."
+    },
+    {
+        "questionId": 66,
+        "questionType": "MCQ",
+        "answer": "D) 15,000 each",
+        "explanation": "The correct answer is option D) 15,000 each. A candidate contesting the election for the posts of president and vice-president of India is required to tender a security deposit of Rs. 15,000 each. This security deposit is a financial requirement imposed on candidates to ensure their seriousness and commitment to the electoral process. The deposit is refundable if the candidate secures a certain percentage of votes in the election. Therefore, for the posts of president and vice-president, the security deposit amount is Rs. 15,000 each."
+    },
+    {
+        "questionId": 67,
+        "questionType": "MCQ",
+        "answer": "C) Article 72",
+        "explanation": "The correct answer is option C) Article 72. Article 72 of the Indian Constitution grants the President of India the power to grant pardons, reprieves, respites, or remissions of punishment to individuals convicted of offenses. This power is exercised by the President in consultation with the Council of Ministers. The purpose of this provision is to ensure that the President can provide relief or mercy in deserving cases where the application of the law may result in undue hardship or injustice. Article 72 plays a crucial role in the criminal justice system of India."
+    },
+    {
+        "questionId": 68,
+        "questionType": "MCQ",
+        "answer": "D) None of the above",
+        "explanation": "The correct answer is option D) None of the above. As of my knowledge cutoff in September 2021, the financial emergency under Article 360 of the Indian Constitution has never been imposed in India. Article 360 provides for the proclamation of a financial emergency in case of a threat to the financial stability or credit of India. Although the Indian Constitution allows for the declaration of a financial emergency, it has never been invoked since the enactment of the Constitution in 1950."
+    },
+    {
+        "questionId": 69,
+        "questionType": "MCQ",
+        "answer": "B) A large landlord",
+        "explanation": "A Taluqdar was a large landlord in the Indian feudal system. They held substantial land holdings and enjoyed considerable social and economic privileges. The term 'Taluqdar' originated from the word 'Taluqa,' which referred to a revenue collection unit. Taluqdars were responsible for collecting revenue from the peasants and tenants who cultivated the land under their control. They held significant power and influence in their respective regions, often acting as intermediaries between the British colonial administration and the local population. The system of Taluqdars played a crucial role in shaping the agrarian structure during the colonial period."
+    },
+    {
+        "questionId": 70,
+        "questionType": "MCQ",
+        "answer": "D) Benaras",
+        "explanation": "The Benaras session of the Indian National Congress held in 1905 supported the Swadeshi and boycott movement for Bengal. The movement was a response to the partition of Bengal by the British government, which was seen as a deliberate attempt to divide and weaken the nationalist movement. The session held in Benaras (now Varanasi) expressed solidarity with the people of Bengal and endorsed the use of Swadeshi (indigenous) goods and the boycott of British goods as a means of protest. This session marked a significant step in the growth of the Indian nationalist movement."
+    },
+    {
+        "questionId": 71,
+        "questionType": "MCQ",
+        "answer": "A) Hardit Singh",
+        "explanation": "The ship Komagata Maru was chartered by Hardit Singh, a prominent Sikh leader, for transporting Indians to Vancouver, Canada. The ship set sail from Hong Kong in 1914 with the intention of challenging the discriminatory immigration laws of Canada. However, upon arrival in Vancouver, the passengers were denied entry and were forced to return to India. This incident became a significant event in the history of Indian immigration and the struggle for equal rights."
+    },
+    {
+        "questionId": 72,
+        "questionType": "statements",
+        "answer": "C) iii i iv ii",
+        "explanation": "The correct chronological order of the governor-generals is John Lawrence (iii), Lord Lytton (i), Lord Dufferin (iv), and Lord Curzon (ii). John Lawrence served as the Viceroy of India from 1864 to 1869. Lord Lytton held the position from 1876 to 1880, followed by Lord Dufferin from 1884 to 1888, and finally Lord Curzon from 1899 to 1905. Therefore, the correct code is iii i iv ii."
+    },
+    {
+        "questionId": 73,
+        "questionType": "MCQ",
+        "answer": "A) Ambika Charan Mazumdar",
+        "explanation": "Ambika Charan Mazumdar was the president of the moderate faction of the Congress session in Lucknow in 1916. During this session, he played a crucial role in reconciling the differences between the moderate and extremist factions of the Congress. He welcomed Bal Gangadhar Tilak and his supporters back into the Congress, promoting unity within the party. Mazumdar's efforts in bridging the gap between the factions contributed to the strengthening of the Indian National Congress. Hence, the correct answer is A) Ambika Charan Mazumdar."
+    },
+    {
+        "questionId": 74,
+        "questionType": "MCQ",
+        "answer": "D) 25%",
+        "explanation": "Gandhi, during the Champaran Satyagraha in 1917, negotiated a compromise with the planters. As part of this compromise, the planters agreed to refund 25% of the money they had illegally taken from the peasants. This refund was a significant step towards addressing the grievances of the oppressed farmers and ensuring justice. Gandhi's efforts in securing this refund helped alleviate some of the economic hardships faced by the peasants. Therefore, the correct answer is D) 25%."
+    },
+    {
+        "questionId": 75,
+        "questionType": "MCQ",
+        "answer": "B) Marquess of Linlithgow",
+        "explanation": "The individual Satyagraha and the Quit India Movement were launched during the Viceroyalty of Marquess of Linlithgow. The individual Satyagraha was a campaign initiated by Mahatma Gandhi in 1940, demanding individual freedom and the rights of speech, expression, and assembly. The Quit India Movement, also known as the August Movement, was a civil disobedience movement launched in 1942, calling for an end to British rule in India. The Cripps Mission, led by Sir Stafford Cripps, arrived in India during this period in 1942, proposing certain constitutional reforms. Therefore, the correct answer is B) Marquess of Linlithgow."
+    },
+    {
+        "questionId": 76,
+        "questionType": "MCQ",
+        "answer": "A) Gopal Hari Deshmukh",
+        "explanation": "The statement, 'if religion does not sanction social reforms, it should be changed as it is man-made,' was made by Gopal Hari Deshmukh. Gopal Hari Deshmukh, also known as Lokhitwadi, was a social reformer and journalist during the 19th century. He advocated for social and religious reforms and believed that if religious practices were not aligned with the principles of justice and equality, they should be reformed. His ideas had a significant impact on the social reform movements in India. Therefore, the correct answer is A) Gopal Hari Deshmukh."
+    },
+    {
+        "questionId": 77,
+        "questionType": "MCQ",
+        "answer": "B) Thermal concept of Halley",
+        "explanation": "The thermal concept of Halley states that the monsoons are produced due to the differential heating of continents and ocean basins. According to this theory, during summer, the land heats up faster than the adjacent oceans, creating a low-pressure area over the landmass. As a result, moist air from the ocean flows towards the land, bringing rainfall and creating the monsoon phenomenon. This theory was proposed by Edmund Halley, an English astronomer, in the 17th century. Therefore, the correct answer is B) Thermal concept of Halley."
+    },
+    {
+        "questionId": 78,
+        "questionType": "MCQ",
+        "answer": "C) b-a-d-c",
+        "explanation": "The correct order of soil types in India from high to low in terms of percent share in total area is: B) Red Soil, A) Black Soil, D) Desert Soil, C) Laterite Soil. Red soil is the most extensive soil type in India, covering a significant portion of the country's land area. Black soil, also known as regur soil, is the second most abundant soil type. Desert soil, found in arid regions, has a lower coverage compared to red and black soil. Laterite soil, characterized by its high iron oxide content, has the least coverage among the listed soil types. Therefore, the correct code is C) b-a-d-c."
+    },
+    {
+        "questionId": 79,
+        "questionType": "MCQ",
+        "answer": "A) Bhils",
+        "explanation": "The largest tribal group in India is the Bhils. The Bhils are primarily concentrated in the states of Rajasthan, Gujarat, Madhya Pradesh, and Maharashtra. They have a significant population and have their own distinct language, culture, and traditions. Bhils traditionally relied on agriculture and forest-based activities for their livelihood. They have made significant contributions to the cultural heritage of India. Therefore, option A) Bhils is the correct answer."
+    },
+    {
+        "questionId": 80,
+        "questionType": "MCQ",
+        "answer": "D) Norwester - Haryana",
+        "explanation": "The pair 'Norwester - Haryana' is not correct. Norwester is a term used to refer to a type of thunderstorm that occurs in the eastern and northeastern regions of India, particularly in West Bengal, Bihar, and Odisha. It is characterized by strong winds, heavy rainfall, and sometimes hail. Haryana, being located in northern India, does not experience Norwesters. Therefore, option D) Norwester - Haryana is the correct answer."
+    },
+    {
+        "questionId": 81,
+        "questionType": "list",
+        "answer": "B) (a-3) (b-4) (c-1) (d-2)",
+        "explanation": "The correct matching of forest types with their percent share in total forest cover of India is as follows: Tropical Evergreen - 3) 12.1%, Subtropical - 4) 9.5%, Tropical Moist Deciduous - 1) 37.0%, Tropical dry deciduous - 2) 28.8%. Therefore, the correct answer is option B) (a-3) (b-4) (c-1) (d-2)."
+    },
+    {
+        "questionId": 82,
+        "questionType": "MCQ",
+        "answer": "D) Point Calimere - Kerala",
+        "explanation": "The pair that does not match correctly is D) Point Calimere - Kerala. Point Calimere, also known as Kodiakarai, is located in the Nagapattinam district of Tamil Nadu, not Kerala. The other options A) Mahim Bay - Maharashtra, B) Kori Creek - Gujarat, and C) Mal Bank - Gujarat are correctly matched with their respective states. Therefore, the correct answer is D) Point Calimere - Kerala."
+    },
+    {
+        "questionId": 83,
+        "questionType": "list",
+        "answer": "B) (A-3) (B-2) (C-4) (D-1)",
+        "explanation": "The correct match between List 1 and List 2 is: A) Cape Leuwin - Australia, B) Ozark Plateau - United States, C) Katanga Plateau - Democratic Republic of Congo, D) Kamchatka Peninsula - Russia. Therefore, the correct answer is B) (A-3) (B-2) (C-4) (D-1)."
+    },
+    {
+        "questionId": 84,
+        "questionType": "list",
+        "answer": "C) (A-4) (B-3) (C-1) (D-2)",
+        "explanation": "The correct match between List 1 and List 2 is: A) Carajas - Iron ore, B) Kalgoorlie - Gold, C) Salobo - Copper, D) Haerwusu - Coal. Therefore, the correct answer is C) (A-4) (B-3) (C-1) (D-2)."
+    },
+    {
+        "questionId": 85,
+        "questionType": "MCQ",
+        "answer": "C) Bay of Fundy",
+        "explanation": "The world's highest tides occur at the Bay of Fundy. Located on the eastern coast of Canada, between the provinces of New Brunswick and Nova Scotia, the Bay of Fundy experiences extreme tidal ranges due to its unique shape and narrow opening to the Atlantic Ocean. The tides in the bay can reach heights of up to 16 meters (52 feet), making it a remarkable natural phenomenon."
+    },
+    {
+        "questionId": 86,
+        "questionType": "list",
+        "answer": "D) (A-4) (B-3) (C-1) (D-2)",
+        "explanation": "The correct match of the ocean currents with their names is as follows:\\n\\nA) Canary current - 4. An Island\\nB) Labrador Current - 3. A Sea\\nC) Agulhas Current - 1. A Sea Coast\\nD) Peruvian Current - 2. A Country\\n\\nTherefore, the correct code is (A-4) (B-3) (C-1) (D-2)."
+    },
+    {
+        "questionId": 87,
+        "questionType": "MCQ",
+        "answer": "C) Limpopo",
+        "explanation": "Among the given options, the Limpopo river does not cross the equator, tropic of cancer, and tropic of Capricorn twice. The Mahi river, Negro river, and Zaire river cross these latitudes twice. Therefore, the correct answer is C) Limpopo."
+    },
+    {
+        "questionId": 88,
+        "questionType": "MCQ",
+        "answer": "C) Sunda strait \u2013 Gulf of Aden",
+        "explanation": "The pair that does not match correctly is C) Sunda strait \u2013 Gulf of Aden. The Sunda strait is located between the Indonesian islands of Java and Sumatra, connecting the Java Sea to the Indian Ocean. On the other hand, the Gulf of Aden is located in the Arabian Sea between Yemen and Somalia. Therefore, the Sunda strait is not associated with the Gulf of Aden. The other options A) Malacca strait \u2013 Andaman sea, B) Yucatan strait \u2013 Caribbean sea, and D) Bass strait \u2013 Tasman sea are correctly matched."
+    },
+    {
+        "questionId": 89,
+        "questionType": "MCQ",
+        "answer": "B) Economic development refers to the flow of goods and services in the economy for a long period of time only.",
+        "explanation": "The incorrect statement regarding sustainable development is B) Economic development refers to the flow of goods and services in the economy for a long period of time only. Sustainable development is not solely focused on the flow of goods and services in the economy, but rather on balancing economic growth with environmental protection and social well-being. It emphasizes the importance of considering long-term impacts and the needs of future generations. The other options A) The development that meets the needs of the present without compromising the ability of future generations, C) It is the practice of developing land and construction projects in an environmentally friendly manner, and D) To conserve natural resources and develop alternate sources of power while reducing pollution and harm to the environment are aligned with the concept of sustainable development."
+    },
+    {
+        "questionId": 90,
+        "questionType": "MCQ",
+        "answer": "C) 2030",
+        "explanation": "The sustainable development goals and targets are set to be achieved by the year 2030. These goals were established by the United Nations as a global framework to address various social, economic, and environmental challenges. The 2030 target reflects a timeline of 15 years from the adoption of the goals in 2015. The goals encompass a wide range of issues such as poverty eradication, education, healthcare, gender equality, clean energy, climate action, and more. Achieving these goals by 2030 requires collective efforts and cooperation from governments, organizations, and individuals worldwide."
+    },
+    {
+        "questionId": 91,
+        "questionType": "MCQ",
+        "answer": "B) Family Planning Programme",
+        "explanation": "The Family Planning Programme is not a part of the strategy of a direct attack on poverty. While family planning programs aim to address population growth and reproductive health, they are not directly targeted at alleviating poverty. On the other hand, the other options mentioned - Integrated Rural Development Programme, National Rural Employment Programme, and Jawahar Rozgar Yojana - are all initiatives that focus on promoting rural development, generating employment opportunities, and improving the economic conditions of the poor. These programs are designed to directly tackle poverty by providing employment, income-generating activities, and social welfare support to the marginalized sections of society."
+    },
+    {
+        "questionId": 92,
+        "questionType": "statements",
+        "answer": "D) I, II and III all",
+        "explanation": "The government has been following multiple approaches to reduce poverty in India. These include specific poverty alleviation programs, which are targeted interventions aimed at addressing the needs of the poor and vulnerable sections of society. Additionally, growth-oriented development strategies aim to stimulate economic growth and create employment opportunities, which can help lift people out of poverty. Meeting the minimum needs of the poor involves providing essential services such as healthcare, education, food security, and housing. Therefore, all three approaches mentioned in the statements - I, II, and III - are being pursued by the government to reduce poverty in India."
+    },
+    {
+        "questionId": 93,
+        "questionType": "MCQ",
+        "answer": "B) The difference between the poverty line and actual below that line",
+        "explanation": "The poverty gap refers to the difference between the poverty line, which is the income or consumption level considered as the minimum necessary to meet basic needs, and the actual income or consumption of individuals or households below that line. It is a measure of the extent to which individuals or households fall below the poverty line. The poverty gap reflects the depth of poverty and provides insights into the severity of poverty in a given population. It helps policymakers and researchers assess the effectiveness of poverty alleviation measures and design targeted interventions. Therefore, option B) The difference between the poverty line and actual below that line is the correct description of the poverty gap."
+    },
+    {
+        "questionId": 94,
+        "questionType": "statements",
+        "answer": "D) I, II and III only",
+        "explanation": "The NITI Aayog's action agenda for enhancing digital connectivity is based on all three statements. Statement I emphasizes the development of software for services that can be provided digitally, which involves creating digital platforms and applications to deliver various services. Statement II focuses on enhancing digital infrastructure, which includes improving internet connectivity, expanding network coverage, and strengthening communication infrastructure. Statement III highlights the importance of empowering citizens digitally, ensuring access to digital tools and skills for all individuals. Therefore, option D) I, II and III only correctly captures the basis of NITI Aayog's action agenda for enhancing digital connectivity."
+    },
+    {
+        "questionId": 95,
+        "questionType": "MCQ",
+        "answer": "C) Low proportion of labour force in the primary sector",
+        "explanation": "The indicator of low proportion of the labor force in the primary sector is not associated with economically underdeveloped countries. In economically underdeveloped countries, the primary sector, which includes agriculture, forestry, and mining, often employs a significant portion of the labor force. Therefore, option C) Low proportion of labor force in the primary sector is not an indicator of economically underdeveloped countries. Other indicators such as low per capita income, high rate of population growth, and high level of illiteracy are commonly observed in economically underdeveloped countries."
+    },
+    {
+        "questionId": 96,
+        "questionType": "statements",
+        "answer": "D) I, II, III and IV all",
+        "explanation": "The Competition Commission of India (CCI) has multiple objectives, as stated in the given statements. These objectives include ensuring freedom of trade carried on by other participants in markets in India (Statement I), protecting the interests of consumers (Statement II), promoting and sustaining competition in markets (Statement III), and preventing practices having an adverse effect on competition (Statement IV). Therefore, all the given statements are correct, and the correct answer is option D) I, II, III and IV all."
+    },
+    {
+        "questionId": 97,
+        "questionType": "MCQ",
+        "answer": "C) 1921",
+        "explanation": "The year 1921 is known as the year of demographic divide. This refers to a significant shift in the population dynamics of India during that period. In 1921, there was a clear distinction in the growth rates of the Hindu and Muslim populations, which led to a demographic divide. This divide highlighted the variations in population growth rates among different religious communities. Hence, the correct answer is option C) 1921."
+    },
+    {
+        "questionId": 98,
+        "questionType": "MCQ",
+        "answer": "C) The number of children a women will likely bear in her lifetime",
+        "explanation": "The total fertility rate refers to the average number of children that a woman is expected to bear during her lifetime in a specific population. It is a key indicator of population growth and demographic trends. The total fertility rate takes into account the age-specific fertility rates of women in reproductive ages and provides an estimate of the average number of children a woman will likely have. Therefore, option C) 'The number of children a woman will likely bear in her lifetime' is the correct description of the total fertility rate."
+    },
+    {
+        "questionId": 99,
+        "questionType": "statements",
+        "answer": "B) I, III, IV and VI only",
+        "explanation": "The National Food Security Mission (NFSM) aims to enhance the production and productivity of certain key crops in order to ensure food security in India. The crops targeted by NFSM include pulses, rice, wheat, and coarse cereals. Therefore, option B) 'I, III, IV, and VI only' is the correct answer as it includes pulses, rice, wheat, and coarse cereals among the objectives of NFSM."
+    },
+    {
+        "questionId": 100,
+        "questionType": "MCQ",
+        "answer": "C) Shyama Prasad Mukherji Rurban Mission",
+        "explanation": "The Shyama Prasad Mukherji Rurban Mission is the scheme that aims at creating 300 rural clusters across India. These clusters are designed to provide urban-like facilities and services in rural areas, including improved infrastructure, healthcare, education, and employment opportunities. The mission seeks to enhance the quality of life in rural areas by bridging the rural-urban divide. Therefore, option C) 'Shyama Prasad Mukherji Rurban Mission' is the correct answer."
+    }
+]

@@ -1,0 +1,1322 @@
+[
+    {
+        "questionId": 1,
+        "question": "Which of the following valleys lies between the Dhauladhar and Pir Panjal?",
+        "type": "MCQ",
+        "options": [
+            "A) Balh Valley",
+            "B) Bara Bhangal Valley",
+            "C) Kiara Dun Valley",
+            "D)  Pabbar Valley"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 2,
+        "question": "Which of the following Himalayan zones occupies the maximum percentage of the total geographical area of Himachal Pradesh?",
+        "type": "MCQ",
+        "options": [
+            "A) Sub-Himalayan Zone",
+            "B) Mid-Himalayan Zone",
+            "C) High Hill Zone",
+            "D) Trans Himalayan Zone"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 3,
+        "question": "Shingo-La is the name of which pass?",
+        "type": "MCQ",
+        "options": [
+            "A) Zanskar Pass",
+            "B) Bara Lacha Pass",
+            "C) Rohtang Pass",
+            "D) Jalori Pass"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 4,
+        "question": "Where does river Yamuna, after flowing through Uttarakhand, enter in Sirmaur district of Himachal Pradesh?",
+        "type": "MCQ",
+        "options": [
+            "A) Tajewala",
+            "B) Khodarmanjari",
+            "C) Baru Sahib",
+            "D)  Dadahu"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 5,
+        "question": "The movement started under the aegis of 'Kisan Sabha' in which Shri Lakshmi Singh and Vaid Surat Singh played a pivotal role was:",
+        "type": "MCQ",
+        "options": [
+            "A) Praja Mandal",
+            "B) Pajhota Andolan",
+            "C) Swaraj Sangh",
+            "D) Lokraj Sabha"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 6,
+        "question": "'Democratisation of the Administration' was the main aim of:",
+        "type": "MCQ",
+        "options": [
+            "A) Praja Mandal Movement",
+            "B) Mandi Conspiracy",
+            "C) Bilaspur Struggle",
+            "D)  Chamba Agitation"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 7,
+        "question": "When did Himachal Pradesh get the right to participate in the election for the first time under the new constitution?",
+        "type": "MCQ",
+        "options": [
+            "A) 1952",
+            "B) 1957",
+            "C) 1962",
+            "D) 1967"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 8,
+        "question": "Which of the following Monasteries was built by a Western Tibet ruler 'Ye-Sashoad' around the year 996 A)D.?",
+        "type": "MCQ",
+        "options": [
+            "A) Gemur",
+            "B) Kardang",
+            "C) Tabo",
+            "D)  Tayul"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 9,
+        "question": "Which was the old capital of Kullu Rajas from where the twelve generations of Kullu Rajas ruled?",
+        "type": "MCQ",
+        "options": [
+            "A) Manali",
+            "B) Jagatsukh",
+            "C) Sultanpur",
+            "D) Bajaura"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 10,
+        "question": "In 1804 A)D., the rulers of Bilaspur, Mandi, Chamba, and other small rulers of the Kangra area invited whom to invade Kangra?",
+        "type": "MCQ",
+        "options": [
+            "A) Gurkha Army Chief Amar Singh Thapa",
+            "B) British Army",
+            "C) Mughals",
+            "D)  Maharaja Ranjit Singh"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 11,
+        "question": "In 1848, who suppressed the rebellion of Wazir of Nurpur and then Pramod Chand and Rajas of Jaswan and Datarpur?",
+        "type": "MCQ",
+        "options": [
+            "A) Mr Lawerence",
+            "B) Mr Jackson",
+            "C) Mr Moorcraft",
+            "D)  Mr Williams"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 12,
+        "question": "'Madho Rai ki Jaleb' is the main attraction of which popular Himachali fair?",
+        "type": "MCQ",
+        "options": [
+            "A) Dussehra",
+            "B) Lohri",
+            "C) Shivratri",
+            "D)  Nalwari"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 13,
+        "question": "What is the architectural style of the temple built on the edge of the Prashar Lake?",
+        "type": "MCQ",
+        "options": [
+            "A) Cone Shaped",
+            "B) Pagoda",
+            "C) Pentroof",
+            "D) Pyramidal Shaped"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 14,
+        "question": "'Dohru' is a traditional woollen dress worn by the women of which district?",
+        "type": "MCQ",
+        "options": [
+            "A) Una",
+            "B) Kangra",
+            "C) Bilaspur",
+            "D) Kinnaur"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 15,
+        "question": "What is the approximate capacity of 'Shontong Karcham' Hydro Electric Power Project?",
+        "type": "MCQ",
+        "options": [
+            "A) 195 MW",
+            "B) 100 MW",
+            "C) 205 MW",
+            "D) 450 MW"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 16,
+        "question": "In which district did the Central Government approve Rs. 80 lakh in 2011 for setting up a Snow Leopard centre?",
+        "type": "MCQ",
+        "options": [
+            "A) Kilba in Kinnaur",
+            "B) Kibber in Lahaul-Spiti",
+            "C) Sainj in Kullu",
+            "D) Pangi in Chamba"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 17,
+        "question": "To improve the Gross Enrolment Ratio (GER) in Higher Education, the government of H.P. adopted 'Rashtriya Uchtar Shikha Abhiyan,' the centrally sponsored scheme in the year:",
+        "type": "MCQ",
+        "options": [
+            "A) 2012",
+            "B) 2013 (2013-14)",
+            "C) 2014",
+            "D) 2015"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 18,
+        "question": "Who is the author of the book 'Polyandry in the Himalayas'?",
+        "type": "MCQ",
+        "options": [
+            "A) Dr Y.S Parmar",
+            "B) C)G. Bruce",
+            "C) V.P. Menon",
+            "D)  M.S. Gill"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 19,
+        "question": "Which famous football tournament was started in 1888 from Annadale?",
+        "type": "MCQ",
+        "options": [
+            "A) Subroto Cup",
+            "B) Santosh Trophy",
+            "C) Durand Cup",
+            "D) Federation Cup"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 20,
+        "question": "The Mushroom Development Project in Palampur was launched in 1985 with the introduction of the technology of which country?",
+        "type": "MCQ",
+        "options": [
+            "A) British",
+            "B) Dutch",
+            "C) American",
+            "D)  Brazil"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 21,
+        "question": "What was the approximate decadal population growth rate of Himachal Pradesh in census 2011?",
+        "type": "MCQ",
+        "options": [
+            "A) 13.3%",
+            "B) 12.9%",
+            "C) 12.5%",
+            "D)  12%"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 22,
+        "question": "What is India\u2019s estimated GDP growth rate for 2018-19 in the Economic Survey?",
+        "type": "MCQ",
+        "options": [
+            "A) 3% \u2013 7.1%",
+            "B) 2% \u2013 7.5%",
+            "C) 7% \u2013 7.5%",
+            "D)  7% \u2013 7.2%"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 23,
+        "question": "What was the Index of Industrial Production in December 2017?",
+        "type": "MCQ",
+        "options": [
+            "A) 6.8%",
+            "B) 7.1%",
+            "C) 7.8%",
+            "D)  7.4%"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 24,
+        "question": "Find the correct poverty estimates for Arunachal Pradesh, Bihar, Chhatisgarh, Manipur respectively in 2011-12, as per the Planning Commission?",
+        "type": "MCQ",
+        "options": [
+            "34.7% 39.9% 36.9% 33.7%",
+            "33.7% 36.9% 34.7% 39.9%",
+            "36.9% 39.9% 33.7% 34.7%",
+            "34.7% 33.7% 33.9% 36.9%"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 25,
+        "question": "With what is 'Operation Green' related?",
+        "type": "MCQ",
+        "options": [
+            "A) Use of paramilitary forces against Naxalites in Maharashtra",
+            "B) Use of paramilitary forces against Naxalites in Chhattisgarh",
+            "C) Tomato Onion Potato",
+            "D)  Round Revolution"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 26,
+        "question": "Who is the first woman advocate whose name has been recommended by the collegium to become the Judge of Supreme Court of India?",
+        "type": "MCQ",
+        "options": [
+            "A) Indu Malhotra",
+            "B) Neeru Chadha",
+            "C) Sujata V. Manohar",
+            "D)  Gyan Sudha Mishra"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 27,
+        "question": "What is the bank account available to Dalits and Women under 'Stand-up India'?",
+        "type": "MCQ",
+        "options": [
+            "A) 1 \u2013 10 lakh",
+            "B) 10 \u2013 50 lakh",
+            "C) 10 lakh \u2013 1 crore",
+            "D)  50 lakh \u2013 1 crore"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 28,
+        "question": "Immunization of all children by 2020 is related to:",
+        "type": "MCQ",
+        "options": [
+            "A) Mission Rainbow",
+            "B) Mission Ayushmaan Bharat",
+            "C) Mission Arogya",
+            "D)  Mission Healthy Bharat"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 29,
+        "question": "According to the Global Nutrition Report 2017, how many females suffered from anaemia in India?",
+        "type": "MCQ",
+        "options": [
+            "A) 49%",
+            "B) 51%",
+            "C) 53%",
+            "D)  54%"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 30,
+        "question": "What is the estimated social sector expenditure in budget 2018-19?",
+        "type": "MCQ",
+        "options": [
+            "A) 1.36 lakh crore",
+            "B) 1.37 lakh crore",
+            "C) 1.38 lakh crore",
+            "D)  1.39 lakh crore"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 31,
+        "question": "How many poor families will be provided with how much medical insurance per family in 2018-19 under the Ayushmaan Bharat Yojana?",
+        "type": "MCQ",
+        "options": [
+            "A) 10 crore and Rs 3 lakh",
+            "B) 5 crore and Rs 5 lakh",
+            "C) 10 crore and Rs 5 lakh",
+            "D)  3 crore and Rs 10 lakh"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 32,
+        "question": "How many hours per year are the people expected to contribute for cleanliness under the Swachh Bharat Abhiyaan?",
+        "type": "MCQ",
+        "options": [
+            "A) 70",
+            "B) 80",
+            "C) 90",
+            "D)  100"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 33,
+        "question": "Match the items given in column I and II",
+        "type": "list",
+        "listI": {
+            "items": [
+                "(P) Montreal Protocol",
+                "(Q) Vienna Convention",
+                "(R) Kyoto Protocol",
+                "(S) Earth Summit"
+            ],
+            "heading": "Column-I"
+        },
+        "listII": {
+            "items": [
+                "i. Protection of Ozone Layer",
+                "ii. Stabilization of Greenhouse Gases",
+                "iii. Environment and Sustainable Development",
+                "iv. Total Elimination of Ozone Depleting Substances"
+            ],
+            "heading": "Column-II"
+        },
+        "options": [
+            "A) (P-iv), (Q-ii), (R-i), (S-iii)",
+            "B) (P-iv), (Q-i), (R-ii), (S-iii)",
+            "C) (P-ii), (Q-iv), (R-i), (S-iii)",
+            "D)  (P-ii), (Q-i), (R-iii), (S-iv)"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 34,
+        "question": "13. In context environment, the term 'dirty dozen' refers to:",
+        "type": "statements",
+        "statements": [
+            "1. 12 ozone layer depleting substances",
+            "2. 12 persistent organic pollutants",
+            "3. 12 most harmful greenhouse gases",
+            "4. 12 most degraded ecosystems"
+        ],
+        "options": [
+            "A) only 3",
+            "B) 1, 2 and 3",
+            "C) only 2",
+            "D)  1, 2, 3, and 4"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 35,
+        "question": "Vast majority of biodiversity occurs in:",
+        "type": "MCQ",
+        "options": [
+            "A) Developing countries",
+            "B) Developed countries",
+            "C) Equal in both",
+            "D) None of the above"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 36,
+        "question": "\u201cAppiko Movement\u201d was led by:",
+        "type": "MCQ",
+        "options": [
+            "A) Sunderlal Bahuguna",
+            "B) Pandurang Hegde",
+            "C) Vandana Shiva",
+            "D) Amrita Devi"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 37,
+        "question": "Freshwater present on earth is:",
+        "type": "MCQ",
+        "options": [
+            "A) 1.5%",
+            "B) 0.01%",
+            "C) 2.5%",
+            "D) 2.97%"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 38,
+        "question": "Which industry laborers are most prone to Cytosilicosis disease?",
+        "type": "MCQ",
+        "options": [
+            "A) Electric",
+            "B) Computer",
+            "C) Dairy",
+            "D) Cement"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 39,
+        "question": "Match the items given in column I and II:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "(P) Biological Diversity Act",
+                "(Q) E-Waste (Management and Handling) Rules",
+                "(R) Hazardous Wastes (Management, Handling and Trans-boundary) Rules",
+                "(S) Municipal Solid Wastes (Management and Handling) Rules"
+            ],
+            "heading": "Column-I"
+        },
+        "listII": {
+            "items": [
+                "i. 2000",
+                "ii. 2008",
+                "iii. ",
+                "iv. 2002"
+            ],
+            "heading": "Column-II"
+        },
+        "options": [
+            "A) (P-i) (Q-iv) (R-ii) (S-iii)",
+            "B) (P-i) (Q-iv) (R-ii) (S-ii)",
+            "C) (P-iv) (Q-iii) (R-ii) (S-i)",
+            "D) (P-iv (Q-iii) (R-i) (S-ii)"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 40,
+        "question": "In which year \u201cProject Crocodile\u201d was launched in India?",
+        "type": "MCQ",
+        "options": [
+            "A) 1973",
+            "B) 1975",
+            "C) 1972",
+            "D) 1980"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 41,
+        "question": "Which of the following is a non-renewable energy source?",
+        "type": "MCQ",
+        "options": [
+            "A) Solar",
+            "B) Wind",
+            "C) Nuclear reactors",
+            "D) All of the above"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 42,
+        "question": "Which of the following is not a fundamental unit?",
+        "type": "MCQ",
+        "options": [
+            "A) Meter",
+            "B) Litre",
+            "C) Kilogram",
+            "D) Second"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 43,
+        "question": "The liquid used in a clinical thermometer is:",
+        "type": "MCQ",
+        "options": [
+            "A) Alcohol",
+            "B) Water",
+            "C) Mercury",
+            "D) Benzene"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 44,
+        "question": "The image formed by a convex mirror is:",
+        "type": "MCQ",
+        "options": [
+            "A) Erect and diminished",
+            "B) Erect and enlarged",
+            "C) Inverted and diminished",
+            "D) Inverted and enlarged"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 45,
+        "question": "Renewable source of energy is:",
+        "type": "MCQ",
+        "options": [
+            "A) Coal",
+            "B) Fossil fuels",
+            "C) Natural gas",
+            "D) Sun"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 46,
+        "question": "The global warming has resulted:",
+        "type": "MCQ",
+        "options": [
+            "A) Increase in yield of the crop",
+            "B) Decrease in sea levels",
+            "C) Decrease in human deaths",
+            "D) Increase in sea levels"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 47,
+        "question": "Photosynthesis occurs in:",
+        "type": "MCQ",
+        "options": [
+            "A) Nucleus",
+            "B) Mitochondria",
+            "C) Chloroplast",
+            "D) None of the above"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 48,
+        "question": "In which part of our body are RBCs formed?",
+        "type": "MCQ",
+        "options": [
+            "A) Liver",
+            "B) Heart",
+            "C) Bone marrow",
+            "D) Kidney"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 49,
+        "question": "\u201cRataundhi\u201d is due to deficiency of which Vitamin?",
+        "type": "MCQ",
+        "options": [
+            "A) Vitamin A",
+            "B) Vitamin B6",
+            "C) Vitamin C",
+            "D) Vitamin B12"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 50,
+        "question": "Core of a transformer is made of:",
+        "type": "MCQ",
+        "options": [
+            "A) Steel",
+            "B) Soft iron",
+            "C) Copper",
+            "D) Aluminium"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 51,
+        "question": "Which of the following is deficient in the body during \u201cDengue\u201d fever?",
+        "type": "MCQ",
+        "options": [
+            "A) Hemoglobin",
+            "B) Sugar",
+            "C) Platelets",
+            "D) Water"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 52,
+        "question": "Who won the Nobel Prize for Chemistry in 2017?",
+        "type": "MCQ",
+        "options": [
+            "A) Joachim Frank",
+            "B) Jacques Dubochet",
+            "C) Richard Henderson",
+            "D) All of the above"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 53,
+        "question": "Who won the Women\u2019s Singles Wimbledon tournament in 2017?",
+        "type": "MCQ",
+        "options": [
+            "A) Garbine Muguruza",
+            "B) Ekaterina Makarova",
+            "C) Elena Vesnina",
+            "D) Serena Williams"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 54,
+        "question": "Who became the first female President of Singapore?",
+        "type": "MCQ",
+        "options": [
+            "A) Carrie Lam",
+            "B) Halimah Yacob",
+            "C) Jacindra Ardern",
+            "D) Angela Merkel"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 55,
+        "question": "Why is Jagmeet Singh in the news?",
+        "type": "MCQ",
+        "options": [
+            "A) He is elected leader of Canada\u2019s New Democratic Party",
+            "B) He represents South Hall in the British House of Commons",
+            "C) He is appointed as one of the advisors to President Donald Trump",
+            "D) He is an advisor to the UN Commission on Human Rights"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 56,
+        "question": "Why has Hambantota Port been in the news in 2017?",
+        "type": "MCQ",
+        "options": [
+            "A) Its majority stakes are sold to China",
+            "B) It straddles the world\u2019s busiest east-west shipping route",
+            "C) Chinese move here created worries for India",
+            "D) All of the above"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 57,
+        "question": "Who was awarded the Best Actress award in the 64th National Film Awards function?",
+        "type": "MCQ",
+        "options": [
+            "A) M. Surabhi",
+            "B) Zaira Wasim",
+            "C) Iman Chakraborty",
+            "D) Sonam Kapoor"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 58,
+        "question": "Match List-I and List-II and select the correct answer from the codes given below:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "I. Sachidanand Vatsyayan",
+                "II. Aryabhatta",
+                "III. Ayyankali",
+                "IV. Fatima Beevi"
+            ],
+            "heading": "List-I"
+        },
+        "listII": {
+            "items": [
+                "i. Judge",
+                "ii. Harijan leader",
+                "iii. Hindi Poet",
+                "iv. Astronomer"
+            ],
+            "heading": "List-II"
+        },
+        "options": [
+            "A) (a-iv) (b-iii) (c-i) (d-ii)",
+            "B) (a-iii) (b-iv) (c-ii) (d-i)",
+            "C) (a-iii) (b-i) (c-ii) (d-iv)",
+            "D) (a-ii) (b-i) (c-iii) (d-iv)"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 59,
+        "question": "Name the sportsperson who has been honoured with \u201cBharat Ratna\u201d?",
+        "type": "MCQ",
+        "options": [
+            "A) Major Dhyan Chanda",
+            "B) Sunil Gavaskar",
+            "C) Sachin Tendulkar",
+            "D) P.T. Usha"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 60,
+        "question": "Who is appointed as the New Chairman of ISRO?",
+        "type": "MCQ",
+        "options": [
+            "A) G.K. Menon",
+            "B) Roddam Narasimhan",
+            "C) R. Rao",
+            "D) K.Sivan"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 61,
+        "question": "Who said that, 'The Constituent Assembly was a one party body in The Assembly was the Congress and the Congress was India'?",
+        "type": "MCQ",
+        "options": [
+            "A) Morris Jones",
+            "B) Paul R. Brass",
+            "C) Granville Austin",
+            "D) Richard Sisson"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 62,
+        "question": "Match List-I and List-II and select the correct answer from the codes given below:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "l. The Child and the State in India",
+                "II. The Hindu Nationalist Movement and Indian Politics",
+                "Ill. The Political Economy of Development in India",
+                "IV. Poverty Amid Plenty in the New India"
+            ],
+            "heading": "ListI (Books)"
+        },
+        "listII": {
+            "items": [
+                "i. Atul Kohli",
+                "ii. Pranab Bardhan",
+                "iii. Christopher Jaferlot",
+                "iv. Myron Weiner"
+            ],
+            "heading": "ListII (Authors)"
+        },
+        "options": [
+            "A) (a-iii) (b-iv) (c-i) (d-ii) ",
+            "B) (a-iv) (b-iii) (c-ii) (d-i)",
+            "C) (a-ii) (b-i) (c-iii) (d-iv)",
+            "D) (a-i) (b-ii) (c-iv) (d-iii)"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 63,
+        "question": "In which case did The Supreme Court give the doctrine of 'Basic Structure' of the constitution?",
+        "type": "MCQ",
+        "options": [
+            "A) Keshavanand Bharti case",
+            "B) Golak Nath case",
+            "C) Indira Sawhney case",
+            "D) Sankari Prasad case"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 64,
+        "question": "Which states/union territories are involved in the Cauvery river dispute?",
+        "type": "MCQ",
+        "options": [
+            "A) Maharashtra, Karnataka and Tamil Nadu",
+            "B) Kerala, Tamil Nadu and Puducherry",
+            "C) Tamil Nadu, Karnataka and Kerala",
+            "D) Karnataka, Tamil Nadu, Kerala and Puducherry"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 65,
+        "question": "Supreme Court\u2019s judgment in Indira Sawhney Vs. Union ofIndia case deals with:",
+        "type": "MCQ",
+        "options": [
+            "A) Reservations for OBCs",
+            "B) Reservations for SCs and STs",
+            "C) Reservations in Promotion",
+            "D) Reservations for Muslims"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 66,
+        "question": "Match List-I and List-II and select the correct answer from the codes given below:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "I. H. Hanumantha Roa",
+                "II. V.K. Rao",
+                "III. Ashok Mehta",
+                "IV. M. Singhvi"
+            ],
+            "heading": "List-I (Panchayati Raj Committees)"
+        },
+        "listII": {
+            "items": [
+                "i. 1978",
+                "ii. 1984",
+                "iii. 1986",
+                "iv. 1985"
+            ],
+            "heading": "List-II (Year)"
+        },
+        "options": [
+            "A) (a-iv) (b-ii) (c-i) (d-iii)",
+            "B) (a-ii) (b-iv) (c-i) (d-iii)",
+            "C) (a-i) (b-iii) (c-ii) (d-iv)",
+            "D) (a-iii) (b-i) (c-iv) (d-ii)"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 67,
+        "question": "Which of the following is not associated with electoral reforms in India?",
+        "type": "MCQ",
+        "options": [
+            "A) Tarkunde Committee",
+            "B) Dinesh Goswami Committee",
+            "C) N. N. Vohra committee",
+            "D) Indrajit Gupta Committee"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 68,
+        "question": "Who described Indian Capitalism as \u201cDharmshala Capitalism\u201d?",
+        "type": "MCQ",
+        "options": [
+            "A) K.R.V. Rao",
+            "B) Jagdish Bhagwati",
+            "C) Amartya Sen",
+            "D) Raj Krishna"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 69,
+        "question": "Which of the following are statutory bodies? Select and correct answer from the codes given below:",
+        "type": "statements",
+        "statements": [
+            "i. University Grants Commission",
+            "ii. Official Language Commission",
+            "iii. Railway Board",
+            "iv. Atomic Energy Commission"
+        ],
+        "options": [
+            "A) (i) and (ii)",
+            "B) (i), (iii) and (iv)",
+            "C) (i), (ii) and (iv)",
+            "D) (ii) and (iv)"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 70,
+        "question": "Regarding the Interim Government of 1946 which of the following is not correct?",
+        "type": "MCQ",
+        "options": [
+            "A) Jawaharlal Nehru was the Prime Minister/Head of the Executive Council",
+            "B) Jawaharlal Nehru was designated as the Vice-President of the Viceroy\u2019s Executive Council.",
+            "C) The viceroy continue to be the Head of the Executive Council",
+            "D) The members of the Interim Government was members of Viceroy\u2019s Executive Council"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 71,
+        "question": "Who said, Indian federalism is \u201ca new kind offederation to meet India\u2019s peculiar need\u2019s?",
+        "type": "MCQ",
+        "options": [
+            "A) Granville Austin",
+            "B) Ivor Jennings",
+            "C) Alexanderowicz",
+            "D) Ronald Wats"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 72,
+        "question": "Adi Ambedkar Samaj movement is related to which state?",
+        "type": "MCQ",
+        "options": [
+            "A) Maharashtra",
+            "B) Punjab",
+            "C) Rajasthan",
+            "D) Uttar Pradesh"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 73,
+        "question": "When did Communist Party ofIndia (Marxist) emerge a separate political party?",
+        "type": "MCQ",
+        "options": [
+            "A) 1960",
+            "B) 1964",
+            "C) 1968",
+            "D) 1973"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 74,
+        "question": "Who described the critical and creative role of politics in India as \u201cthe Indian model ofdevelopment\u201d?",
+        "type": "MCQ",
+        "options": [
+            "A) Rajni Kothari",
+            "B) Amartya Sen",
+            "C) Jagdish Bhagwati",
+            "D) James Manner"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 75,
+        "question": "Match List-I and List-II and identify the correct answer from the codes given below:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "I. Millennium Development",
+                "II. National Commission for Women",
+                "III. Ministry of Women and Child Development",
+                "IV. National Mission for Empowerment of Women"
+            ],
+            "heading": "List-I (Events)"
+        },
+        "listII": {
+            "items": [
+                "i. 2010",
+                "ii. 2006",
+                "iii. 1992",
+                "iv. 2011"
+            ],
+            "heading": "List-II (Year)"
+        },
+        "options": [
+            "A) (a-i) (b-ii) (c-iv) (d-iii)",
+            "B) (a-iv) (b-iii) (c-ii) (d-i)",
+            "C) (a-i) (b-iv) (c-iii) (d-ii)",
+            "D) (a-iii) (b-i) (c-ii) (d-iv)"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 76,
+        "question": "Montague-Chelmsford Reforms were introduced in India in the year:",
+        "type": "MCQ",
+        "options": [
+            "A) 1881",
+            "B) 1902",
+            "C) 1909",
+            "D) 1919"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 77,
+        "question": "B)R. Ambedkar was born at :",
+        "type": "MCQ",
+        "options": [
+            "A) Poona",
+            "B) Bombay",
+            "C) Mhow",
+            "D) Satara"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 78,
+        "question": "Which of the following leaders had worked for tribal upliftment?",
+        "type": "MCQ",
+        "options": [
+            "A) Mahatma Gandhi",
+            "B) A)V. Thakkar",
+            "C) B)R. Ambedkar",
+            "D) Jagjivan Ram"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 79,
+        "question": "Which of the following leaders was never associated with the Indian National Congress?",
+        "type": "MCQ",
+        "options": [
+            "A) V.D) Savarkar",
+            "B) Lala Lajpat Rai",
+            "C) Vallabhbhai Patel",
+            "D) S. C) Bose"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 80,
+        "question": "Which of the following was not a socialist leader?",
+        "type": "MCQ",
+        "options": [
+            "A) Ram Manohar Lohiya",
+            "B) Jaiprakash Narain",
+            "C) S.C) Bose",
+            "D) M.R. Jaiyakar"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 81,
+        "question": "Which of the following Bills was drafted by Dr. B)R. Ambedkar as the first Law Minister ofIndia?",
+        "type": "MCQ",
+        "options": [
+            "A) Hindu Code Bill",
+            "B) Indian Code Bill",
+            "C) Hindu Marriage Bill",
+            "D) Human Rights Bill"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 82,
+        "question": "Which one of the following igneous rocks has the highest density?",
+        "type": "MCQ",
+        "options": [
+            "A) Basalt",
+            "B) Olivine",
+            "C) Pyroxene",
+            "D) Quartz"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 83,
+        "question": "Which one of the following is not correctly matched?",
+        "type": "MCQ",
+        "options": [
+            "A) Slate-Sandstone",
+            "B) Schist-Shale",
+            "C) Marble-Limestone",
+            "D) Quartzite-Sandstone"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 84,
+        "question": "Which one of the following planets has the shortest day?",
+        "type": "MCQ",
+        "options": [
+            "A) Earth",
+            "B) Mars",
+            "C) Mercury",
+            "D) Venus"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 85,
+        "question": "The term outwash plain is associated with :",
+        "type": "MCQ",
+        "options": [
+            "A) Glaciers",
+            "B) Rivers",
+            "C) Sea waves",
+            "D) Wind action"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 86,
+        "question": "Which one of the following has the largest number of active volcanoes?",
+        "type": "MCQ",
+        "options": [
+            "A) Alaska",
+            "B) Aleutian Islands",
+            "C) Hawaii Islands",
+            "D) Iceland"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 87,
+        "question": "The concept of Normal Cycle of Erosion was given by :",
+        "type": "MCQ",
+        "options": [
+            "A) Davis, W.M.",
+            "B) Penck, W.",
+            "C) Strahler, A)",
+            "D) Thornbury, W.D."
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 88,
+        "question": "The term Ria stands for:",
+        "type": "MCQ",
+        "options": [
+            "A) A submerged river valley",
+            "B) A submerged glacial valley",
+            "C) An emerged river valley",
+            "D) An emerged glacial valley"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 89,
+        "question": "The term deflation is associated with :",
+        "type": "MCQ",
+        "options": [
+            "A) Glaciers",
+            "B) Running water Sea-water",
+            "C) Sea-waves",
+            "D) Wind action"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 90,
+        "question": "The rate of decrease of temperature in the troposphere is :",
+        "type": "MCQ",
+        "options": [
+            "A) 5.4 degree Celcius",
+            "B) 6.4 degree Celcius",
+            "C) 7 degree Celcius",
+            "D) 4 degree Celcius"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 91,
+        "question": "The term Operation Flood is associated with :",
+        "type": "MCQ",
+        "options": [
+            "A) Blue Revolution",
+            "B) Golden Revolution",
+            "C) White Revolution",
+            "D) Yellow Revolution"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 92,
+        "question": "The National Forest Policy was launched in :",
+        "type": "MCQ",
+        "options": [
+            "A) 1988",
+            "B) 1990",
+            "C) 1994",
+            "D) 1996"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 93,
+        "question": "Which one of the following states have the highest percentage of irrigated area?",
+        "type": "MCQ",
+        "options": [
+            "A) Arunachal Pradesh",
+            "B) Haryana",
+            "C) Jammu & Kashmir",
+            "D) Sikkim"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 94,
+        "question": "Oil refinery at Bhatinda is being established by :",
+        "type": "MCQ",
+        "options": [
+            "A) BPCL",
+            "B) HPCL",
+            "C) CRL",
+            "D) IOC"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 95,
+        "question": "Which one of the following is the largest industry in India?",
+        "type": "MCQ",
+        "options": [
+            "A) Cement",
+            "B) Iron & Steel",
+            "C) Petroleum",
+            "D) Textile"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 96,
+        "question": "Tata Iron and Steel Company at Jamshedpur was established in:",
+        "type": "MCQ",
+        "options": [
+            "A) 1914",
+            "B) 1912",
+            "C) 1910",
+            "D) 1908"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 97,
+        "question": "The first industrial policy was announced in :",
+        "type": "MCQ",
+        "options": [
+            "A) 1948",
+            "B) 1956",
+            "C) 1964",
+            "D) 1972"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 98,
+        "question": "The town of Rishira is known for the industry of:",
+        "type": "MCQ",
+        "options": [
+            "A) Cotton Textile",
+            "B) Jute Textile",
+            "C) Silk Textile",
+            "D) Woolen Textile"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 99,
+        "question": "Koraput has rich deposits of:",
+        "type": "MCQ",
+        "options": [
+            "A) Bauxite",
+            "B) Copper",
+            "C) Iron-ore",
+            "D) Mica"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 100,
+        "question": "How many sustainable developments are there in the U.N. Agenda 2030?",
+        "type": "MCQ",
+        "options": [
+            "A) 14",
+            "B) 15",
+            "C) 16",
+            "D) 17"
+        ],
+        "subject": "General Knowledge"
+    }
+]

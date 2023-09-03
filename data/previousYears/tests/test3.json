@@ -1,0 +1,1231 @@
+[
+    {
+        "questionId": 1,
+        "question": "Physiographically Palampur, Dharamshala, and Jogindernagarin Himachal Pradesh are situated in which in of the following zone?",
+        "type": "MCQ",
+        "options": [
+            "A) Humid Sub-Tropical",
+            "B) Sub-Temperate",
+            "C) Sub-Humid Tropical",
+            "D) Wet Sub-Temperate"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 2,
+        "question": "Which of the following was not a princely state or Thakurai which was clubbed to form the Mahasu district in 1948?",
+        "type": "MCQ",
+        "options": [
+            "A) Koti",
+            "B) Darkoti",
+            "C) Ghund",
+            "D) Ani"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 3,
+        "question": "\u2018Zahor\u2019 is the Tibetan name of which of the following district of Himachal Pradesh?",
+        "type": "MCQ",
+        "options": [
+            "A) Kinnaur",
+            "B) Mandi",
+            "C) Lahaul-Spiti",
+            "D) Kullu"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 4,
+        "question": "Which snow-clad peak of Himachal Pradesh is shaped somewhat like Matterhorn in Switzerland?",
+        "type": "MCQ",
+        "options": [
+            "A) Gyephang",
+            "B) Reo-Purgyil",
+            "C) Jorkandern",
+            "D) Manirang"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 5,
+        "question": "Which of the following combination is not correct?",
+        "type": "MCQ",
+        "options": [
+            "A) Pangwal \u2013 Doghri",
+            "B) Kinner or Kinnaura-Janekang",
+            "C) Gaddi \u2013 Satta-Satta",
+            "D) Swangla-Jhanjrara"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 6,
+        "question": "Match List-I and List-II and select the correct answer from the codes given below:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "a. Kayang",
+                "b. Jhanjar",
+                "c. Keekli and Bangra",
+                "d. Jhoori",
+                "e. "
+            ],
+            "heading": "ListI"
+        },
+        "listII": {
+            "items": [
+                "(i) Sirmaur",
+                "(ii) Una",
+                "(iii) Chamba",
+                "(iv) Lahaul",
+                "(v) Kinnaur"
+            ],
+            "heading": "ListII"
+        },
+        "options": [
+            "A) (a-v) (b-i) (c-iv) (d-iii)",
+            "B) (a-v) (b-iii) (c-ii) (d-i)",
+            "C) (a-iv) (b-iii) (c-ii) (d-i)",
+            "D) (a-i) (b-ii) (c-ii) (d-iV)"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 7,
+        "question": "Lohri has been declared as a state-level festival and the First Lohri festival was celebrated on 13th January 2010 at which of the following place?",
+        "type": "MCQ",
+        "options": [
+            "A) Santokhgarh",
+            "B) Pragpur",
+            "C) Nalagarh",
+            "D) Paonta Sahib"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 8,
+        "question": "Which of the following temple is believed to be constructed by two merchants \u2018Ahuka\u2019 and \u2018Manyuka\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) Baijnath",
+            "B) Chintpurni",
+            "C) Lakshmi Narayan Temple Chamba",
+            "D) Masroor"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 9,
+        "question": "The largest collection of Kangyur and Tangyuris placed in the library of which of the following Gompa?",
+        "type": "MCQ",
+        "options": [
+            "A) Gemur Gompa",
+            "B) Kardang Gompa",
+            "C) Tayul Gompa",
+            "D) Sashur Gompa"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 10,
+        "question": "Which of the following statement is not correct?",
+        "type": "MCQ",
+        "options": [
+            "A) The Arki School of painting was founded by Raja Jagat Singh",
+            "B) The Basholi School of painting came into prominence from the time of Raja Kripal Pal",
+            "C) The Kangra painting have got a Geographical Indicator(GI)",
+            "D) Chamba was one of the principal centre of Pahari miniature paintings"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 11,
+        "question": "In which of the following valley, Himachal Pradesh Language, Art and Culture Academy founded 600 years old manuscript that deals with the Ayurvedic System of Medicine?",
+        "type": "MCQ",
+        "options": [
+            "A) Sangla Valley",
+            "B) Kullu Valley",
+            "C) Balh Valley",
+            "D) Spiti Valley"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 12,
+        "question": "Which of the following combination is not correct?",
+        "type": "MCQ",
+        "options": [
+            "A) Fatehpur Fort: Bandla Dhar",
+            "B) Tiun Fort: Tiun Dhar",
+            "C) Devi Badoli Temple: Jhanjiar Dhar",
+            "D) Dagoga Malhot: Kot Dhar"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 13,
+        "question": "The only coin special to Chamba, five of which makes an \u2018anna\u2019 is the \u2013",
+        "type": "MCQ",
+        "options": [
+            "A) Dhela",
+            "B) Pi",
+            "C) Chakli",
+            "D) Ratti"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 14,
+        "question": "Who amongst the following was first to examine the archaeological remains in Chamba and Bharmaur?",
+        "type": "MCQ",
+        "options": [
+            "A) Colonel Reid",
+            "B) Mr. Vigne",
+            "C) General Cunningham",
+            "D) Sir Henry Davies"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 15,
+        "question": "What is the script of the earliest rock inscription found at Pathiar and Kanihara?",
+        "type": "MCQ",
+        "options": [
+            "A) Brahmi",
+            "B) Kharoshti",
+            "C) Pali",
+            "D) Sharda"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 16,
+        "question": "What is the name of an opera festival which is annually held by the Tibetan Institute of Performing Arts (TIPA) at Mcleodganj and was an annual feature in Lhasa prior to 1959?",
+        "type": "MCQ",
+        "options": [
+            "A) Losar",
+            "B) Shoton/Shotou",
+            "C) Thanka",
+            "D) Dajyur"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 17,
+        "question": "Which of the following valley is without exception the most rugged glen of Kinnaur district?",
+        "type": "MCQ",
+        "options": [
+            "A) Tidong Valley",
+            "B) BaspaValley",
+            "C) Bhabha Valley",
+            "D) Lippa Valley"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 18,
+        "question": "\u2018Jeyeshthang\u2019 and \u2018Kanishthang\u2019 are the names given to which of the following?",
+        "type": "MCQ",
+        "options": [
+            "A) Local Deities of Kinnaur district",
+            "B) Valleys of Lahaul-Spiti",
+            "C) Upper House and Lower House of village khap of Malana",
+            "D) Mountains peaks in Sangla Valley"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 19,
+        "question": "Which of the following country was relegated to the second position by Lahaul-Spiti by achieving the highest per hectare production of potato?",
+        "type": "MCQ",
+        "options": [
+            "A) Belgium",
+            "B) Spain",
+            "C) Netherlands",
+            "D) France"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 20,
+        "question": "The first mention of which of the following place came in 1817 from the diary of the Scottish officer brothers?",
+        "type": "MCQ",
+        "options": [
+            "A) Dharamshala",
+            "B) Shimla",
+            "C) Kasauli",
+            "D) Subathu"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 21,
+        "question": "Climate change vulnerability assessment is being undertaken for which of the following river basin, covering 9258 villages offour districts with more than 1200 panchayats?",
+        "type": "MCQ",
+        "options": [
+            "A) Ravi",
+            "B) Satluj",
+            "C) Beas",
+            "D) Chenab"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 22,
+        "question": "What is the name of the web-based software implemented by the Department of Transport of Himachal Pradesh forissuing a Driving License?",
+        "type": "MCQ",
+        "options": [
+            "A) Vahan",
+            "B) Sarathi",
+            "C) Sathi",
+            "D) Sahyogi"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 23,
+        "question": "Name the Superintendent of Botanical Garden who set up \u2018Delhi Tea Estate\u2019 in 1852?",
+        "type": "MCQ",
+        "options": [
+            "A) Major Straut",
+            "B) Dr. Jameson",
+            "C) Alexander Couts",
+            "D) Samuel Stokes"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 24,
+        "question": "Afterintensive research and success of the project which district of H.P. is likely to emerge as a pistachios bowl of the State?",
+        "type": "MCQ",
+        "options": [
+            "A) Lahaul-Spiti",
+            "B) Una",
+            "C) Kangra",
+            "D) Kinnaur"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 25,
+        "question": "Where is the first \u2018Emu\u2019 breeding farm of H.P. set up by the multi-level marketing company \u2018Easy Way With\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) Gandwal in Una",
+            "B) Jeori in Shimla",
+            "C) Paonta Sahib in Sirmaur",
+            "D) Jwali in Kangra"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 26,
+        "question": "Who amongst the following were the two wildlife experts who were the main force behind setting up Himachali\u2019s first \u2018Bird Ringing Station\u2019 at Salropa?",
+        "type": "MCQ",
+        "options": [
+            "A) Col. Napier and Donald Macled",
+            "B) Henry Hardings and Hugh Gough",
+            "C) Francis Bunar and T. H. Walker",
+            "D) William Finch and Thomas Coryat"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 27,
+        "question": "Which of the following has been included in the 8 wonders of the Shanghai Cooperation Organisation (SCO)?",
+        "type": "MCQ",
+        "options": [
+            "A) Bhimbetka Caves",
+            "B) Golden Temple",
+            "C) Statue of Unity",
+            "D) Amber Fort"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 28,
+        "question": "To which country India gifted a \u2018Made in India\u2019 patrol vessel named \u2018KAAMIYAAB\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) Sri Lanka",
+            "B) Maldives",
+            "C) South Africa",
+            "D) Bangladesh"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 29,
+        "question": "Which Indian Air Force aircraft was decommissioned on December 27, 2019?",
+        "type": "MCQ",
+        "options": [
+            "A) MiG-27",
+            "B) MiG-29",
+            "C) Sukhoi-30",
+            "D) MiG-21"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 30,
+        "question": "Which Tribal refugee Community will now be given permission to settle in Tripura following the signing of a historic agreement on January 16, 2020?",
+        "type": "MCQ",
+        "options": [
+            "A) Jayantia",
+            "B) Bru-Reang",
+            "C) Rengma-Bodo",
+            "D) Deori-Garo"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 31,
+        "question": "What is the ranking of Indian Passport in Henley Passport Index 2020?",
+        "type": "MCQ",
+        "options": [
+            "A) 40",
+            "B) 52",
+            "C) 66",
+            "D) 84"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 32,
+        "question": "Where is the headquarters of the Global Tiger Forum (GTF)?",
+        "type": "MCQ",
+        "options": [
+            "A) Kathmandu",
+            "B) New Delhi",
+            "C) Dhaka",
+            "D) Beijing"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 33,
+        "question": "What is \u2018BOID QIT\u2019, which was in the news recently?",
+        "type": "MCQ",
+        "options": [
+            "A) Biodiversity conservation techniques",
+            "B) Digital monitoring of the borders",
+            "C) DNA editing Tool",
+            "D) F-16 Missile equipment"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 34,
+        "question": "What is the status of House Sparrow in India as per the State of India\u2019s Birds 2020 Report?",
+        "type": "MCQ",
+        "options": [
+            "A) Stable",
+            "B) Uncertain",
+            "C) Strong Decline",
+            "D) Data not available"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 35,
+        "question": "India signed an agreement with which country to establish Addu Tourism?",
+        "type": "MCQ",
+        "options": [
+            "A) Maldives",
+            "B) Bhutan",
+            "C) Afghanistan",
+            "D) Nepal"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 36,
+        "question": "What was India\u2019s rank among 156 countries in the Global Happiness Index 2019?",
+        "type": "MCQ",
+        "options": [
+            "A) 140",
+            "B) 124",
+            "C) 132",
+            "D) 137"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 37,
+        "question": "Which State Government has launched the \u2018One family, one job\u2019 scheme?",
+        "type": "MCQ",
+        "options": [
+            "A) Uttarakhand",
+            "B) Sikkim",
+            "C) Meghalaya",
+            "D) Madhya Pradesh"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 38,
+        "question": "Which cities are called \u2018Non-attainment cities\u2019 in India?",
+        "type": "MCQ",
+        "options": [
+            "A) The cities where the solid waste management system has not been implemented",
+            "B) The cities that are not following water quality standards",
+            "C) The cities which are not complying noise pollution norms",
+            "D) Consistently showing for Air quality than the National Ambient Air Quality Standards"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 39,
+        "question": "Which country topped the list of global diplomacy index 2019 released by Sidney based Lowy Institute?",
+        "type": "MCQ",
+        "options": [
+            "A) USA",
+            "B) Russia",
+            "C) France",
+            "D) China"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 40,
+        "question": "Which country has criminalized offences related to match-fixing?",
+        "type": "MCQ",
+        "options": [
+            "A) Pakistan",
+            "B) South Africa",
+            "C) Bangladesh",
+            "D) Srilanka"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 41,
+        "question": "\u2018Bada Dashain\u2019 is the festival celebrated in which country?",
+        "type": "MCQ",
+        "options": [
+            "A) India",
+            "B) Nepal",
+            "C) Myanmar",
+            "D) Sri Lanka"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 42,
+        "question": "What is the campaign theme of \u2018International Women\u2019s Day 2020\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) Planet 50-50 by 2030",
+            "B) Equality for Women",
+            "C) Think Equal Act Equal",
+            "D) Each for Equal"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 43,
+        "question": "The term \u2018Operation Car Wash\u2019 that was making news recently is related to which country?",
+        "type": "MCQ",
+        "options": [
+            "A) Brazil",
+            "B) South Africa",
+            "C) Russia",
+            "D) Argentina"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 44,
+        "question": "Which country will host the UN Climate Summit \u2018COP 26\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) USA",
+            "B) UK",
+            "C) France",
+            "D) India"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 45,
+        "question": "In the latest report 2019, World Bank appreciated India\u2019s effort and policies to:",
+        "type": "MCQ",
+        "options": [
+            "A) Reduce poverty by half since 1991",
+            "B) Provide clean and wholesome water to all",
+            "C) Immunize all the children in the age of 0 to 5 years",
+            "D) Achieve gender parity in primary education"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 46,
+        "question": "The Nobel Prize 2019 for economics has been awarded to Abhijit Banerjee, Esther Duflo and Michael Kemerfor:",
+        "type": "MCQ",
+        "options": [
+            "A) To discover the most effective ways to tackle poverty in the developing world",
+            "B) To discover consumption pattern among rural Mas",
+            "C) To discover decision making under asymmetric information",
+            "D) To discover the role of non-economic factors in trade distortions"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 47,
+        "question": "Why is there a great concern about the \u2018microbeads\u2019 that are released into the environment?",
+        "type": "MCQ",
+        "options": [
+            "A) They are considered harmful to the Marine ecosystem",
+            "B) They are considered to cause skin cancer in children",
+            "C) They are small enough to be absorbed by crop plants in irrigated fields",
+            "D) They are often found to be used as food adulterants"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 48,
+        "question": "Among the following, which one is the largest exporter of rice in the world in the last five years?",
+        "type": "MCQ",
+        "options": [
+            "A) China",
+            "B) India",
+            "C) Myanmar",
+            "D) Vietnam"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 49,
+        "question": "Which country\u2019s capital name is renamed as \u2018Nursultan\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) Kazakhstan",
+            "B) Pakistan",
+            "C) Azerbaijan",
+            "D) Kyrgyzstan"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 50,
+        "question": "Which of the following are called \u2018Bretton woods Twins\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) IMF and International Bank for Reconstruction and Development (IBRD)",
+            "B) IMF and World Trade Organisation",
+            "C) IBRD and World Trade Organisation",
+            "D) International Finance Corporation and World Trade Organisation"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 51,
+        "question": "The 2024 Summer Olympic Games will be held in:",
+        "type": "MCQ",
+        "options": [
+            "A) Tokyo",
+            "B) Paris",
+            "C) Los Angeles",
+            "D) Rio de Janeiro"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 52,
+        "question": "Which country topped the list of the 2019 World Press Freedom Index?",
+        "type": "MCQ",
+        "options": [
+            "A) Norway",
+            "B) Finland",
+            "C) Sweden",
+            "D) Netherlands"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 53,
+        "question": "Which of the following has been included in the 8 wonders of the Shanghai Cooperation Organisation (SCO)?",
+        "type": "MCQ",
+        "options": [
+            "A) Bhimbetka Caves",
+            "B) Golden Temple",
+            "C) Statue of Unity",
+            "D) Amber Fort"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 54,
+        "question": "To which country India gifted a \u2018Made in India\u2019 patrol vessel named \u2018KAAMIYAAB\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) Sri Lanka",
+            "B) Maldives",
+            "C) South Africa",
+            "D) Bangladesh"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 55,
+        "question": "Which Indian Air Force aircraft was decommissioned on December 27, 2019?",
+        "type": "MCQ",
+        "options": [
+            "A) MiG-27",
+            "B) MiG-29",
+            "C) Sukhoi-30",
+            "D) MiG-21"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 56,
+        "question": "Which Tribal refugee Community will now be given permission to settle in Tripura following the signing of a historic agreement on January 16, 2020?",
+        "type": "MCQ",
+        "options": [
+            "A) Jayantia",
+            "B) Bru-Reang",
+            "C) Rengma-Bodo",
+            "D) Deori-Garo"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 57,
+        "question": "What is the ranking of Indian Passport in Henley Passport Index 2020?",
+        "type": "MCQ",
+        "options": [
+            "A) 40",
+            "B) 52",
+            "C) 66",
+            "D) 84"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 58,
+        "question": "Where is the headquarters of the Global Tiger Forum (GTF)?",
+        "type": "MCQ",
+        "options": [
+            "A) Kathmandu",
+            "B) New Delhi",
+            "C) Dhaka",
+            "D) Beijing"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 59,
+        "question": "What is \u2018BOID QIT\u2019, which was in the news recently?",
+        "type": "MCQ",
+        "options": [
+            "A) Biodiversity conservation techniques",
+            "B) Digital monitoring of the borders",
+            "C) DNA editing Tool",
+            "D) F-16 Missile equipment"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 60,
+        "question": "What is the status of House Sparrow in India as per the State of India\u2019s Birds 2020 Report?",
+        "type": "MCQ",
+        "options": [
+            "A) Stable",
+            "B) Uncertain",
+            "C) Strong Decline",
+            "D) Data not available"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 61,
+        "question": "India signed an agreement with which country to establish Addu Tourism?",
+        "type": "MCQ",
+        "options": [
+            "A) Maldives",
+            "B) Bhutan",
+            "C) Afghanistan",
+            "D) Nepal"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 62,
+        "question": "Which State Government has launched the \u2018One family, one job\u2019 scheme?",
+        "type": "MCQ",
+        "options": [
+            "A) Uttarakhand",
+            "B) Sikkim",
+            "C) Meghalaya",
+            "D) Madhya Pradesh"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 63,
+        "question": "Which cities are called \u2018Non-attainment cities\u2019 in India?",
+        "type": "MCQ",
+        "options": [
+            "A) The cities where the solid waste management system has not been implemented",
+            "B) The cities that are not following water quality standards",
+            "C) The cities which are not complying noise pollution norms",
+            "D) Consistently showing for Air quality than the National Ambient Air Quality Standards"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 64,
+        "question": "Which country topped the list of global diplomacy index 2019 released by Sidney based Lowy Institute?",
+        "type": "MCQ",
+        "options": [
+            "A) USA",
+            "B) Russia",
+            "C) France",
+            "D) China"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 65,
+        "question": "Which country has criminalized offences related to match-fixing?",
+        "type": "MCQ",
+        "options": [
+            "A) Pakistan",
+            "B) South Africa",
+            "C) Bangladesh",
+            "D) Srilanka"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 66,
+        "question": "\u2018Bada Dashain\u2019 is the festival celebrated in which country?",
+        "type": "MCQ",
+        "options": [
+            "A) India",
+            "B) Nepal",
+            "C) Myanmar",
+            "D) Sri Lanka"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 67,
+        "question": "What is the campaign theme of \u2018International Women\u2019s Day 2020\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) Planet 50-50 by 2030",
+            "B) Equality for Women",
+            "C) Think Equal Act Equal",
+            "D) Each for Equal"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 68,
+        "question": "The term \u2018Operation Car Wash\u2019 that was making news recently is related to which country?",
+        "type": "MCQ",
+        "options": [
+            "A) Brazil",
+            "B) South Africa",
+            "C) Russia",
+            "D) Argentina"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 69,
+        "question": "Which country will host the UN Climate Summit \u2018COP 26\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) USA",
+            "B) UK",
+            "C) France",
+            "D) India"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 70,
+        "question": "In the latest report 2019, World Bank appreciated India\u2019s effort and policies to:",
+        "type": "MCQ",
+        "options": [
+            "A) Reduce poverty by half since 1991",
+            "B) Provide clean and wholesome water to all",
+            "C) Immunize all the children in the age of 0 to 5 years",
+            "D) Achieve gender parity in primary education"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 71,
+        "question": "The Nobel Prize 2019 for economics has been awarded to Abhijit Banerjee, Esther Duflo and Michael Kemerfor:",
+        "type": "MCQ",
+        "options": [
+            "A) To discover the most effective ways to tackle poverty in the developing world",
+            "B) To discover consumption pattern among rural Mas",
+            "C) To discover decision making under asymmetric information",
+            "D) To discover the role of non-economic factors in trade distortions"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 72,
+        "question": "Why is there a great concern about the \u2018microbeads\u2019 that are released into the environment?",
+        "type": "MCQ",
+        "options": [
+            "A) They are considered harmful to the Marine ecosystem",
+            "B) They are considered to cause skin cancer in children",
+            "C) They are small enough to be absorbed by crop plants in irrigated fields",
+            "D) They are often found to be used as food adulterants"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 73,
+        "question": "Among the following, which one is the largest exporter of rice in the world in the last five years?",
+        "type": "MCQ",
+        "options": [
+            "A) China",
+            "B) India",
+            "C) Myanmar",
+            "D) Vietnam"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 74,
+        "question": "Which country\u2019s capital name is renamed as \u2018Nursultan\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) Kazakhstan",
+            "B) Pakistan",
+            "C) Azerbaijan",
+            "D) Kyrgyzstan"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 75,
+        "question": "Which of the following are called \u2018Bretton woods Twins\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) IMF and International Bank for Reconstruction and Development (IBRD)",
+            "B) IMF and World Trade Organisation",
+            "C) IBRD and World Trade Organisation",
+            "D) International Finance Corporation and World Trade Organisation"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 76,
+        "question": "Which state got a separate high court on 1 January 2019, which is the 25th high court of India?",
+        "type": "MCQ",
+        "options": [
+            "A) Telangana",
+            "B) Mizoram",
+            "C) Sikkim",
+            "D) Andhra Pradesh"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 77,
+        "question": "Which of the following states do not have a bicameral legislature?",
+        "type": "MCQ",
+        "options": [
+            "A) Jammu & Kashmir",
+            "B) Telangana",
+            "C) Karnataka",
+            "D) West Bengal"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 78,
+        "question": "Which state first adopted the Panchayati Raj in India in 1959?",
+        "type": "MCQ",
+        "options": [
+            "A) Rajasthan",
+            "B) Karnataka",
+            "C) Gujarat",
+            "D) Punjab"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 79,
+        "question": "54. Which of the following is/are true regarding the Panchayati Raj system?",
+        "type": "statements",
+        "statements": [
+            "I. The act won't apply to the Darjeeling district of West Bengal.",
+            "II. Allotment of seats in constituencies for Panchayat elections cannot be questioned in a court of law."
+        ],
+        "options": [
+            "A) Only I",
+            "B) Only II",
+            "C) Both I and II",
+            "D) None of these"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 80,
+        "question": "55. Which of the following are recommendations of the L.M. Singhvi Committee?",
+        "type": "statements",
+        "statements": [
+            "I. Nyaya Panchayat should be created for a cluster of villages.",
+            "II. Constitutional recognition for Panchayati Raj institutions.",
+            "III. More financial resources for village panchayats."
+        ],
+        "options": [
+            "A) II & III",
+            "B) I & III",
+            "C) I & II",
+            "D) All of these"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 81,
+        "question": "PAHAL Scheme is related to?",
+        "type": "MCQ",
+        "options": [
+            "A) Agricultural loan",
+            "B) Direct transfer of LPG subsidy",
+            "C) Women education",
+            "D) Child Education"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 82,
+        "question": "Under which Schedule of the Constitution of India can the transfer of tribal land to private parties for mining be declared null and void?",
+        "type": "MCQ",
+        "options": [
+            "A) Third schedule",
+            "B) Fifth schedule",
+            "C) Ninth schedule",
+            "D) Twelfth schedule"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 83,
+        "question": "Rajya Sabha can delay the finance bill sent for the consideration by the Lok Sabha for a maximum period of:",
+        "type": "MCQ",
+        "options": [
+            "A) 14 days",
+            "B) 15 days",
+            "C) 1 month",
+            "D) 6 months"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 84,
+        "question": "The Constitution 86th amendment Act, 2002 deals with",
+        "type": "MCQ",
+        "options": [
+            "A) Right to Education a Fundamental Right for children in the range of 6 to 14 years",
+            "B) Right to employment a fundamental right",
+            "C) Right to employment a fundamental right for rural people",
+            "D) Right to education a Fundamental Right for children in range of 5 \u2013 13 years."
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 85,
+        "question": "National Human Rights Commission is a",
+        "type": "MCQ",
+        "options": [
+            "A) Constitutional Body",
+            "B) Extra-Constitutional body",
+            "C) Statutory body",
+            "D) Public-Private body"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 86,
+        "question": "Which Union Ministry has launched a new portal Santusht for effective delivery of public service?",
+        "type": "MCQ",
+        "options": [
+            "A) Ministry of Education",
+            "B) Ministry of Environment",
+            "C) Ministry of Labour and Employment",
+            "D) Ministry of Finance"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 87,
+        "question": "Which state topped the good governance index (GGI), launched by the Central Government on 25th December 2019?",
+        "type": "MCQ",
+        "options": [
+            "A) Tamil Nadu",
+            "B) Maharashtra",
+            "C) Kerala",
+            "D) Gujarat"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 88,
+        "question": "Which one of the following was not an Arya Samajist?",
+        "type": "MCQ",
+        "options": [
+            "A) Lala Hansraj",
+            "B) Baba Ramchandra",
+            "C) Bhai Parmananda",
+            "D) Lala Lajpat Rai"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 89,
+        "question": "Which of the following organizations was the last to be established?",
+        "type": "MCQ",
+        "options": [
+            "A) Rashtriya Swayamsevak Sangh",
+            "B) Hindu Mahasabha",
+            "C) Satya Sodhak Samaj",
+            "D) Hindustan Republican Association"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 90,
+        "question": "When was the 'Vernacular Press Act' passed?",
+        "type": "MCQ",
+        "options": [
+            "A) 1878",
+            "B) 1881",
+            "C) 1884",
+            "D) 1887"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 91,
+        "question": "Which one of the following regions did the 'Pabna' Revolt (1873-76) take place?",
+        "type": "MCQ",
+        "options": [
+            "A) Punjab",
+            "B) Gujarat",
+            "C) Bengal",
+            "D) Malabar"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 92,
+        "question": "In which year was the first session of the 'Chamber of Princes' held?",
+        "type": "MCQ",
+        "options": [
+            "A) 1858",
+            "B) 1905",
+            "C) 1921",
+            "D) 1935"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 93,
+        "question": "Who presided over the commission appointed on Famine Policy in 1880?",
+        "type": "MCQ",
+        "options": [
+            "A) James Lyall",
+            "B) Richard Strachey",
+            "C) Anthony Mac Donnel",
+            "D) John Lawrence"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 94,
+        "question": "Which one of the following attended the 'Congress of Oppressed Nationalists' at Brussels in 1927?",
+        "type": "MCQ",
+        "options": [
+            "A) Mahatma Gandhi",
+            "B) Maulana Abdul Kalam Azad",
+            "C) Dr B.R. Ambedkar",
+            "D) Jawaharlal Nehru"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 95,
+        "question": "What was 'Ulgulan'?",
+        "type": "MCQ",
+        "options": [
+            "A) A Munda Revolt",
+            "B) A Khasi Revolt",
+            "C) A Bhil Revolt",
+            "D) A Koya Revolt"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 96,
+        "question": "Which one of the following organizations was the last to be established?",
+        "type": "MCQ",
+        "options": [
+            "A) East India Association",
+            "B) Madras Mahajan Sabha",
+            "C) Indian Association",
+            "D) Poona Sarvajanik Sabha"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 97,
+        "question": "When did the British Prime Minister declare in the British Parliament that the transfer of power to responsible Indian hands will be done by June 1948?",
+        "type": "MCQ",
+        "options": [
+            "A) January 26, 1947",
+            "B) February 20, 1947",
+            "C) March 20, 1947",
+            "D) January 20, 1947"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 98,
+        "question": "Which of the following works was written by 'Sachindranath Sanyal' to attract the youth to Revolutionary Nationalism?",
+        "type": "MCQ",
+        "options": [
+            "A) Bhavani Mandir",
+            "B) Manifesto of Navjawan Sabha",
+            "C) Philosophy of the Bomb",
+            "D) Bandi Jivan"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 99,
+        "question": "Which one of the following is not a soil type in India?",
+        "type": "MCQ",
+        "options": [
+            "A) Arid",
+            "B) Peat",
+            "C) Laterite",
+            "D) Choes"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 100,
+        "question": "Jalandhar Doab is closely related to which of the following?",
+        "type": "MCQ",
+        "options": [
+            "A) Area between Ghaggar and Sutlej",
+            "B) Area between Beas and Ravi",
+            "C) Area between Chenab and Ravi",
+            "D) Area between Beas and Sutlej"
+        ],
+        "subject": "Geography"
+    }
+]

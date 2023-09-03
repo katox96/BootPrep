@@ -1,0 +1,1431 @@
+[
+    {
+        "questionId": 1,
+        "question": "Which of the following concentrations of Ozone in ambient air is considered good?",
+        "type": "MCQ",
+        "options": [
+            "A) Upto 0.06 ppm",
+            "B) Upto 0.18 ppm",
+            "C) Upto 0.15 ppm",
+            "D) Upto 0.20 ppm"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 2,
+        "question": "The intensity of a normal conversation in decibel is between:",
+        "type": "MCQ",
+        "options": [
+            "A) 30-35",
+            "B) 60-80",
+            "C) 35-60",
+            "D) 70-80"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 3,
+        "question": "The impacts caused by the construction of dams and reservoirs include all, except",
+        "type": "MCQ",
+        "options": [
+            "A) Loss of flora and fauna",
+            "B) Reservoir-induced seismicity",
+            "C) Waterborne diseases",
+            "D) Desertification"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 4,
+        "question": "Which of the following processes does not occur in the water cycle?",
+        "type": "MCQ",
+        "options": [
+            "A) Condensation",
+            "B) Infiltration",
+            "C) Evaporation",
+            "D) Composition"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 5,
+        "question": "Match List-1 and List-2 and choose the correct answer from the codes given below:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "a. Appiko Movement",
+                "b. Narmada Bachao Andolan",
+                "c. People for Animals",
+                "d. Resurrection of Kali Bein rivulet"
+            ],
+            "heading": "List-1 (Events)"
+        },
+        "listII": {
+            "items": [
+                "(i) Maneka Gandhi",
+                "(ii) Appu and Mamtha",
+                "(iii) Balbir Singh Seechewal",
+                "(iv) Medha Patkar"
+            ],
+            "heading": "List-2 (Names)"
+        },
+        "options": [
+            "A) (a-i) (b-ii) (c-iii) (d-iv)",
+            "B) (a-i) (b-ii) (c-iv) (d-iii)",
+            "C) (a-iv) (b-iii) (c-ii) (d-i)",
+            "D) (a-ii) (b-iv) (c-i) (d-iii)"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 6,
+        "question": "Match the items given in Column-1 and Column-2 and choose the correct answer from the codes given below:",
+        "type": "columns",
+        "options": [
+            "A) i ii iii iv",
+            "B) ii iii i iv",
+            "C) iii iv i ii",
+            "D) iv iii ii i"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 7,
+        "question": "Which of the following is not derived from wild cabbage?",
+        "type": "MCQ",
+        "options": [
+            "A) Broccoli",
+            "B) Cauliflower",
+            "C) Kohlrabi",
+            "D) Spinach"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 8,
+        "question": "Which of the following scientists is associated with the theory of natural selection during the evolution of life?",
+        "type": "MCQ",
+        "options": [
+            "A) Mendel",
+            "B) Darwin",
+            "C) Haldane",
+            "D) Miller"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 9,
+        "question": "In which of the following conditions bio-gas is produced?",
+        "type": "MCQ",
+        "options": [
+            "A) Presence of oxygen",
+            "B) Action of aerobic microorganisms",
+            "C) Action of anaerobic microorganisms",
+            "D) Presence of fertilizers"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 10,
+        "question": "Why do ventricles have thicker muscular walls than atria?",
+        "type": "MCQ",
+        "options": [
+            "A) Ventricles receive oxygen-rich blood than atriA)",
+            "B) Ventricles have to pump blood into various organs",
+            "C) Atria have to pump blood into various organs",
+            "D) Ventricles first receives blood from the various organs"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 11,
+        "question": "Which of the following is not a reflex action?",
+        "type": "MCQ",
+        "options": [
+            "A) Breathing",
+            "B) Heart-pumping",
+            "C) Salivation",
+            "D) Movement of hand"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 12,
+        "question": "Which part of the brain maintains posture and equilibrium of the body?",
+        "type": "MCQ",
+        "options": [
+            "A) Fore-brain",
+            "B) Mid-brain",
+            "C) Hind-brain",
+            "D) Spinal cord"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 13,
+        "question": "What is the color of Litmus solution when it is neither acidic nor basic?",
+        "type": "MCQ",
+        "options": [
+            "A) Red",
+            "B) Yellow",
+            "C) Blue",
+            "D) Purple"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 14,
+        "question": "Which of the following statements is not correct?",
+        "type": "MCQ",
+        "options": [
+            "A) All bases are soluble in water",
+            "B) All bases do not dissolve in water",
+            "C) An alkali is a base that dissolves in water",
+            "D) Bases generate hydroxide (OH-) ions in water"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 15,
+        "question": "What does \u2018p\u2019 represent in pH?",
+        "type": "MCQ",
+        "options": [
+            "A) Potential",
+            "B) Property",
+            "C) Power",
+            "D) Potenz"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 16,
+        "question": "Which of the following does not represent a refractive defect of vision?",
+        "type": "MCQ",
+        "options": [
+            "A) Myopia",
+            "B) Hypermetropia",
+            "C) Presbyopia",
+            "D) Cataract"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 17,
+        "question": "During dispersion of white light by the glass prism, which of the following light of the spectrum bends the most?",
+        "type": "MCQ",
+        "options": [
+            "A) Blue",
+            "B) Violet",
+            "C) Indigo",
+            "D) Red"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 18,
+        "question": "Which of the following phenomena is responsible for twinkling of stars?",
+        "type": "MCQ",
+        "options": [
+            "A) Reflection of starlight",
+            "B) Refraction of starlight",
+            "C) Dispersion of starlight",
+            "D) Tyndall effect"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 19,
+        "question": "In which year Swiss envoy W.P. Blazer put up a sign board, which formally and officially, declared Khajjair as \u2018Mini Switzerland\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) 7 July, 1992",
+            "B) 1 Oct, 1975",
+            "C) 10 March, 1966",
+            "D) 8 June, 1990"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 20,
+        "question": "Match List-1 and List-2 and select the correct answer from the codes given below:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "a. Kiara-dun Valley",
+                "b. Balh Valley",
+                "c. Kangra Valley",
+                "d. Bara Bhangal Valley"
+            ],
+            "heading": "List-1"
+        },
+        "listII": {
+            "items": [
+                "(i) Dhauladhar and Shivalik Range",
+                "(ii) Markanda and Dharti Ranges",
+                "(iii) Shimla Ridge and Shivalik Hills",
+                "(iv) Dhauladhar and Pir Panjal Ranges"
+            ],
+            "heading": "List-2"
+        },
+        "options": [
+            "A) (i-b) (ii-d) (iii-a) (iv-c)",
+            "B) (i-b) (ii-c) (iii-a) (iv-d)",
+            "C) (i-b) (ii-a) (iii-c) (iv-d)",
+            "D) (i-d) (ii-c) (iii-b) (iv-a)"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 21,
+        "question": "Which of the following Himalayan Zone has the highest 36+ percentage of the total geographical area of H.P.?",
+        "type": "MCQ",
+        "options": [
+            "A) Trans Himalayan Zone",
+            "B) Sub-Himalayan Zone",
+            "C) Lower Himalayan Zone",
+            "D) Higher Himalayan Zone"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 22,
+        "question": "\u2018Chola and Dora\u2019 are the popular traditional dress of which of the following tribes?",
+        "type": "MCQ",
+        "options": [
+            "A) Swangla",
+            "B) Kinnaura",
+            "C) Gaddi",
+            "D) Khampa"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 23,
+        "question": "Match List-I and List-II and select the correct answer from the codes given below:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "a. Swangla",
+                "b. Gaddi",
+                "c. Khampa",
+                "d. Pangwal"
+            ],
+            "heading": "List-I"
+        },
+        "listII": {
+            "items": [
+                "(i) Pith-Chuk or chori",
+                "(ii) Phaktum or Phanktum",
+                "(iii) Jhanjrara",
+                "(iv) Rusa-te-byah"
+            ],
+            "heading": "List-II"
+        },
+        "options": [
+            "A) (i-d) (ii-c) (iii-b) (iv-a)",
+            "B) (i-d) (ii-b) (iii-c) (iv-a)",
+            "C) (i-d) (ii-a) (iii-b) (iv-c)",
+            "D) (i-a) (ii-b) (iii-c) (iv-d)"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 24,
+        "question": "In \u201cVayu Purana\u2019, the following tribe is said to be the inhabitants of \u2018Mahand Mountains\u2019?",
+        "type": "MCQ",
+        "options": [
+            "A) Pangwal",
+            "B) Lahaulas",
+            "C) Gaddi",
+            "D) Kinnauras"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 25,
+        "question": "Out of total 55673 sq. km. geographical area of H.P., what is the area, which falls in scheduled area?",
+        "type": "MCQ",
+        "options": [
+            "A) 23655 sq. km",
+            "B) 12970 sq. km",
+            "C) 17755 sq. km",
+            "D) 32555 sq. km"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 26,
+        "question": "Which is the earliest specimen of \u2018Nagara design\u2019 found in H.P.?",
+        "type": "MCQ",
+        "options": [
+            "A) Bajaura Temple",
+            "B) Baijnath Temple",
+            "C) Jwala Mukhi Temple",
+            "D) Masrur Temple"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 27,
+        "question": "The \u2018Basholi School of Painting\u2019 came into prominence from the time of:",
+        "type": "MCQ",
+        "options": [
+            "A) Raja Kirpal Pal",
+            "B) Raja Amrit Pal",
+            "C) Raja Udai Singh",
+            "D) Raja Goverdhan Chand"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 28,
+        "question": "Which of the following national parks/sanctuaries of H.P. occupies 1171 sq. km. of area?",
+        "type": "MCQ",
+        "options": [
+            "A) Pin Valley National Park",
+            "B) The Great Himalayan National Park",
+            "C) Renuka Sanctuary",
+            "D) Manali Sanctuary"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 29,
+        "question": "The govt. of H.P. has changed the name of \u2018Kanya Sashaktikaran and Kalyan Board Himachal Pradesh\u2019 to that of :",
+        "type": "MCQ",
+        "options": [
+            "A) Mahila Kalian Board",
+            "B) Mahila Sashaktikaran Board, H.P.",
+            "C) Saksham Gudia board, H.P.",
+            "D) Saksham Kanya board, H.P."
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 30,
+        "question": "The stone inscriptions found in the Chamba region have mostly been written in which script?",
+        "type": "MCQ",
+        "options": [
+            "A) Bhotia or Tibetan",
+            "B) Sharda and Tankri",
+            "C) Kharoshti and Brahmi",
+            "D) Nagri and Kutil"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 31,
+        "question": "Who was the signatory for East India Company in the Treaty of Sugauli?",
+        "type": "MCQ",
+        "options": [
+            "A) Major McLeod",
+            "B) Col. Thompson",
+            "C) Col. Paris Bradshaw",
+            "D) Major general David Ochterlony"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 32,
+        "question": "\u2018Lanji\u2019, \u2018Saro\u2019 and \u2018Rajnagar\u2019 in Chamba district are the centers for the development of the following:",
+        "type": "MCQ",
+        "options": [
+            "A) Apple",
+            "B) Kinnoo",
+            "C) Olive",
+            "D) Apricot"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 33,
+        "question": "What amount of hydro-power has been harnessed out of 27436 MW identified potential in H.P.?",
+        "type": "MCQ",
+        "options": [
+            "A) 9230 MW",
+            "B) 8941 MW",
+            "C) 10519 MW",
+            "D) 12415 MW"
+        ],
+        "subject": "Himachal GK"
+    },
+    {
+        "questionId": 34,
+        "question": "Under which scheme all women in the age group of 10 to 75 years, living below the poverty line are covered, in case of their death or disability?",
+        "type": "MCQ",
+        "options": [
+            "A) Matri Shakti Bima Yojna",
+            "B) Janani Suraksha Yojna",
+            "C) Beti Bachao Yojna",
+            "D) P.M. Matri Vandana Yojana"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 35,
+        "question": "Which of the following has been declared as public service by state govt. under H.P. Public Service Guarantee Act. 2011?",
+        "type": "MCQ",
+        "options": [
+            "A) Kisan Credit Card",
+            "B) Organic Farming",
+            "C) Soil Testing",
+            "D) Seed Certification Programme"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 36,
+        "question": "Arrange the following with its correct combination and accordingly give the answer as per codes given below:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "i. Gaiety Theatre",
+                "ii. Kalka-Shimla Railway",
+                "iii. Satyakam",
+                "iv. Old Shimla Bank"
+            ],
+            "heading": "List-1"
+        },
+        "listII": {
+            "items": [
+                "A) Samual Evans Stokes",
+                "B) Mortimer Durand",
+                "C) M. S. Harrington",
+                "D) Henry Irwin",
+                "E) Messors Barrett & C0."
+            ],
+            "heading": "List-2"
+        },
+        "options": [
+            "A) (i-A) (ii-C) (iii-D) (iv-E)",
+            "B) (i-B) (ii-E) (iii-C) (iv-D)",
+            "C) (i-D) (ii-C) (iii-A) (iv-E)",
+            "D) (i-D) (ii-C) (iii-E) (iv-B)"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 37,
+        "question": "\u2018Black Nude\u2019. Sitting Nude\u2019 and \u2018Young Girls\u2019 are some of the famous works of which artist?",
+        "type": "MCQ",
+        "options": [
+            "A) Amrita Pritam",
+            "B) Amrita Shergil",
+            "C) Norah Richards",
+            "D) Sobha Singh"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 38,
+        "question": "The important decision to invade Afghanistan in 1938 and after four years the same decision was criticized at Shimla by the British was taken in the :",
+        "type": "MCQ",
+        "options": [
+            "A) Kennedy House",
+            "B) Auckland House",
+            "C) U.S. Club",
+            "D) The Ravenswood"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 39,
+        "question": "Who has been awarded 2018 Einstein Prize?",
+        "type": "MCQ",
+        "options": [
+            "A) Abhay Ashtekar",
+            "B) Peter Bergmanan",
+            "C) John Wheelar",
+            "D) William Nordhaus"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 40,
+        "question": "\u2018eDrishti\u2019 software is launched to facilitate:",
+        "type": "MCQ",
+        "options": [
+            "A) Prime Minister to monitor implementation of policies",
+            "B) To help railway minister to keep track of punctuality of trains",
+            "C) To help the Home Minister to watch law and order problems",
+            "D) To help soldiers on border for night vision"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 41,
+        "question": "Which of the following won the Fields Medal in Mathematics?",
+        "type": "MCQ",
+        "options": [
+            "A) Akshay Venkatesh",
+            "B) Caucher Birkar",
+            "C) Peter Scholze",
+            "D) All of these"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 42,
+        "question": "In 2018, which of the following has been awarded Nobel Prize in Chemistry?",
+        "type": "MCQ",
+        "options": [
+            "A) George Smith",
+            "B) Frances Arnold",
+            "C) Greg Winter",
+            "D) All of these"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 43,
+        "question": "Who is appointed as Chairman, Competition Commission of India?",
+        "type": "MCQ",
+        "options": [
+            "A) Arvind Saxena",
+            "B) Ashok Kumar Gupta",
+            "C) S.S. Deswal",
+            "D) Sanjay Mishra"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 44,
+        "question": "Which state in India was given FAO\u2019s Future Policy Award, 2018 for its 100% organic state?",
+        "type": "MCQ",
+        "options": [
+            "A) Goa",
+            "B) Assam",
+            "C) Sikkim",
+            "D) Tripura"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 45,
+        "question": "What is QUAD?",
+        "type": "MCQ",
+        "options": [
+            "A) It is an informal mechanism between India, USA, Australia and Japan for the security in Pacific Region.",
+            "B) It is formal organization of India, USA, Japan and Australia for Global Security.",
+            "C) It is quadrilateral security dialogue between India, USA, Vietnam and Japan.",
+            "D) None of these"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 46,
+        "question": "What is Blue economy?",
+        "type": "MCQ",
+        "options": [
+            "A) It is the high growth rate economy",
+            "B) It is sustainable use of ocean resources for economic growth",
+            "C) It is low growth rate economy",
+            "D) It is economy not sustainable for longer period"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 47,
+        "question": "ASI is undertaking renovation of which three temple groups in Vietnam?",
+        "type": "MCQ",
+        "options": [
+            "A) Angkor Wat",
+            "B) My Son Temple",
+            "C) Ananda Temple",
+            "D) To Prohm Temple"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 48,
+        "question": "Where is the Nongkrem dance festival being celebrated?",
+        "type": "MCQ",
+        "options": [
+            "A) Mizoram",
+            "B) Tripura",
+            "C) Meghalaya",
+            "D) Arunachal Pradesh"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 49,
+        "question": "Who has been awarded 2018 Indira Gandhi Prize for Peace, Disarmament and Development?",
+        "type": "MCQ",
+        "options": [
+            "A) Manmohan Singh",
+            "B) UN High Commission for Refugees (UNHCR)",
+            "C) Indian Space Research Organisation",
+            "D) Centre for Science and Environment (CSE)"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 50,
+        "question": "What is the theme of International Energy Agency publication \u2013 World Energy Outlook, 2018?",
+        "type": "MCQ",
+        "options": [
+            "A) Nuclear Energy",
+            "B) Solar energy",
+            "C) Electricity",
+            "D) Hydropower"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 51,
+        "question": "What is the name of first microprocessor developed by IIT, Madras?",
+        "type": "MCQ",
+        "options": [
+            "A) Shakti",
+            "B) Speed",
+            "C) Atal",
+            "D) Bharat"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 52,
+        "question": "Recently, the USA announced its withdrawal from the INF treaty with RussiA) When was this treaty signed?",
+        "type": "MCQ",
+        "options": [
+            "A) 1977",
+            "B) 1987",
+            "C) 1981",
+            "D) 1975"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 53,
+        "question": "What do you mean by Mariculture?",
+        "type": "MCQ",
+        "options": [
+            "A) It is a specialized branch of Aquaculture",
+            "B) It involves the cultivation of massive plants and animals",
+            "C) It is related to water bodies having tidal influences",
+            "D) All of these"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 54,
+        "question": "Which projects were selected by the World Economic Forum to be launched as the Centre for Fourth Industrial Revolution in India?",
+        "type": "MCQ",
+        "options": [
+            "A) Drones",
+            "B) Blockchain",
+            "C) Artificial Intelligence",
+            "D) All of these"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 55,
+        "question": "Where is Banni Grassland situated?",
+        "type": "MCQ",
+        "options": [
+            "A) Gujarat",
+            "B) Maharashtra",
+            "C) Rajasthan",
+            "D) Himachal Pradesh"
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 56,
+        "question": "Match List-1 and List-2 and give the correct answer with the help of codes given below:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "1. France",
+                "2. USA",
+                "3. South Africa",
+                "4. UK"
+            ],
+            "heading": "List-1"
+        },
+        "listII": {
+            "items": [
+                "A) 11",
+                "B) 12",
+                "C) 09",
+                "D) 02"
+            ],
+            "heading": "List-2"
+        },
+        "options": [
+            "A) (1-A) (2-B) (1-C) (2-D)",
+            "B) (3-A) (4-B) (2-C) (4-D)",
+            "C) (2-A) (1-B) (4-C) (3-D)",
+            "D) (4-A) (3-B) (3-C) (1-D)"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 57,
+        "question": "Which day does the UN observe as International Rural Women\u2019s Day?",
+        "type": "MCQ",
+        "options": [
+            "A) 8 March",
+            "B) 2 October",
+            "C) 15 October",
+            "D) 10 December"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 58,
+        "question": "\u2018Bathukamma\u2019 Festival is related to:",
+        "type": "MCQ",
+        "options": [
+            "A) It is a floral festival of Telangana",
+            "B) New South Wales Parliament, Sydney celebrated this for the first time",
+            "C) It means 'Mother Goddess come Alive'",
+            "D) All of these"
+        ],
+        "subject": "General Knowledge"
+    },
+    {
+        "questionId": 59,
+        "question": "Who propounded the idea of Partyless democracy?",
+        "type": "MCQ",
+        "options": [
+            "A) Jawaharlal Nehru",
+            "B) Veer Savarkar",
+            "C) Indira Gandhi",
+            "D) Jai Prakash Narayan"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 60,
+        "question": "By which Act was an element of the election introduced in India for the first time?",
+        "type": "MCQ",
+        "options": [
+            "A) Indian Council Act, 1861",
+            "B) Indian Council Act, 1892",
+            "C) Government of India Act, 1902",
+            "D) Government of India Act, 1919"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 61,
+        "question": "Match the items in List-1 with List-2 and select the correct answer from the codes given below:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "A) Drain of wealth theory",
+                "B) Swaraj as my birth right",
+                "C) Separate Communal electorate",
+                "D) Entry into legislation"
+            ],
+            "heading": "ListI"
+        },
+        "listII": {
+            "items": [
+                "1. C)R. Das",
+                "2. M. Ali Jinnah",
+                "3. B) G. Tilak",
+                "4. Dadabhai Naoroji"
+            ],
+            "heading": "ListII"
+        },
+        "options": [
+            "A) (A-4) (B-5) (C-3) (D-2)",
+            "B) (A-3) (B-4) (C-1) (D-2)",
+            "C) (A-4) (B-3) (C-2) (D-1)",
+            "D) (A-2) (B-5) (C-3) (D-4)"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 62,
+        "question": "Match List-1 with List-2 and identify the correct answer from the codes given below:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "a. Formation of village panchayat",
+                "b. Uniform civil code",
+                "c. Agriculture and animal husbandry",
+                "d. Separation of judiciary from the executive"
+            ],
+            "heading": "ListI"
+        },
+        "listII": {
+            "items": [
+                "1. Article 50",
+                "2. Article 48",
+                "3. Article 40",
+                "4. Article 44"
+            ],
+            "heading": "ListII"
+        },
+        "options": [
+            "A) (a-3) (b-4) (c-2) (d-1)",
+            "B) (a-4) (b-3) (c-2) (d-1)",
+            "C) (a-2) (b-3) (c-1) (d-4)",
+            "D) (a-1) (b-2) (c-3) (d-4)"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 63,
+        "question": "What constitutes the definition of a money bill under Article 110 of the Indian Constitution?",
+        "type": "MCQ",
+        "options": [
+            "A) The imposition, abolition, alteration in the regulation of any tax",
+            "B) The regulation of borrowings of money",
+            "C) The appropriation of money out of the consolidated fund of India",
+            "D) All of the above"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 64,
+        "question": "Under which article of the Indian Constitution has the amendment process been given?",
+        "type": "MCQ",
+        "options": [
+            "A) 361",
+            "B) 364",
+            "C) 368",
+            "D) 370"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 65,
+        "question": "Which of the following constitutional amendment acts restricted the size of the council of ministers to 15 percent of the total members of the Lok Sabha?",
+        "type": "MCQ",
+        "options": [
+            "A) 89th Constitutional Amendment Act, 2001",
+            "B) 90th Constitutional Amendment Act, 2002",
+            "C) 91st Constitutional Amendment Act, 2003",
+            "D) 93rd Constitutional Amendment Act, 2003"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 66,
+        "question": "What is the security deposit amount that a candidate contesting election for the posts of president and vice-president of India has to tender?",
+        "type": "MCQ",
+        "options": [
+            "A) 25,000 and 20,000 respectively",
+            "B) 20,000 and 15,000 respectively",
+            "C) 20,000 each",
+            "D) 15,000 each"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 67,
+        "question": "Which article of the Indian Constitution mentions the president's power of pardon?",
+        "type": "MCQ",
+        "options": [
+            "A) Article 52",
+            "B) Article 62",
+            "C) Article 72",
+            "D) Article 82"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 68,
+        "question": "In which year was the financial emergency under article 360 imposed in India?",
+        "type": "MCQ",
+        "options": [
+            "A) 1962",
+            "B) 1965",
+            "C) 1971",
+            "D) None of the above"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 69,
+        "question": "Who was a Taluqdar?",
+        "type": "MCQ",
+        "options": [
+            "A) A small cultivator",
+            "B) A large landlord",
+            "C) One who managed religious shrines",
+            "D) One who collected the Jaziah from people"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 70,
+        "question": "Which congress session supported the Swadeshi and boycott movement for Bengal in 1905?",
+        "type": "MCQ",
+        "options": [
+            "A) Calcutta",
+            "B) Belgaum",
+            "C) Karachi",
+            "D) Benaras"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 71,
+        "question": "Who chartered the ship Komagatu Maru for taking Indians to Vancouver?",
+        "type": "MCQ",
+        "options": [
+            "A) Hardit Singh",
+            "B) Mohammad Barakatullah",
+            "C) Ram Chandra",
+            "D) Balwant Singh"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 72,
+        "question": "Consider the following governor-generals and arrange them in chronological order by choosing the correct code:",
+        "type": "statements",
+        "statements": [
+            "i. Lord Lytton",
+            "ii. Lord Curzon",
+            "iii. John Lawrence",
+            "iv. Lord Dufferin"
+        ],
+        "options": [
+            "A) i iii ii iv",
+            "B) i iv iii ii",
+            "C) iii i iv ii",
+            "D) iii iv ii i"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 73,
+        "question": "Who was the president of the moderate faction of the Congress session in Lucknow 1916, who welcomed Tilak and his supporters back into the Congress?",
+        "type": "MCQ",
+        "options": [
+            "A) Ambika Charan Mazumdar",
+            "B) Annie Besant",
+            "C) Abul Kalam Azad",
+            "D) Lajpat Rai"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 74,
+        "question": "As a compromise with the planters, Gandhi agreed that they refund the money they had taken illegally from the peasants. What percentage was being refunded by them?",
+        "type": "MCQ",
+        "options": [
+            "A) 15%",
+            "B) 50%",
+            "C) 75%",
+            "D) 25%"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 75,
+        "question": "In whose Viceroyalty did Gandhi launch the individual Satyagraha and the Quit India Movement, and the Cripps Mission arrived in India?",
+        "type": "MCQ",
+        "options": [
+            "A) Lord Irwin",
+            "B) Marquess of Linlithgow",
+            "C) Lord Wavell",
+            "D) Earl of Wellington"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 76,
+        "question": "Who said that if religion does not sanction social reforms, it should be changed as it is man-made?",
+        "type": "MCQ",
+        "options": [
+            "A) Gopal Hari Deshmukh",
+            "B) Swami Vivekananda",
+            "C) B) G. Tilak",
+            "D) Dadabhai Naoroji"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 77,
+        "question": "Which theory/concept on the 'Origin of Monsoon' states that the monsoons are produced due to differential heating of continents and ocean basins?",
+        "type": "MCQ",
+        "options": [
+            "A) Dynamic concept of Flohn",
+            "B) Thermal concept of Halley",
+            "C) Jet Stream Theory",
+            "D) Air Mass Theory"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 78,
+        "question": "Arrange the following soil types of India from high to low in terms of percent share in total area: A) Black Soil, B) Red Soil, C) Laterite Soil, D) Desert Soil. Select the correct code:",
+        "type": "MCQ",
+        "options": [
+            "A) a-b-c-d",
+            "B) a-c-b-d",
+            "C) b-a-d-c",
+            "D) b-a-c-d"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 79,
+        "question": "Which of the following is the largest tribal group in India?",
+        "type": "MCQ",
+        "options": [
+            "A) Bhils",
+            "B) Gonds",
+            "C) Santhals",
+            "D) Tharus"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 80,
+        "question": "Which of the following pairs is not correct?",
+        "type": "MCQ",
+        "options": [
+            "A) Kalbaisakhi - West Bengal",
+            "B) Mango Showers - Karnataka",
+            "C) Blossom Shower - Kerala",
+            "D) Norwester - Haryana"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 81,
+        "question": "Match the forest types with their percent share in total forest cover of India?",
+        "type": "list",
+        "listI": {
+            "items": [
+                "A) Tropical Evergreen",
+                "B) Subtropical",
+                "C) Tropical Moist Deciduous",
+                "D) Tropical dry deciduous"
+            ],
+            "heading": ""
+        },
+        "listII": {
+            "items": [
+                "1) 37.0%",
+                "2) 28.8%",
+                "3) 12.1%",
+                "4) 9.5%"
+            ],
+            "heading": ""
+        },
+        "options": [
+            "A) (a-1) (b-3) (c-4) (d-2)",
+            "B) (a-3) (b-4) (c-1) (d-2)",
+            "C) (a-3) (b-1) (c-2) (d-4)",
+            "D) (a-3) (b-4) (c-2) (d-1)"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 82,
+        "question": "Which of the following pairs does not match correctly?",
+        "type": "MCQ",
+        "options": [
+            "A) Mahim Bay - Maharashtra",
+            "B) Kori Creek - Gujarat",
+            "C) Mal Bank - Gujarat",
+            "D) Point Calimere - Kerala"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 83,
+        "question": "Match List 1 and List-2 and select the correct answer from the codes given below:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "A) Cape Leuwin",
+                "B) Ozark Plateau",
+                "C) Katanga Plateau",
+                "D) Kamchatka Peninsula"
+            ],
+            "heading": "ListI"
+        },
+        "listII": {
+            "items": [
+                "1. Russia",
+                "2. United States",
+                "3. Australia",
+                "4. Democratic Republic of Congo"
+            ],
+            "heading": "ListII"
+        },
+        "options": [
+            "A) (A-2) (B-3) (C-4) (D-1)",
+            "B) (A-3) (B-2) (C-4) (D-1)",
+            "C) (A-1) (B-3) (C-4) (D-2)",
+            "D) (A-3) (B-2) (C-1) (D-4)"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 84,
+        "question": "Match the following mining regions for which it is famous for:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "A) Carajas",
+                "B) Kalgoorlie",
+                "C) Salobo",
+                "D) Haerwusu"
+            ],
+            "heading": "List-1"
+        },
+        "listII": {
+            "items": [
+                "1. Coal",
+                "2. Copper",
+                "3. Gold",
+                "4. Iron ore"
+            ],
+            "heading": "List-2"
+        },
+        "options": [
+            "A) (A-3) (B-4) (C-1) (D-2)",
+            "B) (A-1) (B-2) (C-3) (D-4)",
+            "C) (A-4) (B-3) (C-1) (D-2)",
+            "D) (A-4) (B-3) (C-2) (D-1)"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 85,
+        "question": "The world\u2019s highest tides occur at which of the following places?",
+        "type": "MCQ",
+        "options": [
+            "A) Bay of Biscay",
+            "B) Miami Coasts",
+            "C) Bay of Fundy",
+            "D) Ungawa Bay"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 86,
+        "question": "Match the following ocean currents with which they are named:",
+        "type": "list",
+        "listI": {
+            "items": [
+                "A) Canary current",
+                "B) Labrador Current",
+                "C) Agulhas Current",
+                "D) Peruvian Current"
+            ],
+            "heading": "List-1"
+        },
+        "listII": {
+            "items": [
+                "1. A Sea Coast",
+                "2. A Country",
+                "3. A Sea",
+                "4. An Island"
+            ],
+            "heading": "List-2"
+        },
+        "options": [
+            "A) (A-1) (B-3) (C-4) (D-2)",
+            "B) (A-3) (B-2) (C-4) (D-1)",
+            "C) (A-4) (B-3) (C-2) (D-1)",
+            "D) (A-4) (B-3) (C-1) (D-2)"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 87,
+        "question": "Which of the following rivers does not cross the equator, tropic of cancer and tropic of Capricorn twice?",
+        "type": "MCQ",
+        "options": [
+            "A) Mahi",
+            "B) Negro",
+            "C) Limpopo",
+            "D) Zaire"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 88,
+        "question": "Which of the following pair does not match correctly?",
+        "type": "MCQ",
+        "options": [
+            "A) Malacca strait \u2013- Andaman sea",
+            "B) Yucatan strait \u2013 Caribbean sea",
+            "C) Sunda strait \u2013 Gulf of Aden",
+            "D) Bass strait \u2014 Tasman sea"
+        ],
+        "subject": "Geography"
+    },
+    {
+        "questionId": 89,
+        "question": "Which one is incorrect regarding sustainable development?",
+        "type": "MCQ",
+        "options": [
+            "A) The development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+            "B) Economic development refers to the flow of goods and services in the economy for a long period of time only.",
+            "C) It is the practice of developing land and construction projects in a manner that reduces their impact on the environment by allowing them to create energy efficient models of self-sufficiency.",
+            "D) To conserve natural resources and to develop alternate sources of power while reducing pollution and harm to the environment."
+        ],
+        "subject": "Environment"
+    },
+    {
+        "questionId": 90,
+        "question": "Sustainable development goals and targets are to be achieved by:",
+        "type": "MCQ",
+        "options": [
+            "A) 2020",
+            "B) 2025",
+            "C) 2030",
+            "D) 2050"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 91,
+        "question": "Which one of the following is not a part of the strategy of a direct attack on poverty?",
+        "type": "MCQ",
+        "options": [
+            "A) Integrated rural development Programme",
+            "B) Family Planning Programme",
+            "C) National Rural Employment Programme",
+            "D) Jawahar Rajgar Yojna"
+        ],
+        "subject": "Political Science"
+    },
+    {
+        "questionId": 92,
+        "question": "Over the years, the government has been following approaches to reduce poverty in India:",
+        "type": "statements",
+        "statements": [
+            "I. Specific Poverty Alleviation Programmes",
+            "II. Growth-oriented development",
+            "III. Meeting the minimum needs of the poor"
+        ],
+        "options": [
+            "A) I and III only",
+            "B) I and II only",
+            "C) II and III only",
+            "D) I, II and III all"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 93,
+        "question": "Poverty gap reflects:",
+        "type": "MCQ",
+        "options": [
+            "A) Gap in infrastructural facilities between developed nations and developing nations",
+            "B) The difference between the poverty line and actual below that line",
+            "C) Gap between developed nations and developing nations",
+            "D) Gap between the rich people and the poor people"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 94,
+        "question": "NITI Aayog's action agenda for enhancing digital connectivity is based on:",
+        "type": "statements",
+        "statements": [
+            "I. Developing software for services that can be provided digitally",
+            "II. Enhancing digital infrastructure",
+            "III. Empowering citizens digitally"
+        ],
+        "options": [
+            "A) I and II only",
+            "B) I and III only",
+            "C) II and III only",
+            "D) I, II and III only"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 95,
+        "question": "Which of the following is not an indicator of economically underdeveloped countries?",
+        "type": "MCQ",
+        "options": [
+            "A) Low per capita income",
+            "B) High rate of population growth",
+            "C) Low proportion of labour force in the primary sector",
+            "D) High level of illiteracy"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 96,
+        "question": "What is/are the objectives of the Competition Commission of India (CCI)?",
+        "type": "statements",
+        "statements": [
+            "I. To ensure freedom of trade carried on by other participants in markets in India.",
+            "II. To protect the interests of consumers.",
+            "III. To promote and sustain competition in markets.",
+            "IV. To prevent practices having an adverse effect on competition."
+        ],
+        "options": [
+            "A) I, II and IV only",
+            "B) I, II and III only",
+            "C) II, III and IV only",
+            "D) I, II, III and IV all"
+        ],
+        "subject": "Economics"
+    },
+    {
+        "questionId": 97,
+        "question": "Which year is known as the year of demographic divide?",
+        "type": "MCQ",
+        "options": [
+            "A) 1901",
+            "B) 1911",
+            "C) 1921",
+            "D) 1931"
+        ],
+        "subject": "History"
+    },
+    {
+        "questionId": 98,
+        "question": "The total fertility rate is:",
+        "type": "MCQ",
+        "options": [
+            "A) The birth of women divided by the total female population",
+            "B) The number of births divided by the total population",
+            "C) The number of children a women will likely bear in her lifetime",
+            "D) The births to women of a given age divided by the total number of women at that age"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 99,
+        "question": "The National Food Security Mission (NFSM) aims to enhance the production of:",
+        "type": "statements",
+        "statements": [
+            "I. Pulses",
+            "II. Vegetables",
+            "III. Rice",
+            "IV. Wheat",
+            "V. Fruits",
+            "VI. Coarse cereals"
+        ],
+        "options": [
+            "A) I, II III and IV only",
+            "B) I, III, IV and VI only",
+            "C) II, IV, V and VI only",
+            "D) III, IV, V and VI only"
+        ],
+        "subject": "Science"
+    },
+    {
+        "questionId": 100,
+        "question": "Which of the following schemes aims at creating 300 rural clusters across India to strengthen financial, job and lifestyle facilities in rural areas?",
+        "type": "MCQ",
+        "options": [
+            "A) Standup India",
+            "B) Deen Dayal Upadhyaya Grameen Kaushal Yojna",
+            "C) Shyama Prasad Mukherji Rurban Mission",
+            "D) Skill India"
+        ],
+        "subject": "Economics"
+    }
+]
