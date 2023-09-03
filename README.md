@@ -1,38 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# UPSC Practice Questions App
+
+Welcome to the UPSC Practice Questions App! This application is designed to assist UPSC (Union Public Service Commission) aspirants in their preparation by providing a platform for practicing questions generated using Artificial Intelligence (AI).
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [AI Question Generation](#ai-question-generation)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+The UPSC Practice Questions App is a web-based platform that leverages AI technology to generate practice questions for UPSC examinations. It offers a user-friendly interface for aspirants to practice and assess their knowledge in various subjects and topics relevant to the UPSC syllabus.
+
+## Features
+
+- **AI-Generated Questions:** The application uses advanced AI algorithms to generate a wide range of practice questions covering diverse topics.
+
+- **User-Friendly Interface:** The intuitive and easy-to-navigate interface ensures a seamless user experience.
+
+- **Topic-Based Practice:** Users can select specific topics or subjects for focused practice.
+
+- **Question Difficulty Levels:** Questions are categorized into different difficulty levels to cater to various levels of aspirants.
+
+- **Practice Mode:** Aspirants can practice questions individually in a timed or untimed mode.
+
+- **Assessment:** The app provides instant feedback and performance metrics to help aspirants track their progress.
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Before you get started with the UPSC Practice Questions App, make sure you have the following prerequisites:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Node.js](https://nodejs.org/) installed on your machine
+- A modern web browser
+- An internet connection
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Installation
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+1. Clone the repository to your local machine:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   ```bash
+   git clone https://github.com/your-username/upsc-practice-questions-app.git
